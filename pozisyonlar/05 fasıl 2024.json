@@ -1,0 +1,614 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"0501.00.00.00.00",
+        "Unnamed: 1":"İnsan saçı (işlenmemiş, yıkanmış veya yağı alınmış olsun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olmasın) ; insan saçı döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"05.02",
+        "Unnamed: 1":"Evcil domuz veya yaban domuzu kılları; porsuk kılları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya fırça imali için diğer kıllar; bu kılların döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0502.10",
+        "Unnamed: 1":" - EvciI domuz veya yaban domuzu kılları ve bunların döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0502.10.00.10.00",
+        "Unnamed: 1":" - - Domuz kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0502.10.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0502.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"(05.03)",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0504.00",
+        "Unnamed: 1":"Tam veya parça halinde hayvan bağırsakları, mesaneleri ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mideleri (balıklara ait olanlar hariç) (taze, soğutulmuş, dondurul -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"muş, tuzlanmış, salamura edilmiş, kurutulmuş veya tütsülenmiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kurutulmuş şirdenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0504.00.00.10.11",
+        "Unnamed: 1":" - - Kuru buzağı şirdeni",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"0504.00.00.10.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0504.00.00.90.10 ",
+        "Unnamed: 1":" - - Bağırsaklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"0504.00.00.90.30",
+        "Unnamed: 1":" - - Kurutulmamış şirdenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"0504.00.00.90.90",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"05.05",
+        "Unnamed: 1":"Kuşların tüylü veya ince tüylü deri ve diğer kısımları, tüyler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve tüy parçaları (kenarları kırpılmış olsun olmasın) ve ince ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tüyler (muhafaza amacıyla işleme, temizleme veya dezenfekte",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"etmeden başka bir işleme tabi tutulmamış); tüy veya tüy parça -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"larının  toz ve döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0505.10",
+        "Unnamed: 1":" - Doldurmada kullanılan tüyler; ince tüyler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0505.10.10.00.00",
+        "Unnamed: 1":" - - İşlenmemiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0505.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0505.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"05.06",
+        "Unnamed: 1":"Kemikler ve boynuz içi kemikleri (işlenmemiş, yağı alınmış,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"basit bir şekilde hazırlanmış fakat şekil verilerek kesilmemiş,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"asitle işlem görmüş veya jelatini alınmış); bunların toz ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0506.10.00.00.00",
+        "Unnamed: 1":" - Asitle işlem görmüş kemik ve kıkırdaklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"0506.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"05.07",
+        "Unnamed: 1":"Fildişi, kaplumbağa kabuğu, balina dişi ve balina dişinin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kılları, boynuzlar,geyik boynuzları,toynaklar,tırnaklar,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pençeler ve gagalar (işlenmemiş veya basit bir şekilde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hazırlanmış, fakat şekil verilerek kesilmemiş); bunların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"toz ve döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0507.10.00.00.00",
+        "Unnamed: 1":" - Fildişi ; fildişi tozu ve döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"0507.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0507.90.00.00.11",
+        "Unnamed: 1":" - - Boynuzlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"0507.90.00.00.12",
+        "Unnamed: 1":" - - Tırnaklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"0507.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0508.00",
+        "Unnamed: 1":"Mercan ve benzeri maddeler(işlenmemiş veya basit bir şekilde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hazırlanmış,fakat başka bir işlem görmemiş); yumuşakça,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kabuklu hayvan veya kabuğu dikenli hayvanların kabukları ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mürekkep balığı kemiği (işlenmemiş veya basit bir şekilde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hazırlanmış, fakat şekil verilerek kesilmemiş); bunların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"toz ve döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0508.00.10.00.00",
+        "Unnamed: 1":" - Kırmızı Mercan (Corallium rubrum)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"0508.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"(05.09)",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0510.00",
+        "Unnamed: 1":" Akamber, kunduz hayası (kastoreum), kedi miski (sivet) ve misk;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" kuduz böceği (kantarit) ve safra (kurutulmuş olsun olmasın);",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" eczacılık ürünlerinin hazırlanmasında kullanılan guddeler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" ve diğer hayvansal maddeler (taze, soğutulmuş, dondurulmuş ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" veya geçici olarak diğer şekillerde konserve edilmiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0510.00.00.10.00",
+        "Unnamed: 1":" - Kantarit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0510.00.00.90.11",
+        "Unnamed: 1":" - - Safra (kurutulmuş olsun olmasın )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0510.00.00.90.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"05.11",
+        "Unnamed: 1":"Tarifenin başka yerinde belirtilmeyen veya yer almayan hayvan-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" sal menşeli ürünler; insanların yemesine elverişli  olmayan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" 1. veya 3. fasıllarda yer alan cansız hayvanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0511.10.00.00.00",
+        "Unnamed: 1":" - Sığır spermleri                                                     ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0511.91",
+        "Unnamed: 1":" - - Balık,kabuklu hayvan,yumuşakça veya diğer su",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     omurgasızlarının ürünleri; 3.fasılda yer alan cansız hayvanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0511.91.10.00.00",
+        "Unnamed: 1":" - - - Balık döküntüleri                                                  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri                                                                    ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0511.91.90.00.11",
+        "Unnamed: 1":" - - - - Alabalık yumurtası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0511.91.90.00.19",
+        "Unnamed: 1":" - - - - Diğerleri                                                                    ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0511.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0511.99.10.00.00",
+        "Unnamed: 1":" - - - Veterler ve tendonlar; dabaklanmamış derilerin kırpıntı ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        benzeri döküntüleri                                                                           ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Hayvansal menşeli tabii süngerler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0511.99.31.00.00",
+        "Unnamed: 1":" - - - - İşlenmemiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0511.99.39.00.00",
+        "Unnamed: 1":" - - - - Diğerleri                                                                            ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0511.99.85.10.00",
+        "Unnamed: 1":" - - - - İpek böceği yumurtaları                                                    ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"0511.99.85.20.00",
+        "Unnamed: 1":" - - - - At kılı ve at kılı döküntüleri (başka  maddelerin yardımıyla veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"         müstakilen tabakalar halinde olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri                                                                            ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0511.99.85.90.11",
+        "Unnamed: 1":" - - - - - Hayvan kanı (kurutulmuş olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0511.99.85.90.12",
+        "Unnamed: 1":" - - - - - Kırmız böceği (ochenille) ve benzeri böcekler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0511.99.85.90.13",
+        "Unnamed: 1":" - - - - - Hayvan yemi yapımında kullanılacak sakatatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0511.99.85.90.18",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    }
+]

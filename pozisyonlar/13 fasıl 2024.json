@@ -1,0 +1,428 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"13.01",
+        "Unnamed: 1":"Lak; tabii sakızlar, reçineler ve sakız reçineler ve  yağ reçineler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(pelesenkler gibi):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1301.20.00.00.00",
+        "Unnamed: 1":" - Arap zamkı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"1301.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1301.90.00.10.00",
+        "Unnamed: 1":" - -  Günlük",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Saluz adası mastikası (Pistacia lentiscus cinsi ağaçların mastikası) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1301.90.00.21.00",
+        "Unnamed: 1":" - - - - Tababette kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1301.90.00.29.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Zamk ve sakız reçineleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1301.90.00.31.00",
+        "Unnamed: 1":" - - - - Tababette kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1301.90.00.39.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1301.90.00.41.00",
+        "Unnamed: 1":" - - - - Lak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1301.90.00.91.00",
+        "Unnamed: 1":" - - - - - Tababette kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1301.90.00.99.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"13.02",
+        "Unnamed: 1":"Bitkisel özsu ve hülasalar; pektik maddeler, pektinatlar ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pektatlar; agar -agar , bitkisel ürünlerden elde edilen yapışkan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sıvılar ve kıvam verici maddeler (tadil edilmiş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bitkisel özsu ve hülasalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.11",
+        "Unnamed: 1":" - - Afyon:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.11.00.10.00",
+        "Unnamed: 1":" - - - İlaç sanayiinde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1302.11.00.90.11",
+        "Unnamed: 1":" - - - - Haşhaş sapı konsantresi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.11.00.90.12",
+        "Unnamed: 1":" - - - - Afyon",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.12.00.00.00",
+        "Unnamed: 1":" - - Meyan kökünden elde edilenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.13.00.00.00",
+        "Unnamed: 1":" - - Şerbetçi otundan elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.14.00.00.00",
+        "Unnamed: 1":" - - Efedra (Ephedra) bitkisinden elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1302.19.05.00.00",
+        "Unnamed: 1":" - - - Vanilya yağ reçineleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.19.70.10.00",
+        "Unnamed: 1":" - - - - İlaç sanayiinde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.19.70.91.00",
+        "Unnamed: 1":" - - - - - Pire otundan veya rotenon içeren bitkilerin köklerinden elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.19.70.99.10",
+        "Unnamed: 1":" - - - - - - Stevia bitkisinden elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.19.70.99.90",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.20",
+        "Unnamed: 1":" - Pektik maddeler, pektinatlar ve pektatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Kuru halde olanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.20.10.10.00",
+        "Unnamed: 1":" - - - Pektik maddeler (pektinler)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.20.10.90.11",
+        "Unnamed: 1":" - - - - Pektinatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.20.10.90.12",
+        "Unnamed: 1":" - - - - Pektatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.20.90.10.00",
+        "Unnamed: 1":" - - - Pektik maddeler (pektinler)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.20.90.90.11",
+        "Unnamed: 1":" - - - - Pektinatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.20.90.90.12",
+        "Unnamed: 1":" - - - - Pektatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bitkisel ürünlerden elde edilen yapışkan sıvılar ve kıvam",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   verici maddeler (tadil edilmiş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.31",
+        "Unnamed: 1":" - - Agar-agar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.31.00.10.00",
+        "Unnamed: 1":" - - -  Eterifiye veya esterifiye edilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1302.31.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.32",
+        "Unnamed: 1":" - - Keçi boynuzundan, keçi boynuzu tohumlarından ve Siyam",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     baklası tohumlarından elde edilen yapışkan sıvılar ve kıvam",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     verici maddeler (tadil edilmiş olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Keçiboynuzundan ve keçiboynuzu tohumlarından elde edilenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.32.10.10.00",
+        "Unnamed: 1":" - - - - Eterifiye veya esterifiye edilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1302.32.10.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Siyam baklası tohumlarından elde edilenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.32.90.10.00",
+        "Unnamed: 1":" - - - - Eterifiye veya esterifiye edilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1302.32.90.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1302.39",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1302.39.00.10.00",
+        "Unnamed: 1":" - - -  Eterifiye veya esterifiye edilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1302.39.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    }
+]

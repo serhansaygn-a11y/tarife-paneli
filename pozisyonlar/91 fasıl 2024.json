@@ -1,0 +1,866 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"91.01",
+        "Unnamed: 1":"Kol saatleri, cep saatleri ve diğer saatler (zaman ölçen sayaçlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dahil) (zarfları kıymetli metaller veya kıymetli metallerle kaplama ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"metallerden olanlar) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Elektrikle çalışan kol saatleri (zaman ölçen sayaçlı olsun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9101.11.00.00.00",
+        "Unnamed: 1":" - - Sadece mekanik göstergesi olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9101.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer kol saatleri (zaman ölçen sayaçlı olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9101.21.00.00.00",
+        "Unnamed: 1":" - - Otomatik kurmalı olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9101.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9101.91",
+        "Unnamed: 1":" - - Elektrikle çalışanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9101.91.00.00.11",
+        "Unnamed: 1":" - - - Cep saatleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9101.91.00.00.12",
+        "Unnamed: 1":" - - - Kronometreler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9101.91.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9101.99",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9101.99.00.00.11",
+        "Unnamed: 1":" - - - Cep saatleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9101.99.00.00.12",
+        "Unnamed: 1":" - - - Kronometreler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9101.99.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.02",
+        "Unnamed: 1":"Kol saatleri, cep saatleri ve diğer saatler (zaman ölçen sayaçları ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dahil) (91.01 pozisyonundakiler hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Elektrikle çalışan kol saatleri (zaman ölçen sayaçlı olsun ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9102.11.00.00.00",
+        "Unnamed: 1":" - - Sadece mekanik göstergesi olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.12.00.00.00",
+        "Unnamed: 1":" - - Sadece opto-elektronik göstergesi olanlar (dijital)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer kol saatleri (zaman ölçen sayaçlı olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9102.21.00.00.00",
+        "Unnamed: 1":" - - Otomatik kurmalı olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9102.91",
+        "Unnamed: 1":" - - Elektrikle çalışanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9102.91.00.00.11",
+        "Unnamed: 1":" - - - Cep saatleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.91.00.00.12",
+        "Unnamed: 1":" - - - Kronometreler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.91.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.99",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9102.99.00.00.11",
+        "Unnamed: 1":" - - - Cep saatleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.99.00.00.12",
+        "Unnamed: 1":" - - - Kronometreler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9102.99.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.03",
+        "Unnamed: 1":"Saat makinalı duvar saatleri ve çalar saatler( 91.04 pozisyonundaki",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"saatler hariç ):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9103.10",
+        "Unnamed: 1":" - Elektrikle çalışanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9103.10.00.10.00",
+        "Unnamed: 1":" - - Çalar saatler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9103.10.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9103.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9103.90.00.10.00",
+        "Unnamed: 1":" - - Çalar saatler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9103.90.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9104.00",
+        "Unnamed: 1":"Motorlu kara nakil vasıtalarının, uçakların, uzay araçlarının, gemilerin ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya diğer nakil vasıtaIarının alet tablolarına mahsus saatler ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve benzerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9104.00.00.00.11",
+        "Unnamed: 1":" - Elektrikli veya elektronik olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9104.00.00.00.19",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.05",
+        "Unnamed: 1":"Diğer saatler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Çalar saatler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9105.11.00.00.00",
+        "Unnamed: 1":" - - Elektrikle çalışanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9105.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Duvar saatleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9105.21.00.00.00",
+        "Unnamed: 1":" - - Elektrikle çalışanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9105.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9105.91.00.00.00",
+        "Unnamed: 1":" - - Elektrikle çalışanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9105.99.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.06",
+        "Unnamed: 1":"Saat makinalı veya senkron motorlu zaman kontrol cihazları ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"zaman sayaçları (devam kaydeden cihazlar, tarih ve saat kayde-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dici cihazlar gibi) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9106.10.00.00.00",
+        "Unnamed: 1":" - Devam kaydedici cihazlar; tarih ve saat kaydedici cihazlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9106.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9107.00",
+        "Unnamed: 1":"Belirli bir zamanda bir mekanizmayı harekete geçirmeyi sağlayan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"saat makinalı veya senkron motorlu cihazlar (saat ayarlanışına ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"göre duran cihazlar ve diğer cihazlar)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9107.00.00.00.11",
+        "Unnamed: 1":"- Elektrikli veya elektronik olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9107.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.08",
+        "Unnamed: 1":"Cep veya kol saati makinaları (tamamlanmış veya birleştirilmiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Elektrikle çalışanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9108.11.00.00.00",
+        "Unnamed: 1":" - - Sadece mekanik göstergeli veya mekanik göstergenin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      birleştirilebildiği bir tertibata sahip olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9108.12.00.00.00",
+        "Unnamed: 1":" - - Sadece opto-elektronik göstergeli olanlar (dijital)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9108.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9108.20.00.00.00",
+        "Unnamed: 1":" - Otomatik kurmalı olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9108.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.09",
+        "Unnamed: 1":"Diğer saat makinaları (tamamlanmış ve birleştirilmiş) (cep ve kol",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"saatleri hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9109.10.00.00.00",
+        "Unnamed: 1":" - Elektrikle çalışanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9109.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.10",
+        "Unnamed: 1":"Tamamlanmış saat makinaları (birleştirilmemiş veya kısmen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"birleştirilmiş) (şablonlar); tamamlanmamış saat makinaları (birleş-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tirilmiş); saat makinalarının taslakları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Cep veya koI saatlerine ait olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9110.11",
+        "Unnamed: 1":" - - Tamamlanmış makinalar (birleştirilmemiş veya kısmen birleş -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     tirilmiş) (şablonlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9110.11.10.00.00",
+        "Unnamed: 1":" - - - Spiral rakkaslı olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9110.11.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9110.12.00.00.00",
+        "Unnamed: 1":" - - Tamamlanmamış makinalar (birleştirilmiş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9110.19.00.00.00",
+        "Unnamed: 1":" - - Taslaklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9110.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.11",
+        "Unnamed: 1":"Saatlerin zarfları ve bunların aksam ve parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9111.10.00.00.00",
+        "Unnamed: 1":" - Kıymetli metallerden veya kıymetli metallerle kaplama metaller-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   den zarflar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9111.20.00.00.00",
+        "Unnamed: 1":" - Adi metallerden zarflar (altın veya gümüşle kaplanmış olsun ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9111.80.00.00.00",
+        "Unnamed: 1":" - Diğer zarflar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9111.90.00.00.00",
+        "Unnamed: 1":" - Aksam ve parçalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.12",
+        "Unnamed: 1":"Masa ve duvar saatlerinin zarfları ve bu fasıldaki eşyaya ait benzeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"zarflar ve bunların aksam ve parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9112.20.00.00.00",
+        "Unnamed: 1":" - Zarflar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9112.90.00.00.00",
+        "Unnamed: 1":" - Aksam ve parçalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.13",
+        "Unnamed: 1":"Saat kayışları ve bunların aksam ve parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9113.10",
+        "Unnamed: 1":" - Kıymetli metallerden veya kıymetli metallerle kaplama ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   metallerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9113.10.10.00.00",
+        "Unnamed: 1":" - - Kıymetli metallerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"9113.10.90.00.00",
+        "Unnamed: 1":" - - Kıymetli metallerle kaplama metallerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"9113.20",
+        "Unnamed: 1":" - Adi metallerden olanlar (altın veya gümüşle kaplanmış olsun ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   olmasın)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9113.20.00.00.11",
+        "Unnamed: 1":" - - Altınla kaplanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9113.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9113.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9113.90.00.10.00",
+        "Unnamed: 1":" - - Tabii, suni veya terkip yoluyla elde edilen deriden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"9113.90.00.20.00",
+        "Unnamed: 1":" - - Mensucattan mamul olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9113.90.00.30.00",
+        "Unnamed: 1":" - - İnci, kıymetli taş; sentetik veya terkip yoluyla elde edilen taşlardan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        mamul olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"9113.90.00.40.00",
+        "Unnamed: 1":" - - Plastik maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"9113.90.00.90.00",
+        "Unnamed: 1":" - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"91.14",
+        "Unnamed: 1":"Diğer saat aksamı :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9114.30.00.00.00",
+        "Unnamed: 1":" - Kadranlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9114.40.00.00.00",
+        "Unnamed: 1":" - Tablalar ve köprüler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9114.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9114.90.10.00.00",
+        "Unnamed: 1":" - - Yaylar (zemberekler dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"9114.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    }
+]

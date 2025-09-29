@@ -1,0 +1,1190 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"76.01",
+        "Unnamed: 1":"İşlenmemiş aluminyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7601.10",
+        "Unnamed: 1":" - Alaşımsız aluminyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7601.10.10.00.00",
+        "Unnamed: 1":" - - Dilimler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"7601.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"7601.20",
+        "Unnamed: 1":" - Aluminyum alaşımları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7601.20.30.00.00",
+        "Unnamed: 1":" - - Dilimler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"7601.20.40.00.00",
+        "Unnamed: 1":" - - Kütükler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"7601.20.80.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7602.00",
+        "Unnamed: 1":"Aluminyum döküntü ve hurdaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Döküntüler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7602.00.11.00.00",
+        "Unnamed: 1":" - - Torna talaşı, freze talaşı, kıymıklar, öğütme artıkları, testere talaşı  ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      eğe talaşı; boyanmış, kaplanmış veya yapıştırılmış ince yaprak ve şe-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ritlerin döküntüleri (mesnetleri hariç kalınlığı 0,2 mm.yi geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"7602.00.19.00.00",
+        "Unnamed: 1":" - - Diğerleri (imalat ıskartaları dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"7602.00.90.00.00",
+        "Unnamed: 1":" - Hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.03",
+        "Unnamed: 1":"Aluminyum tozları ve ince pullar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7603.10.00.00.00",
+        "Unnamed: 1":" - Pul bünyeli olmayan tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"7603.20",
+        "Unnamed: 1":" - Pul bünyeli tozlar, ince pullar :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7603.20.00.00.11",
+        "Unnamed: 1":" - - Pul bünyeli tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"7603.20.00.00.12",
+        "Unnamed: 1":" - - İnce pullar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.04",
+        "Unnamed: 1":"Aluminyumdan çubuklar ve profiller:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7604.10",
+        "Unnamed: 1":" - Alaşımsız aluminyumdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7604.10.10.00.00",
+        "Unnamed: 1":" - - Çubuklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7604.10.90.00.00",
+        "Unnamed: 1":" - - Profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Aluminyum alaşımlarından:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7604.21.00.00.00",
+        "Unnamed: 1":" - - İçi boş profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7604.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7604.29.10.00.00",
+        "Unnamed: 1":" - - - Çubuklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7604.29.90.00.00",
+        "Unnamed: 1":" - - - Profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.05",
+        "Unnamed: 1":"Aluminyum teller:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Alaşımsız aluminyumdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7605.11.00.00.00",
+        "Unnamed: 1":" - - Enine kesitinin en geniş yeri 7mm.yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7605.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Aluminyum alaşımlarından olanlar:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7605.21.00.00.00",
+        "Unnamed: 1":" - - Enine kesitinin en geniş yeri 7mm.yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7605.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.06",
+        "Unnamed: 1":"Aluminyum saclar, levhalar, şeritler (kalınlığı 0,2 mm. yi geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Dikdörtgen (kare dahil) şeklinde olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.11",
+        "Unnamed: 1":" - - Alaşımsız aluminyumdan:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.11.30.00.00",
+        "Unnamed: 1":" - - - Aluminyum kompozit paneller",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.11.50.00.00",
+        "Unnamed: 1":" - - - - Boyanmış, verniklenmiş veya plastik maddeyle kaplanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.11.91.00.00",
+        "Unnamed: 1":" - - - - - Kalınlığı 3 mm. den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.11.93.00.00",
+        "Unnamed: 1":" - - - - - Kalınlığı 3 mm. veya daha fazla, fakat 6 mm. den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.11.99.00.00",
+        "Unnamed: 1":" - - - - - Kalınlığı 6 mm. veya daha fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.12",
+        "Unnamed: 1":" - - Aluminyum alaşımlarından:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İçecek kutularına ait gövde, alt ve üst kapak imalinde kullanılanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.12.11.00.00",
+        "Unnamed: 1":" - - - - Gövde imalinde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.12.19.00.00",
+        "Unnamed: 1":" - - - - Alt ve üst kapak imalinde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.12.30.00.00",
+        "Unnamed: 1":" - - - Aluminyum kompozit paneller",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.12.50.00.00",
+        "Unnamed: 1":" - - - - Boyanmış, verniklenmiş veya plastik maddeyle kaplanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.12.92.00.00",
+        "Unnamed: 1":" - - - - - Kalınlığı 3 mm. den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.12.93.00.00",
+        "Unnamed: 1":" - - - - - Kalınlığı 3 mm. veya daha fazla, fakat 6 mm. den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.12.99.00.00",
+        "Unnamed: 1":" - - - - - Kalınlığı 6 mm. veya daha fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7606.91.00.00.00",
+        "Unnamed: 1":" - - Alaşımsız aluminyumdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7606.92.00.00.00",
+        "Unnamed: 1":" - - Aluminyum alaşımlarından olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.07",
+        "Unnamed: 1":"Aluminyumdan yapraklar ve şeritler (baskılı veya baskısız, kağıt, ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"karton, plastik maddeler veya benzerlerinden bir mesnet üzerine",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tesbit edilmiş olsun olmasın) (mesnedi hariç kalınlığı 0,2 mm. yi ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Mesnetsiz olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7607.11",
+        "Unnamed: 1":" - - Haddelenmiş fakat daha ileri bir işleme tabi tutulmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Kalınlığı 0,021 mm. den az olanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7607.11.11.00.00",
+        "Unnamed: 1":" - - - - Ağırlığı 10 kg'yi geçmeyen rulolar halinde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7607.11.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7607.11.90.00.00",
+        "Unnamed: 1":" - - - Kalınlığı 0,021 mm. veya daha fazla,fakat 0,2 mm. yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7607.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7607.19.10.00.00",
+        "Unnamed: 1":" - - - Kalınlığı 0,021 mm. den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7607.19.90.00.00",
+        "Unnamed: 1":" - - - Kalınlığı 0,021 mm. veya daha fazla,fakat 0,2 mm. yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7607.20",
+        "Unnamed: 1":" - Mesnetli olanlar:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7607.20.10.00.00",
+        "Unnamed: 1":" - - Mesnedi hariç kalınlığı 0,021 mm. den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Mesnedi hariç kalınlığı 0,021 mm. veya daha fazla, fakat 0,2 mm.yi geç-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     meyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7607.20.91.00.00",
+        "Unnamed: 1":" - - - Aluminyum kompozit paneller",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7607.20.99.00.21",
+        "Unnamed: 1":" - - - - Kendinden yapışkanlı bantlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7607.20.99.00.29",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.08",
+        "Unnamed: 1":"Aluminyumdan ince ve kalın borular:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7608.10",
+        "Unnamed: 1":" - Alaşımsız aluminyumdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların naklinde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      kullanılan türden, bağlantı parçaları takılmış olanlar  :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7608.10.00.10.11",
+        "Unnamed: 1":" - - - Dikişli ince ve kalın borular",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7608.10.00.10.12",
+        "Unnamed: 1":" - - - Dikişsiz ince ve kalın borular",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7608.10.00.90.11",
+        "Unnamed: 1":" - - - Dikişli ince ve kalın borular",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7608.10.00.90.12",
+        "Unnamed: 1":" - - - Dikişsiz ince ve kalın borular",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7608.20",
+        "Unnamed: 1":" - Aluminyum alaşımlarından:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Dikişli ince ve kalın borular:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7608.20.20.10.00",
+        "Unnamed: 1":" - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      naklinde kullanılan türden, bağlantı parçaları takılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7608.20.20.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ekstrüzyondan daha ileri bir işlem görmemiş olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7608.20.81.10.00",
+        "Unnamed: 1":" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        naklinde kullanılan türden, bağlantı parçaları takılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7608.20.81.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7608.20.89.10.00",
+        "Unnamed: 1":" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"         naklinde kullanılan türden, bağlantı parçaları takılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7608.20.89.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7609.00.00.00.00",
+        "Unnamed: 1":"Aluminyum  boru bağlantı parçaları (rakorlar, dirsekler, manşonlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve benzerleri)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.10",
+        "Unnamed: 1":"Aluminyum inşaat ve inşaat aksamı (köprüler, köprü aksamı, kuleler,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pilonlar, ayaklar, sütunlar, inşaat iskeleleri, çatılar, kapılar,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pencereler ve bunların çerçeveleri ve kapı eşikleri,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"korkuluklar, parmaklıklar gibi) (94.06 pozisyonundaki prefabrik",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"inşaatlar hariç); inşaatta kullanılmak üzere hazırlanmış aluminyum",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"saclar, çubuklar,profiller, borular ve benzerleri) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7610.10",
+        "Unnamed: 1":" - Kapılar, pencereler, kapı ve pencere çerçeveleri ile  kapı eşikleri: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7610.10.00.00.11",
+        "Unnamed: 1":" - - Soğuk hava depolarına mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet (1)",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7610.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet (1)",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7610.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Köprüler ve köprü aksamı, kuleler, pilonlar :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7610.90.10.00.11",
+        "Unnamed: 1":" - - - Köprüler ve köprü aksamı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7610.90.10.00.12",
+        "Unnamed: 1":" - - - Kuleler ve pilonlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7610.90.90.00.12",
+        "Unnamed: 1":" - - - Sandviç panel",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7610.90.90.00.18",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7611.00",
+        "Unnamed: 1":"Her türlü madde için (sıkıştırılmış veya sıvılaştırılmış gaz hariç)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hacmi 300 litreyi geçen ve mekanik veya termik tertibatı bulunmayan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"aluminyum depolar, sarnıçlar, küvler ve benzeri kaplar (ısıyı izole",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edici veya iç yüzeyleri kaplanmış olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7611.00.00.10.00",
+        "Unnamed: 1":" - Eşyanın taşınmasında veya ambalajlanmasında kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45.0
+    },
+    {
+        "Unnamed: 0":"7611.00.00.90.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.12",
+        "Unnamed: 1":"Her tür madde için (sıkıştırılmış veya sıvılaştırılmış gaz hariç) hacmi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"300 litreyi geçmeyen ve mekanik veya termik tertibatı bulunmayan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"aluminyum depolar, fıçılar, variller, bidonlar ve benzeri kaplar (tüp",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"şeklinde sert veya esnek kaplar dahil) (ısıyı izole edici veya iç ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yüzeyleri kaplanmış olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7612.10.00.00.00",
+        "Unnamed: 1":" - Tüp şeklinde esnek kaplar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45.0
+    },
+    {
+        "Unnamed: 0":"7612.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7612.90.20.00.00",
+        "Unnamed: 1":" - - Aerosollerde kullanılacak türdeki kaplar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7612.90.30.00.00",
+        "Unnamed: 1":" - - Kalınlığı 0.2 mm yi geçmeyen yapraklardan elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7612.90.80.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7613.00.00.00.00",
+        "Unnamed: 1":"Sıkıştırılmış veya sıvılaştırılmış gaz için aluminyum kaplar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.14",
+        "Unnamed: 1":"Aluminyumdan demetlenmiş teller, kablolar, örme halatlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve benzerleri (elektrik için izole edilmemiş olanlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7614.10.00.00.00",
+        "Unnamed: 1":" - Çelik özlü olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"7614.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.15",
+        "Unnamed: 1":"Aluminyumdan sofra, mutfak ve diğer ev işlerinde kullanılan eşya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ile sağlığı koruyucu eşya ve bunların aksamı; aluminyumdan sün-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"gerler, temizlik veya parlatma işlerinde kullanılan eşya, eldivenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve benzerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7615.10",
+        "Unnamed: 1":" - Sofra, mutfak ve diğer ev işlerinde kullanılan eşya ve bunların ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   aksamı; süngerler, temizlik veya parlatma işlerinde kullanılan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   eşya, eldivenler ve benzerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7615.10.10.00.00",
+        "Unnamed: 1":" - - Döküm olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"7615.10.30.00.00",
+        "Unnamed: 1":" - - Kalınlığı 0.2 mm yi geçmeyen yapraklardan elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"7615.10.80.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"7615.20",
+        "Unnamed: 1":" - Sağlığı koruyucu eşya ve aksamı :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7615.20.00.00.11",
+        "Unnamed: 1":" - - Sağlığı koruyucu eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"7615.20.00.00.15",
+        "Unnamed: 1":" - - Sağlığı koruyucu eşyanın aksamı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"76.16",
+        "Unnamed: 1":"Aluminyumdan diğer eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7616.10",
+        "Unnamed: 1":" - Aluminyumdan küçük ve büyük çiviler, yivli çiviler (83.05",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   pozisyonundakiler hariç), vidalar, civatalar, somunlar, çengelli",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   vida, perçin çivileri,pimler, kamalar, kama pimleri, rondelalar ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   benzeri eşya :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7616.10.00.00.11",
+        "Unnamed: 1":" - - Kütle halinde kesilmiş olan ve sap kalınlığı veya delik çapı 6 mm. yi ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      geçmeyen vidalar, somunlar, perçin çivileri ve rondelalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7616.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7616.91.00.00.00",
+        "Unnamed: 1":" - -  Aluminyum tellerden mensucat, örgüler ve kafeslikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7616.99",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7616.99.10.00.00",
+        "Unnamed: 1":" - - - Döküm olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7616.99.90.10.00",
+        "Unnamed: 1":" - - - - Metal depluvayye",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45.0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7616.99.90.90.11",
+        "Unnamed: 1":" - - - - - İplik ve dokuma sanayi için masuralar, makaralar, bobinler ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"            benzeri mesnetler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7616.99.90.90.12",
+        "Unnamed: 1":" - - - - - Fotoğraf ve sinema filmleri ve pelikülleri veya 85.23 veya 85.24 ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"            pozisyonlarına giren bantlar, filmler ve benzerlerinin sarılmasına",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            mahsus bobinler ve benzeri mesnetler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7616.99.90.90.13",
+        "Unnamed: 1":" - - - - - Zincirler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"7616.99.90.90.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(1) Kapı veya pencere, çerçeve veya eşikleri bulunsun bulunmasın tek parça olarak değerlendirilir",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    }
+]

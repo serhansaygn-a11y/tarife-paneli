@@ -1,0 +1,986 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"4201.00.00.00.00",
+        "Unnamed: 1":"Her tür hayvan için saraciye eşyası, eyer ve koşum takımları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(koşum kayışları, yularlar, dişlikler, burunsalıklar, eyer örtüleri,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"eyer torbaları, köpek elbiseleri ve benzerleri) (imal edildiği ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"madde ne olursa olsun)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"42.02",
+        "Unnamed: 1":"Sandıklar, bavullar, valizler, makyaj valizleri, evrak-iş çantaları, okul çantaları,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"gözlük kılıfları, dürbün mahfazaları, fotoğraf makinası mahfazası,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"müzik aletleri mahfazaları, silah ve tabanca mahfazaları ve benzeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mahfazalar; tabii veya terkip yoluyla elde edilen deri ve köseleden,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"plastik madde yapraklarından, dokumaya elverişli maddelerden,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"vulkanize edilmiş liflerden, kartondan yapılmış veya tamamen yahut",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kısmen bu maddelerle veya kağıtla kaplanmış seyahat çantaları, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"izole edilmiş yiyecek veya içecek torbaları, tuvalet çantaları,sırt çantaları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"el çantaları, erzak çantaları,portföyler, para keseleri, harita ve kimlik  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mahfazaları, sigara kutuları, tabaka ve tütün kese ve kutuları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"takım çantaları, spor çantaları, şişe mahfazaları, mücevher kutuları,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" pudra -baharat -barut kutuları, bıçak kılıfları ve benzeri mahfazalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Sandıklar, bavullar, valizler, evrak çantaları, okul çantaları ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   benzeri mahfazalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.11",
+        "Unnamed: 1":" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     den veya rugandan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Evrak çantaları, okul çantaları ve benzeri mahfazalar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.11.10.00.11",
+        "Unnamed: 1":" - - - - Tabii deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.11.10.00.12",
+        "Unnamed: 1":" - - - - Terkip yoluyla elde edilen deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.11.10.00.13",
+        "Unnamed: 1":" - - - - Rugandan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.11.90.00.11",
+        "Unnamed: 1":" - - - - Tabii deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.11.90.00.12",
+        "Unnamed: 1":" - - - - Terkip yoluyla elde edilen deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.11.90.00.13",
+        "Unnamed: 1":" - - - - Rugandan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.12",
+        "Unnamed: 1":" - - Dış yüzleri plastikten veya dokumaya elverişli maddelerden",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Plastik madde yapraklarından yapılmış olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.12.11.00.00",
+        "Unnamed: 1":" - - - - Evrak çantaları,okul çantaları ve benzeri mahfazalar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.12.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.12.50.00.00",
+        "Unnamed: 1":" - - - Kalıplanmış plastik maddelerden yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğer maddelerden yapılmış olanlar (vulkanize edilmiş liflerden ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        yapılmış olanlar dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Evrak çantaları, okul çantaları ve benzeri mahfazalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.12.91.10.00",
+        "Unnamed: 1":" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.12.91.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.12.99.10.00",
+        "Unnamed: 1":" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.12.99.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.19",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.19.10.00.00",
+        "Unnamed: 1":" - - - Aluminyumdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğer maddelerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.19.90.10.00",
+        "Unnamed: 1":" - - - - Ahşaptan veya nikelden olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4202.19.90.30.00",
+        "Unnamed: 1":" - - - - Demir döküm ,demir veya çelikten veya çinkodan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4202.19.90.50.00",
+        "Unnamed: 1":" - - - - Bakırdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4202.19.90.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - El çantaları (omuzda taşımak için kayışları olsun olmasın) (sapsız",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   olanlar dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.21.00.00.00",
+        "Unnamed: 1":" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     den veya rugandan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.22",
+        "Unnamed: 1":" - - Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"     elverişli maddelerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.22.10.00.00",
+        "Unnamed: 1":" - - - Plastikten mamul madde yapraklarından yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Dokumaya elverişli maddelerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.22.90.10.00",
+        "Unnamed: 1":" - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.22.90.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Normal olarak cepte veya el çantasında taşınan eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.31.00.00.00",
+        "Unnamed: 1":" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     den veya rugandan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.32",
+        "Unnamed: 1":" - - Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     elverişli maddelerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.32.10.00.00",
+        "Unnamed: 1":" - - - Plastikten mamul madde yapraklarından yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Dokumaya elverişli maddelerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.32.90.10.00",
+        "Unnamed: 1":" - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.32.90.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.39",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.39.00.10.00",
+        "Unnamed: 1":" - - - Aluminyumdan, demir döküm veya çelikten veya çinkodan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4202.39.00.20.00",
+        "Unnamed: 1":" - - - Ahşap olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70.0
+    },
+    {
+        "Unnamed: 0":"4202.39.00.30.00",
+        "Unnamed: 1":" - - - Bakırdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4202.39.00.40.00",
+        "Unnamed: 1":" - - - Nikelden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4202.39.00.50.00",
+        "Unnamed: 1":" - - - İşlenmiş bağa, sedef, fildişi, kemik, her nevi boynuz, mercan (tabii ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        veya aglomere edilmiş) ve yontulmaya elverişli diğer hayvansal ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.39.00.60.00",
+        "Unnamed: 1":" - - - İşlenmiş yontulmaya elverişli bitkisel ve mineral maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.39.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.91",
+        "Unnamed: 1":" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     den veya rugandan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Seyahat çantaları, tuvalet çantaları, sırt çantaları, spor çantaları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.91.10.00.11",
+        "Unnamed: 1":" - - - - Tabii deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.91.10.00.12",
+        "Unnamed: 1":" - - - - Terkip yoluyla elde edilen  deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.91.10.00.13",
+        "Unnamed: 1":" - - - - Rugandan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.91.80.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.92",
+        "Unnamed: 1":" - - Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     elverişli maddelerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Plastikten mamul madde yapraklarından yapılmış olanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.92.11.00.00",
+        "Unnamed: 1":" - - - - Seyahat çantaları, tuvalet çantaları, sırt çantaları,spor çantaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.92.15.00.00",
+        "Unnamed: 1":" - - - - Müzik aletleri mahfazaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.92.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Dokumaya elverişli maddelerden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Seyahat çantaları, tuvalet çantaları, sırt çantaları,spor çantaları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.92.91.10.00",
+        "Unnamed: 1":" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan ve mensucattan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.92.91.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.92.98.10.00",
+        "Unnamed: 1":" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan ve mensucattan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.92.98.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4202.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4202.99.00.10.00",
+        "Unnamed: 1":" - - - Aluminyumdan, demir döküm veya çelikten veya çinkodan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4202.99.00.20.00",
+        "Unnamed: 1":" - - - Ahşap olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70.0
+    },
+    {
+        "Unnamed: 0":"4202.99.00.30.00",
+        "Unnamed: 1":" - - - Bakırdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4202.99.00.40.00",
+        "Unnamed: 1":" - - - Nikelden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4202.99.00.50.00",
+        "Unnamed: 1":" - - - İşlenmiş bağa, sedef, fildişi, kemik, her nevi boynuz, mercan (tabii ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        veya aglomere edilmiş) ve yontulmaya elverişli diğer hayvansal ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.99.00.60.00",
+        "Unnamed: 1":" - - - İşlenmiş yontulmaya elverişli bitkisel ve mineral maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4202.99.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"42.03",
+        "Unnamed: 1":"Tabii veya terkip yoluyla elde edilen deri ve köseleden giyim",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"eşyası ve aksesuarı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.10",
+        "Unnamed: 1":" - Giyim eşyası",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.10.00.00.12",
+        "Unnamed: 1":" - - Terkip yoluyla elde edilen deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.10.00.00.22",
+        "Unnamed: 1":" - - - Manto, Palto, Pardesü",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.10.00.00.23",
+        "Unnamed: 1":" - - - Kaban, Mont, Ceket",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.10.00.00.24",
+        "Unnamed: 1":" - - - Pantolon",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.10.00.00.25",
+        "Unnamed: 1":" - - - Etek",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.10.00.00.28",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Eldivenler, tek parmaklı eldivenler, parmaksız eldivenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.21",
+        "Unnamed: 1":" - - Spor eldivenleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.21.00.00.11",
+        "Unnamed: 1":" - - - Tabii deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Çift",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.21.00.00.12",
+        "Unnamed: 1":" - - - Terkip yoluyla elde edilen deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Çift",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Her türlü sanat ve meslek erbabının korunmak amacıyla kullandıkları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        eldivenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.29.10.00.11",
+        "Unnamed: 1":" - - - - Tabii deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Çift",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.29.10.00.12",
+        "Unnamed: 1":" - - - - Terkip yoluyla elde edilen deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Çift",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.29.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Çift",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.30",
+        "Unnamed: 1":" - Bel kemerleri, kılıç kayışı ve palaskaları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.30.00.00.11",
+        "Unnamed: 1":" - - Tabii deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.30.00.00.12",
+        "Unnamed: 1":" - - Terkip yoluyla elde edilen deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.40",
+        "Unnamed: 1":" - Giyim eşyasının diğer aksesuarı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4203.40.00.00.11",
+        "Unnamed: 1":" - - Tabii deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4203.40.00.00.12",
+        "Unnamed: 1":" - - Terkip yoluyla elde edilen deri ve köseleden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"(42.04)",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4205.00",
+        "Unnamed: 1":"Tabii veya terkip yoluyla elde edilen deri ve köseleden",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"diğer eşya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Makinalarda veya mekanik aletlerde veya diğer teknik amaçlarla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   kulllanılan türde olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Transmisyon kolanları ve taşıyıcı kolanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4205.00.11.10.00",
+        "Unnamed: 1":" - - - Transmisyon kolanları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4205.00.11.20.00",
+        "Unnamed: 1":" - - - Taşıyıcı kolanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4205.00.19.10.00",
+        "Unnamed: 1":" - - - Makinalarda kullanılan eşya ve dokuma sanayii için takeler (taquet)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4205.00.19.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4205.00.90.00.11",
+        "Unnamed: 1":" - - Tabii deri veya köseleden diğer eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"4205.00.90.00.12",
+        "Unnamed: 1":" - - Terkip yoluyla elde edilen deri ve köseleden diğer eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4206.00.00.00.00",
+        "Unnamed: 1":"Bağırsak (ipek böceği bağırsağı hariç), kursak, mesane ve veterden",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mamul eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    }
+]

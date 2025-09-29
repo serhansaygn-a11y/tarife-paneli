@@ -1,0 +1,2282 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"5201.00",
+        "Unnamed: 1":"Pamuk (karde edilmemiş veya penyelenmemiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5201.00.10.00.00",
+        "Unnamed: 1":" - Hidrofil veya ağartılmış pamuklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5201.00.90.00.11",
+        "Unnamed: 1":" - - Sürdürülebilir olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5201.00.90.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.02",
+        "Unnamed: 1":"Pamuk döküntüleri (iplik döküntüleri ve ditme suretiyle elde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edilen döküntüler dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5202.10",
+        "Unnamed: 1":" - Pamuk döküntüleri (iplik döküntüleri dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5202.10.00.00.11",
+        "Unnamed: 1":" - - Üstüpü ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - DiğerIeri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5202.91",
+        "Unnamed: 1":" - - Ditme suretiyle elde edilen döküntüler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5202.91.00.00.11",
+        "Unnamed: 1":" - - - Penye telefi ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.91.00.00.12",
+        "Unnamed: 1":" - - - Tarak telefi ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.91.00.00.13",
+        "Unnamed: 1":" - - - Üstüpü ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.91.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.99",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5202.99.00.00.11",
+        "Unnamed: 1":" - - - Üstübü ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.99.00.00.12",
+        "Unnamed: 1":" - - - Tarak telefi ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.99.00.00.13",
+        "Unnamed: 1":" - - - Penye telefi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5202.99.00.00.18",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5203.00.00.00.00",
+        "Unnamed: 1":"Pamuk (karde edilmiş veya penyelenmiş) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.04",
+        "Unnamed: 1":"Pamuktan dikiş iplikleri (perakende olarak satılacak hale getiril -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"miş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Perakende olarak satılacak hale getirilmemiş olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5204.11.00.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 85 veya daha fazla pamuk içerenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5204.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5204.20",
+        "Unnamed: 1":" - Perakende olarak satılacak hale getirilmiş olanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5204.20.00.00.11",
+        "Unnamed: 1":" - - % 85 veya daha fazla pamuk içerenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"5204.20.00.00.12",
+        "Unnamed: 1":" - - % 85'den az pamuk içerenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.05",
+        "Unnamed: 1":"Pamuk ipliği (dikiş ipIiği hariç) (ağırIık itibariyIe % 85 veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"daha fazIa pamuk içeren ve perakende olarak satıIacak haIe",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"getirilmemiş oIanlar) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Tek kat iplikler (penyelenmemiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.11.00.00.00",
+        "Unnamed: 1":" - - 714,29 Desiteks veya daha fazla (metrik numarası l4'ü geçmeyen",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.12.00.00.00",
+        "Unnamed: 1":" - - 714,29 Desiteksten az, 232,56 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 14'ü geçen, 43'ü geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.13.00.00.00",
+        "Unnamed: 1":" - - 232,56 Desiteksten az, 192,31 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    (metrik numarası 43'ü geçen 52'yi geçmeyen)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.14.00.00.00",
+        "Unnamed: 1":" - - 192,31 Desiteksten az,125 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 52'yi geçen 80'i geçmeyen)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.15",
+        "Unnamed: 1":" - - 125 Desiteksten az olanlar (metrik numarası 80'i geçen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.15.10.00.00",
+        "Unnamed: 1":" - - - 125 Desiteksten az, 83,33 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        (metrik numarası 80'i geçen 120'yi geçmeyen)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.15.90.00.00",
+        "Unnamed: 1":" - - -  83,33 Desiteksten az olanlar (metrik numarası 120'yi geçen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Tek kat iplikler (penyelenmiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.21.00.00.00",
+        "Unnamed: 1":" - - 714,29 Desiteks veya daha fazla olanlar (metrik numarası",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     14'ü geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.22.00.00.00",
+        "Unnamed: 1":" - - 714,29 Desiteksten az, 232,56 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olanlar (metrik numarası 14'ü geçen 43'ü geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.23.00.00.00",
+        "Unnamed: 1":" - - 232,56 Desiteksten az, 192,31 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 43'ü geçen 52' yi geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.24.00.00.00",
+        "Unnamed: 1":" - - 192,31 Desiteksten az, 125 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 52' yi geçen 80'i geçmeyen)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.26.00.00.00",
+        "Unnamed: 1":" - - 125 Desiteksten az, 106,38 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (metrik numarası 80'i geçen 94'ü geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.27.00.00.00",
+        "Unnamed: 1":" - - 106,38 Desiteksten az, 83,33 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olanlar (metrik numarası 94 'ü geçen 120'yi geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.28.00.00.00",
+        "Unnamed: 1":" - - 83,33 Desiteksten az olanlar (metrik numarası 120'yi geçen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   (penyelenmemiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.31",
+        "Unnamed: 1":" - - Her biri 714,29 desiteks veya daha fazla olan tek kat iplikten",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (tek kat iplik için metrik numarası 14'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.31.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.31.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.31.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.32",
+        "Unnamed: 1":" - - Her biri 714,29 desiteksten az, 232,56 (dahil) desiteksten fazla ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat için metrik numarası 14'ü geçen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     43'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.32.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.32.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.32.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.33",
+        "Unnamed: 1":" - - Her biri 232,56 desiteksten az, 192,31 (dahil) desiteksten fazla ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 43' ü ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 52' yi geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.33.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.33.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.33.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.34",
+        "Unnamed: 1":" - - Her biri 192,31 desiteksten az, 125 (dahil) desiteksten fazla olan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     tek kat iplikten (tek kat iplik için metrik numarası 52'yi geçen ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     80'i geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.34.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.34.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.34.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.35",
+        "Unnamed: 1":" - - Her biri 125 desiteksten az olan tek kat iplikten (tek kat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     iplik için metrik numarası 80 'i geçen) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.35.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.35.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.35.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   (penyelenmiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.41",
+        "Unnamed: 1":" - - Her biri 714,29 desiteks veya daha fazla olan tek kat iplikten",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (tek kat iplik için metrik numarası 14'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.41.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.41.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.41.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.42",
+        "Unnamed: 1":" - - Her biri 714,29 desiteksten az, 232,56 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 14'ü ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 43'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.42.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.42.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.42.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.43",
+        "Unnamed: 1":" - - Her biri 232,56 desiteksten az, 192,31 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 43'ü ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 52' yi geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.43.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.43.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.43.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.44",
+        "Unnamed: 1":" - - Her biri 192,31 desiteksten az, 125 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 52'yi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 80'i geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.44.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.44.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.44.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.46",
+        "Unnamed: 1":" - - Her biri 125 desiteksten az, 106,38 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 80'i ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 94'ü geçmeyen) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.46.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.46.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.46.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.47",
+        "Unnamed: 1":" - - Her biri 106,38 desiteksten az, 83,33 (dahil) desiteksten",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      fazla olan tek kat iplikten (tek kat iplik için metrik numarası ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      94'ü geçen 120 'yi geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.47.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.47.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.47.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5205.48",
+        "Unnamed: 1":" - - Her biri 83,33 desiteksten az olan tek kat iplikten (tek kat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     iplik için metrik numarası 120'yi geçen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5205.48.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.48.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5205.48.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.06",
+        "Unnamed: 1":"Pamuk ipliği (dikiş ipliği hariç) (ağırIık itibariyle % 85 den",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"az pamuk içerenler) (perakende satış için hazırlanmamış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Tek kat iplik (penyelenmemiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.11.00.00.00",
+        "Unnamed: 1":" - - 714,29 Desiteks veya daha fazla olanlar (metrik numarası 14'ü",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.12.00.00.00",
+        "Unnamed: 1":" - - 714,29 Desiteksten az, 232,56 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 14'ü geçen 43'ü geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.13.00.00.00",
+        "Unnamed: 1":" - - 232,56 Desiteksten az, 192,31 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 43'ü geçen 52' yi geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.14.00.00.00",
+        "Unnamed: 1":" - - 192,31 Desiteksten az, 125 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 52' yi geçen 80'i geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.15.00.00.00",
+        "Unnamed: 1":" - - 125 Desiteksten az olanlar (metrik numarası 80'i geçen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Tek katlı iplikler (penyelenmiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.21.00.00.00",
+        "Unnamed: 1":" - -  714,29 Desiteks veya daha fazla olanlar (metrik numarası",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      14'ü geçmeyen)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.22.00.00.00",
+        "Unnamed: 1":" - - 714,29 Desiteksten az, 232,56 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 14'ü geçen  43'ü geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.23.00.00.00",
+        "Unnamed: 1":" - - 232,56 Desiteksten az, 192,31 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    (metrik numarası 43'ü geçen 52' yi geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.24.00.00.00",
+        "Unnamed: 1":" - - 192,31 Desiteksten az, 125 (dahil) desiteksten fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (metrik numarası 52' yi geçen 80'i geçmeyen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.25.00.00.00",
+        "Unnamed: 1":" - - 125 Desiteksten az olanlar (metrik numarası 80'i geçen) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    (penyelenmemiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.31",
+        "Unnamed: 1":" - - Her biri 714,29 desiteks veya daha fazla olan tek kat iplikten",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (tek kat iplik için metrik numarası 14'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.31.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.31.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.31.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.32",
+        "Unnamed: 1":" - - Her biri 714,29 desiteksten az, 232,56 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 14'ü",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen  43'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.32.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.32.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.32.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.33",
+        "Unnamed: 1":" - - Her biri 232,56 desiteksten az, 192,31 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 43' ü ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 52'yi geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.33.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.33.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.33.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.34",
+        "Unnamed: 1":" - - Her biri 192,31 desiteksten az, 125 (dahil) desiteksten fazla olan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     tek kat iplikten (tek kat iplik için metrik numarası 52' yi geçen ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     80 'i geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.34.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.34.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.34.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.35",
+        "Unnamed: 1":" - - Her biri 125 desiteksten az olan tek kat iplikten (tek kat iplik",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     için metrik numarası 80'i geçen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.35.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.35.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.35.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   (penyelenmiş liflerden):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.41",
+        "Unnamed: 1":" - - Her biri 714,29 desiteks veya daha fazla olan tek kat iplikler -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    den  (tek kat iplik için metrik numarası 14'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.41.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.41.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.41.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.42",
+        "Unnamed: 1":" - - Her biri 714,29 desiteksten az, 232,56 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 14'ü",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 43'ü geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.42.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.42.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.42.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.43",
+        "Unnamed: 1":" - - Her biri 232,56 desiteksten az, 192,31 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 43'ü ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 52' i geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.43.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.43.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.43.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.44",
+        "Unnamed: 1":" - - Her biri 192,31 desiteksten az, 125 (dahil) desiteksten fazla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olan tek kat iplikten (tek kat iplik için metrik numarası 52' yi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçen 80'i geçmeyen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.44.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.44.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.44.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5206.45",
+        "Unnamed: 1":" - - Her biri 125 desiteksten az olan tek kat iplikten (tek kat iplik",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     için metrik numarası 80'i geçen):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5206.45.00.10.00",
+        "Unnamed: 1":" - - - Balıkağı ipliği",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.45.00.20.00",
+        "Unnamed: 1":" - - - Diğer ağ iplikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"5206.45.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.07",
+        "Unnamed: 1":"Pamuk ipliği (dikiş ipliği hariç) (perakende olarak satılacak hale",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"getirilmiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5207.10.00.00.00",
+        "Unnamed: 1":" - Ağırlık itibariyle % 85 veya daha fazla pamuk içerenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"5207.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.08",
+        "Unnamed: 1":"Pamuktan dokunmuş mensucat (ağırlık itibariyle % 85 veya daha fazla pamuk",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"içerenler)(m2. ağırlığı 200 gr. ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağartılmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.11",
+        "Unnamed: 1":" - - Bez ayağı (m2. ağırlığı 100 gr. ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.11.10.00.00",
+        "Unnamed: 1":" - - - Bandaj, sargı ve gazlıbez imalinde kullanılan mensucat ",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":70.0
+    },
+    {
+        "Unnamed: 0":"5208.11.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.12",
+        "Unnamed: 1":" - - Bez ayağı (m2 . ağırlığı 100 gr. ı geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Bez ayağı (m2. ağırlığı 100 gr. ı geçen fakat 130 gr.ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.12.16.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.12.19.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Bez ayağı (m2. ağırlığı 130 gr.ı geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.12.96.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm.yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.12.99.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm.yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.13.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.19.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağartılmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.21",
+        "Unnamed: 1":" - - Bez ayağı (m2 . ağırlığı 100 gr.ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.21.10.00.00",
+        "Unnamed: 1":" - - - Bandaj, sargı bezi ve gazlı bez imalinde kullanılan mensucat ",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":70.0
+    },
+    {
+        "Unnamed: 0":"5208.21.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.22",
+        "Unnamed: 1":" - - Bez ayağı (m2.ağırlığı 100 gr.ı geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Bez ayağı (m2.ağırlığı 100 gr.ı geçen fakat 130 gr.ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.22.16.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.22.19.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Bez ayağı (m2. ağırlığı 130 gr.ı geçenler) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.22.96.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm.yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.22.99.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm.yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.23.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.29.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Boyanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.31.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı (m2. ağırlığı 100 gr. ı geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.32",
+        "Unnamed: 1":" - - Bez ayağı (m2. ağırlığı 100 gr. ı geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Bez ayağı (m2. ağırlığı 100 gr. ı geçen fakat 130 gr. ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.32.16.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.32.19.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Bez ayağı (m2. ağırlığı 130 gr.ı geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.32.96.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.32.99.00.00",
+        "Unnamed: 1":" - - - - Genişliği 165 cm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.33.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.39.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Farklı renkteki ipliklerden:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.41.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı (m2. ağırlığı 100 gr. ı geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.42.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı (m2. ağırlığı 100 gr. ı geçenler)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.43.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.49.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Baskılı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.51.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı (m2. ağırlığı 100 gr. ı geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.52.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı (m2. ağırlığı 100 gr. ı geçenler)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.59",
+        "Unnamed: 1":" - - Diğer mensucat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5208.59.10.00.00",
+        "Unnamed: 1":" - - - 3'lü veya 4'lü dimi ( kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5208.59.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.09",
+        "Unnamed: 1":"Pamuktan dokunmuş mensucat (ağırlık itibariyle % 85 veya daha fazla pamuk",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"içeren ve m2 ağırlığı 200 gr. ı geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağartılmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5209.11.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.12.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.19.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağartılmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5209.21.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.22.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.29.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Boyanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5209.31.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.32.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.39.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Farklı renkteki ipliklerden:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5209.41.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.42.00.00.00",
+        "Unnamed: 1":" - - Denim",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.43.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimiden diğer mensucat (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.49.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Baskılı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5209.51.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.52.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5209.59.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.10",
+        "Unnamed: 1":"Pamuktan dokunmuş mensucat (ağırlık itibariyle % 85'den az pamuk içeren ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sentetik veya suni liflerle karıştırılmış olup m2. ağırlığı 200 gr. ı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağartılmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5210.11.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5210.19.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağartılmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5210.21.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5210.29.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Boyanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5210.31.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5210.32.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5210.39.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Farklı renkteki ipliklerden:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5210.41.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5210.49.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Baskılı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5210.51.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5210.59.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.11",
+        "Unnamed: 1":"Pamuktan dokunmuş mensucat (ağırlık itibariyle % 85'den az pamuk içeren",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sentetik veya suni liflerle karıştırılmış olup m2. ağırlığı 200 gr.ı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağartılmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5211.11.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.12.00.00.00",
+        "Unnamed: 1":" - - 3 'lü veya 4 'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.19.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.20.00.00.00",
+        "Unnamed: 1":" - Ağartılmış",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Boyanmış :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5211.31.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.32.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.39.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Farklı renkteki ipliklerden:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5211.41.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.42.00.00.00",
+        "Unnamed: 1":" - - Denim",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.43.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimiden diğer mensucat (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.49",
+        "Unnamed: 1":" - - Diğer mensucat:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5211.49.10.00.00",
+        "Unnamed: 1":" - - - Jakar mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.49.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Baskılı:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5211.51.00.00.00",
+        "Unnamed: 1":" - - Bez ayağı",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.52.00.00.00",
+        "Unnamed: 1":" - - 3'lü veya 4'lü dimi (kırık dimi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5211.59.00.00.00",
+        "Unnamed: 1":" - - Diğer mensucat",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"52.12",
+        "Unnamed: 1":"Pamuktan dokunmuş diğer mensucat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - M2. ağırlığı 200 gr.ı geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.11",
+        "Unnamed: 1":" - - Ağartılmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.11.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.11.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.12",
+        "Unnamed: 1":" - - Ağartılmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.12.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.12.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.13",
+        "Unnamed: 1":" - - Boyanmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.13.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.13.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.14",
+        "Unnamed: 1":" - - Farklı renkteki ipliklerden:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.14.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.14.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.15",
+        "Unnamed: 1":" - - Baskılı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.15.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.15.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - M2. ağırlığı 200 gr. ı geçenler:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.21",
+        "Unnamed: 1":" - - Ağartılmamış:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.21.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.21.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.22",
+        "Unnamed: 1":" - - Ağartılmış:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.22.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.22.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.23",
+        "Unnamed: 1":" - - Boyanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.23.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.23.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.24",
+        "Unnamed: 1":" - - Farklı renkteki ipliklerden:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.24.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.24.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.25",
+        "Unnamed: 1":" - - Baskılı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5212.25.10.00.00",
+        "Unnamed: 1":" - - - Sadece veya esas itibariyle ketenle karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"5212.25.90.00.00",
+        "Unnamed: 1":" - - - Başka surette karışık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"  m2",
+        "474\nVERGİ\nHADDİ":90.0
+    }
+]

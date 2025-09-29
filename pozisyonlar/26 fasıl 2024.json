@@ -1,0 +1,686 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"26.01",
+        "Unnamed: 1":"Demir cevherleri ve zenginleştirilmiş demir cevherleri (kavrulmuş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"demir piritleri dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Demir cevherleri ve zenginleştirilmiş demir cevherleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  (kavrulmuş demir piritleri hariç): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2601.11.00.00.00",
+        "Unnamed: 1":" - - Aglomere edilmemiş                                                   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2601.12.00.00.00",
+        "Unnamed: 1":" - - Aglomere edilmiş                                                       ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2601.20.00.00.00",
+        "Unnamed: 1":" - Kavrulmuş demir piritleri                                                    ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2602.00.00.00.00",
+        "Unnamed: 1":"Manganez cevherleri ve zenginleştirilmiş manganez cevherleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(kuru ağırlık üzerinden hesaplandığında manganez miktarı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"%  20 veya daha fazla olan demirli manganez cevherleri ve zen-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ginleştirilmiş demirli manganez cevherleri dahil)   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"                                             ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2603.00.00.00.00",
+        "Unnamed: 1":"Bakır cevherleri ve zenginleştirilmiş bakır cevherleri                          ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2604.00.00.00.00",
+        "Unnamed: 1":"Nikel cevherleri ve zenginleştirilmiş nikel cevherleri                           ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2605.00.00.00.00",
+        "Unnamed: 1":"Kobalt cevherleri ve zenginleştirilmiş kobalt cevherleri                         ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2606.00.00.00.00",
+        "Unnamed: 1":"Aluminyum cevherleri ve zenginleştirilmiş aluminyum cevherleri                 ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2607.00.00.00.00",
+        "Unnamed: 1":"Kurşun cevherleri ve zenginleştirilmiş kursun cevherleri   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2608.00.00.00.00",
+        "Unnamed: 1":"Çinko cevherleri ve zenginleştirilmiş çinko cevherleri   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2609.00.00.00.00",
+        "Unnamed: 1":"Kalay cevherleri ve zenginleştirilmiş kalay cevherleri   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2610.00.00.00.00",
+        "Unnamed: 1":"Krom cevherleri ve zenginleştirilmiş krom cevherleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2611.00.00.00.00",
+        "Unnamed: 1":"Tungsten cevherleri ve zenginleştirilmiş tungsten cevherleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"26.12",
+        "Unnamed: 1":"Uranyum veya toryum cevherleri,zenginleştirilmiş uranyum ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"toryum cevherleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2612.10",
+        "Unnamed: 1":" - Uranyum cevherleri ve zenginleştirilmiş uranyum cevherleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2612.10.10.00.00",
+        "Unnamed: 1":" - - İçinde ağırlık itibariyle % 5'ten fazla uranyum bulunan uranyum",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     cevherleri ve peşblent ve bunların zenginleştirilmiş olanları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (EURATOM)                                                                      ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2612.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri                                                         ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2612.20",
+        "Unnamed: 1":" - Toryum cevherleri ve zenginleştirilmiş toryum cevherleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2612.20.10.00.00",
+        "Unnamed: 1":" - - Monazit; içinde ağırlık itibariyle % 20' den fazla toryum bulunan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      urano -torianit ve diğer toryum cevherleri ve zenginleştirilmiş diğer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      toryum cevherleri (EURATOM)                                              ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2612.20.90.00.00",
+        "Unnamed: 1":" - - Diğerleri                                                        ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"26.13",
+        "Unnamed: 1":"Molibden cevherleri ve zenginleştirilmiş molibden cevherleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2613.10.00.00.00",
+        "Unnamed: 1":" - Kavrulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2613.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2614.00.00.00.00",
+        "Unnamed: 1":"Titanyum cevherleri ve zenginleştirilmiş titanyum cevherleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"26.15",
+        "Unnamed: 1":"Niobyum,tantalyum,vanadyum veya zirkonyum cevherleri ve bun -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ların zenginleştirilmiş cevherleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2615.10.00.00.00",
+        "Unnamed: 1":" - Zirkonyum cevherleri ve zenginleştirilmiş zirkonyum cevherleri     ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2615.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"26.16",
+        "Unnamed: 1":"Kıymetli metal cevherleri ve zenginleştirilmiş kıymetli metal",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"cevherleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2616.10.00.00.00",
+        "Unnamed: 1":" - Gümüş cevherleri ve zenginleştirilmiş gümüş cevherleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2616.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri                                      ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"26.17",
+        "Unnamed: 1":"Diğer metal cevherleri ve zenginleştirilmiş diğer metal cevherleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2617.10.00.00.00",
+        "Unnamed: 1":" - Antimon cevherleri ve zenginleştirilmiş antimon cevherleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2617.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri                           ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2618.00.00.00.00",
+        "Unnamed: 1":"Demir veya çeliğin imalinden elde edilen granüle cüruf  (cüruf ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kumu)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2619.00",
+        "Unnamed: 1":"Cüruf, moloz (granüle cüruf hariç), dövme demir kırıntıları ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"demir veya çeliğin imalinden elde edilen diğer döküntüler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2619.00.20.00.00",
+        "Unnamed: 1":" - Demir veya manganezin tekrar elde edilmesine uygun döküntüler         ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2619.00.95.00.00",
+        "Unnamed: 1":" - Vanadyum ekstraksiyonuna uygun döküntüler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2619.00.97.00.11",
+        "Unnamed: 1":" - - Yüksek fırın cürufu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2619.00.97.00.12",
+        "Unnamed: 1":" - - Diğer cüruflar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2619.00.97.00.13",
+        "Unnamed: 1":" - - Tufal",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2619.00.97.00.19",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"26.20",
+        "Unnamed: 1":"Arsenik, metaller veya bunların bileşiklerini içeren cüruf, küller ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kalıntılar (demir veya çeliğin imalinden elde edilenler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Başlıca muhtevası çinko olanlar: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2620.11.00.00.00",
+        "Unnamed: 1":" - - Galvanizli matlar                        ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri                                ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Başlıca muhtevası kurşun olanlar:        ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2620.21.00.00.00",
+        "Unnamed: 1":" - - Kurşunlu benzin tortuları (sludges) ve kurşunlu vuruntuyu ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     önleyici  bileşiklerin tortuları (sludges)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.30.00.00.00",
+        "Unnamed: 1":" - Başlıca muhtevası bakır olanlar       ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.40.00.00.00",
+        "Unnamed: 1":" - Başlıca muhtevası aluminyum olanlar     ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.60.00.00.00",
+        "Unnamed: 1":" - Muhtevası arsenik, civa, talyum veya  bunların karışımlarından ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   (arsenik veya bu metallerin elde edilmesinde ya da  bunların ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  kimyasal bileşiklerinin üretiminde kullanılan türden olanlar)  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri                                ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2620.91.00.00.00",
+        "Unnamed: 1":" - - Muhtevası antimon, berilyum, kadmiyum, krom veya bunların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     karışımlarından olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2620.99.10.00.00",
+        "Unnamed: 1":" - - - Başlıca muhtevası nikel olanlar                                ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Başlıca muhtevası niobyum ve tantalyum olanlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2620.99.20.00.11",
+        "Unnamed: 1":" - - - - Başlıca muhtevası niobyum olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.99.20.00.12",
+        "Unnamed: 1":" - - - - Başlıca muhtevası tantalyum olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.99.40.00.00",
+        "Unnamed: 1":" - - - Başlıca muhtevası kalay olanlar                                      ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.99.60.00.00",
+        "Unnamed: 1":" - - - Başlıca muhtevası titanyum olanlar                                   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2620.99.95.00.00",
+        "Unnamed: 1":" - - - Diğerleri                                                            ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"26.21",
+        "Unnamed: 1":"Diğer cüruf ve küller (deniz yosunu \"varech\" külü dahil);",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"şehir atıklarının yakılmasından elde edilen kül ve kalıntılar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2621.10.00.00.00",
+        "Unnamed: 1":" - Şehir atıklarının yakılmasından elde edilen kül ve kalıntılar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Pancar melasının muamelesinden elde edilen ham potasyum tuzları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2621.90.00.11.00",
+        "Unnamed: 1":" - - - Ambalajlı brüt ağırlığı en fazla 10 kg. olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2621.90.00.19.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2621.90.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    }
+]

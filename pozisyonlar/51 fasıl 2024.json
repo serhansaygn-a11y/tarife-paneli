@@ -1,0 +1,1094 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"51.01",
+        "Unnamed: 1":"Yün ve yapağı (karde edilmemiş veya taranmamış) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yapağı (sırtta yıkanmış yapağı dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Kırkma yapağı :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5101.11.00.10.00",
+        "Unnamed: 1":" - - - Merinos yapağısı ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"5101.11.00.20.00",
+        "Unnamed: 1":" - - - Kirli şevyot",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"5101.11.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"5101.19",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5101.19.00.10.00",
+        "Unnamed: 1":" - - - Merinos yapağısı ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"5101.19.00.20.00",
+        "Unnamed: 1":" - - - Kirli şevyot",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"5101.19.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yıkanmış yün (karbonize edilmemiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5101.21",
+        "Unnamed: 1":" - - Kırkma yün :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5101.21.00.10.00",
+        "Unnamed: 1":" - - - Merinos yünü",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5101.21.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"5101.29",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5101.29.00.10.00",
+        "Unnamed: 1":" - - - Merinos yünü",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"5101.29.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"5101.30.00.00.00",
+        "Unnamed: 1":" - Karbonize edilmiş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.02",
+        "Unnamed: 1":"İnce veya kaba hayvan kılları (karde edilmemiş veya taranmamış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İnce hayvan kılları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5102.11.00.00.00",
+        "Unnamed: 1":" - - Kaşmir keçisi kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5102.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5102.19.10.00.00",
+        "Unnamed: 1":" - - - Ankara tavşanı kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5102.19.30.00.00",
+        "Unnamed: 1":" - - - Alpaka, lama ve vikunya kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5102.19.40.00.00",
+        "Unnamed: 1":" - - - Yak (Tibet öküzü), deve, Ankara, Tibet ve benzeri keçilerin kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5102.19.90.00.00",
+        "Unnamed: 1":" - - -Tavşan (Ankara tavşanı hariç), yabani tavşan, kunduz, bataklık",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      kunduzu ve misk sıçanı kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5102.20",
+        "Unnamed: 1":" - Kaba hayvan kılları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5102.20.00.10.00",
+        "Unnamed: 1":" - - Şapka fötrü imaline mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5102.20.00.90.11",
+        "Unnamed: 1":" - - - Adi keçi kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5102.20.00.90.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.03",
+        "Unnamed: 1":"Yün, ince veya kaba hayvan kıllarının döküntüleri (iplik döküntü-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"leri dahil) (ditme suretiyle elde edilenler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5103.10",
+        "Unnamed: 1":" - Yün ve ince hayvan kıllarının tarama döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5103.10.10.00.00",
+        "Unnamed: 1":" - - Karbonize edilmemiş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5103.10.90.00.00",
+        "Unnamed: 1":" - - Karbonize edilmiş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5103.20",
+        "Unnamed: 1":" - Yün ve ince hayvan kıllarının diğer döküntüleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5103.20.00.00.10",
+        "Unnamed: 1":" - - İplik döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5103.20.00.00.21",
+        "Unnamed: 1":" - - - Karbonize edilmemiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5103.20.00.00.22",
+        "Unnamed: 1":" - - - Karbonize edilmiş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5103.30.00.00.00",
+        "Unnamed: 1":" - Kaba hayvan kılı döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5104.00",
+        "Unnamed: 1":"Yün,ince veya kaba hayvan kıllarının ditme suretiyle elde edilen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"döküntüleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5104.00.00.00.11",
+        "Unnamed: 1":"- Şodi ve mungo",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"5104.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.05",
+        "Unnamed: 1":"Yün, ince veya kaba hayvan kılları (karde edilmiş veya taranmış)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(yığın halinde taranmış yün dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5105.10",
+        "Unnamed: 1":" - Karde edilmiş yünler ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5105.10.00.00.11",
+        "Unnamed: 1":" - - Merinos yünü ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5105.10.00.00.19",
+        "Unnamed: 1":" - - Diğer yünler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yün \"tops\"ları ve diğer taranmış yünler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5105.21.00.00.00",
+        "Unnamed: 1":" - - Yığın halinde taranmış ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5105.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İnce hayvan kılları (karde edilmiş veya taranmış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5105.31.00.00.00",
+        "Unnamed: 1":" - - Kaşmir keçisi kılı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5105.39",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5105.39.00.00.11",
+        "Unnamed: 1":" - - - Tiftikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5105.39.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"5105.40.00.00.00",
+        "Unnamed: 1":" - Kaba hayvan kılları (karde edilmiş veya taranmış)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.06",
+        "Unnamed: 1":"Karde edilmiş (strayhgarn) yün iplikleri (perakende olarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"satılacak hale getirilmemiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5106.10",
+        "Unnamed: 1":" - Ağırlık itibariyle % 85 veya daha fazla yün içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5106.10.10.00.00",
+        "Unnamed: 1":" - - Ağartılmamış ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"5106.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"5106.20",
+        "Unnamed: 1":" -  Ağırlık itibariyle % 85'ten az yün içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5106.20.10.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 85 veya daha fazla yün ve ince hayvan kılı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5106.20.91.00.00",
+        "Unnamed: 1":" - - - Ağartılmamış ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"5106.20.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.07",
+        "Unnamed: 1":"Taranmış (kamgarn) yün iplikleri (perakende olarak satılacak hale",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"getirilmemiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5107.10",
+        "Unnamed: 1":" - Ağırlık itibariyle % 85 veya daha fazla yün içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5107.10.10.00.00",
+        "Unnamed: 1":" - - Ağartılmamış ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5107.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5107.20",
+        "Unnamed: 1":" - Ağırlık itibariyle % 85'den az yün içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağırlık itibariyle % 85 veya daha fazla yün ve ince hayvan kılı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5107.20.10.00.00",
+        "Unnamed: 1":" - - - Ağartılmamış ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5107.20.30.00.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Esas itibariyle veya sadece devamsız sentetik liflerle karışık",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5107.20.51.00.00",
+        "Unnamed: 1":" - - - - Ağartılmamış",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5107.20.59.00.00",
+        "Unnamed: 1":" - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Başka şekilde karıştırılmış olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5107.20.91.00.00",
+        "Unnamed: 1":" - - - - Ağartılmamış",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5107.20.99.00.00",
+        "Unnamed: 1":" - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.08",
+        "Unnamed: 1":"İnce hayvan kıllarından iplikler (karde edilmiş veya taranmış)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(perakende olarak satılacak hale getirilmemiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5108.10",
+        "Unnamed: 1":" - Karde edilmiş:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağartılmamış: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5108.10.10.00.11",
+        "Unnamed: 1":" - - - Tiftikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5108.10.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5108.10.90.00.11",
+        "Unnamed: 1":" - - - Tiftikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5108.10.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5108.20",
+        "Unnamed: 1":" - Taranmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağartılmamış: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5108.20.10.00.11",
+        "Unnamed: 1":" - - - Tiftikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5108.20.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5108.20.90.00.11",
+        "Unnamed: 1":" - - - Tiftikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5108.20.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.09",
+        "Unnamed: 1":"Yün veya ince hayvan kıllarından iplikler (perakende olarak satı -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lacak hale getirilmiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5109.10",
+        "Unnamed: 1":" - Ağırlık itibariyle % 85 veya daha fazla yün veya ince hayvan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   kılı içerenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Top, çile veya küçük çile halinde olup, ağırlığı 125 gr.ı geçen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      500 gr.ı geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5109.10.10.00.11",
+        "Unnamed: 1":" - - - Yünden iplikler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":80.0
+    },
+    {
+        "Unnamed: 0":"5109.10.10.00.12",
+        "Unnamed: 1":" - - - İnce hayvan kılından iplikler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":80.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5109.10.90.00.11",
+        "Unnamed: 1":" - - - Yünden iplikler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":80.0
+    },
+    {
+        "Unnamed: 0":"5109.10.90.00.12",
+        "Unnamed: 1":" - - - İnce hayvan kılından iplikler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":80.0
+    },
+    {
+        "Unnamed: 0":"5109.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":80.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5110.00",
+        "Unnamed: 1":"Kaba hayvan kıllarından veya at kılından iplikler (gipe edilmiş at",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kılından iplikler dahil) (perakende olarak satılacak hale getirilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5110.00.00.10.00",
+        "Unnamed: 1":"-Perakende olarak satılacak hale getirilmiş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":80.0
+    },
+    {
+        "Unnamed: 0":"5110.00.00.90.00",
+        "Unnamed: 1":"- Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.11",
+        "Unnamed: 1":"Karde edilmiş (strayhgarn) yün ve ince hayvan kıllarından dokunmuş ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mensucat :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağırlık itibariyle %85 veya daha fazla yün veya ince hayvan kılı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5111.11.00.00.00",
+        "Unnamed: 1":" - - M2. ağırlığı 300 gr.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5111.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5111.20.00.00.00",
+        "Unnamed: 1":" - Diğerleri (esas itibariyle veya sadece sentetik ve suni filament-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   lerle karışık olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5111.30",
+        "Unnamed: 1":" - Diğerleri (esas itibariyle veya sadece sentetik ve suni devamsız",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   liflerle karışık olanlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5111.30.10.00.00",
+        "Unnamed: 1":" - - M2. ağırlığı 300 gr.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5111.30.80.00.00",
+        "Unnamed: 1":" - - M2. ağırlığı 300 gr.ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5111.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5111.90.10.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 10 dan fazlası 50. fasıldaki dokumaya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      elverişli maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5111.90.91.00.00",
+        "Unnamed: 1":" - - - M2.ağırlığı 300 gr.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5111.90.98.00.00",
+        "Unnamed: 1":" - - - M2. ağırlığı 300 gr.ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"51.12",
+        "Unnamed: 1":"Taranmış (kamgarn) yünden veya ince hayvan kıllarından dokunmuş men -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sucat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağırlık itibariyle % 85 veya daha fazla yün veya ince hayvan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   kılı içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5112.11.00.00.00",
+        "Unnamed: 1":" - - M2. ağırlığı 200 gr. ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5112.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5112.20.00.00.00",
+        "Unnamed: 1":" - Diğerleri (esas itibariyle veya sadece sentetik ve suni filament -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   lerle karışık olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5112.30",
+        "Unnamed: 1":" - Diğerleri (esas itibariyle veya sadece sentetik ve suni devamsız",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   liflerle karışık olanlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5112.30.10.00.00",
+        "Unnamed: 1":" - - M2. ağırlığı 200 gr. ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5112.30.80.00.00",
+        "Unnamed: 1":" - - M2. ağırlığı 200 gr. ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5112.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5112.90.10.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 10 dan fazlası 50. fasıldaki dokumaya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      elverişli maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5112.90.91.00.00",
+        "Unnamed: 1":" - - - M2. ağırlığı 200 gr. ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"5112.90.98.00.00",
+        "Unnamed: 1":" - - - M2. ağırlığı 200 gr. ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5113.00",
+        "Unnamed: 1":"Kaba hayvan kılından veya at kılından dokunmuş mensucat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5113.00.00.10.00",
+        "Unnamed: 1":" - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    elverişli maddelerden olanlar) ",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"5113.00.00.90.11",
+        "Unnamed: 1":" - - At kılından mensucat ",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5113.00.00.90.12",
+        "Unnamed: 1":" - - Adi keçi kılından mensucat ",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"5113.00.00.90.19",
+        "Unnamed: 1":" - - Diğer kaba hayvan kılından mensucat",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":75.0
+    }
+]

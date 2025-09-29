@@ -1,0 +1,1760 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"07.01",
+        "Unnamed: 1":"Patates (taze veya soğutulmuş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0701.10.00.00.00",
+        "Unnamed: 1":" - Tohumluk",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0701.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0701.90.10.00.00",
+        "Unnamed: 1":" - - Nişasta imalinde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0701.90.50.00.00",
+        "Unnamed: 1":" - - - Taze (1 Ocak'tan 30 Haziran'a kadar olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0701.90.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.02",
+        "Unnamed: 1":"Domates (taze veya soğutulmuş): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0702.00.10.00.00",
+        "Unnamed: 1":" - En büyük çapı 47 mm'den az olan bütün domatesler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":54
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0702.00.91.00.00",
+        "Unnamed: 1":" - - Salkımlar halinde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":54
+    },
+    {
+        "Unnamed: 0":"0702.00.99.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":54
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.03",
+        "Unnamed: 1":"Soğanlar, şalotlar, sarımsaklar, pırasalar ve diğer soğanımsı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sebzeler (taze veya soğutulmuş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0703.10",
+        "Unnamed: 1":" - Soğanlar ve şalotlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Soğanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0703.10.11.00.00",
+        "Unnamed: 1":" - - - Arpacık soğanı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0703.10.19.00.11",
+        "Unnamed: 1":" - - - - Kuru soğan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":"0703.10.19.00.12",
+        "Unnamed: 1":" - - - - Taze (yeşil) soğan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":"0703.10.90.00.00",
+        "Unnamed: 1":" - - Şalotlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":"0703.20",
+        "Unnamed: 1":" - Sarımsaklar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0703.20.00.00.11",
+        "Unnamed: 1":" - - Taze (yeşil) sarımsak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":"0703.20.00.00.12",
+        "Unnamed: 1":" - - Kuru sarımsak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":"0703.90",
+        "Unnamed: 1":" - Pırasa ve diğer soğanımsı sebzeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0703.90.00.00.11",
+        "Unnamed: 1":" - - Pırasa ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":"0703.90.00.00.12",
+        "Unnamed: 1":" - - Soğanımsı sebzeler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":55
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.04",
+        "Unnamed: 1":"Lahanalar, karnabaharlar, alabaşlar, yaprak lahanalar ve benzeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yenilen brassikalar (taze veya soğutulmuş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0704.10",
+        "Unnamed: 1":" - Karnabaharlar ve brokoli",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Karnabaharlar ve başlı brokoli",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0704.10.10.00.11",
+        "Unnamed: 1":" - - -  Karnabahar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0704.10.10.00.12",
+        "Unnamed: 1":" - - -  Brokoli",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0704.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0704.20.00.00.00",
+        "Unnamed: 1":" - Brüksel lahanası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0704.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Beyaz lahana ve kırmızı lahana",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0704.90.10.00.11",
+        "Unnamed: 1":" - - - Beyaz lahana ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0704.90.10.00.12",
+        "Unnamed: 1":" - - - Kırmızı lahana",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0704.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.05",
+        "Unnamed: 1":"Marul ( Lactuca sativa) ve hindiba (Cichorium spp.)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(taze veya soğutulmuş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Marul :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0705.11.00.00.00",
+        "Unnamed: 1":" - - Baş marul",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0705.19.00.00.00",
+        "Unnamed: 1":" - -  Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Hindiba:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0705.21.00.00.00",
+        "Unnamed: 1":" - - Başlı hindiba (Cichorium intybus var. folioeum)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0705.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.06",
+        "Unnamed: 1":"Havuçlar, şalgamlar, kırmızı pancar, teke sakalı (salsifis), kök ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kerevizi, turplar ve benzeri yenilen kökler (taze veya soğutulmuş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0706.10",
+        "Unnamed: 1":" - Havuçlar ve şalgamlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0706.10.00.00.11",
+        "Unnamed: 1":" - - Havuçlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":41
+    },
+    {
+        "Unnamed: 0":"0706.10.00.00.12",
+        "Unnamed: 1":" - - Şalgamlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":41
+    },
+    {
+        "Unnamed: 0":"0706.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0706.90.10.00.00",
+        "Unnamed: 1":" - - Kök kerevizi ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":41
+    },
+    {
+        "Unnamed: 0":"0706.90.30.00.00",
+        "Unnamed: 1":" - - Bayır turbu (Cochlearia armoracia)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":41
+    },
+    {
+        "Unnamed: 0":"0706.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":41
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0707.00",
+        "Unnamed: 1":"Hıyarlar ve kornişonlar (taze veya soğutulmuş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0707.00.05.00.00",
+        "Unnamed: 1":" - Hıyarlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"33 "
+    },
+    {
+        "Unnamed: 0":"0707.00.90.00.00",
+        "Unnamed: 1":" - Kornişonlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"33 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.08",
+        "Unnamed: 1":"Baklagiller (kabuklu veya kabuksuz) (taze veya soğutulmuş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0708.10",
+        "Unnamed: 1":" - Bezelye (Pisum sativum) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0708.10.00.00.11",
+        "Unnamed: 1":" - -  Kabuklu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0708.10.00.00.12",
+        "Unnamed: 1":" - -  Kabuksuz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0708.20",
+        "Unnamed: 1":" - Fasulye (Vigna spp., Phaseotus spp.) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0708.20.00.00.11",
+        "Unnamed: 1":" - -  Fasulye ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0708.20.00.00.12",
+        "Unnamed: 1":" - -  Barbunya (kabuklu)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0708.20.00.00.13",
+        "Unnamed: 1":" - -  Barbunya (kabuksuz)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0708.90",
+        "Unnamed: 1":" - Diğer baklagiller",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0708.90.00.00.11",
+        "Unnamed: 1":" - - Kabuklu baklagiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0708.90.00.00.12",
+        "Unnamed: 1":" - - Kabuksuz baklagiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.09",
+        "Unnamed: 1":"Diğer sebzeler(taze veya soğutulmuş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.20.00.00.00",
+        "Unnamed: 1":" - Kuşkonmazlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.30.00.00.00",
+        "Unnamed: 1":" - Patlıcanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.40.00.00.00",
+        "Unnamed: 1":" - Yaprak kerevizleri (kök kerevizleri hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Mantarlar ve domalanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.51.00.00.00",
+        "Unnamed: 1":" - - Agaricus cinsi mantarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.52.00.00.00",
+        "Unnamed: 1":" - - Boletus cinsi mantarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.53.00.00.00",
+        "Unnamed: 1":" - - Cantharellus cinsi mantarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.54.00.00.00",
+        "Unnamed: 1":" - - Shiitake (Lentinus edodes)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.55.00.00.00",
+        "Unnamed: 1":" - - Matsutake (Tricholoma matsutake, Tricholoma magnivelare, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.56.00.00.00",
+        "Unnamed: 1":" - - Domalanlar (Tuber spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.59.00.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.60",
+        "Unnamed: 1":" - Capsicum veya Pimenta cinsi meyveler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Tatlı (Capsicum grossum) biberler  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0709.60.10.00.11",
+        "Unnamed: 1":" - - - Sivri biber",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0709.60.10.00.12",
+        "Unnamed: 1":" - - - Dolmalık biber",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0709.60.10.00.13",
+        "Unnamed: 1":" - - - Çarliston biber",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0709.60.10.00.14",
+        "Unnamed: 1":" - - - Kırmızı biber (paprika)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0709.60.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.60.91.00.00",
+        "Unnamed: 1":" - - - Capsicum oleoresin boyaları ve Capsisin imalinde kullanılan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        Capsicum cinsi biberler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0709.60.95.00.00",
+        "Unnamed: 1":" - - - Rezinoit veya uçucu yağların imalinde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0709.60.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0709.70",
+        "Unnamed: 1":" - Ispanak,Yeni Zelanda ıspanağı ve bahçe ıspanağı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0709.70.00.00.11",
+        "Unnamed: 1":" - - Ispanak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.70.00.00.12",
+        "Unnamed: 1":" - - Yeni Zelanda ıspanağı ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.70.00.00.13",
+        "Unnamed: 1":" - - Bahçe ıspanağı ( kara pazı )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.91.00.00.00",
+        "Unnamed: 1":" - - Enginarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.92",
+        "Unnamed: 1":" - - Zeytin:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.92.10.00.00",
+        "Unnamed: 1":" - - - Yağ üretiminde kullanılmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.92.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.93",
+        "Unnamed: 1":" - - Balkabağı, kabak, su kabağı (Cucurbita spp.):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.93.10.00.00",
+        "Unnamed: 1":" - - - Dolmalık kabak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.93.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.99.10.00.00",
+        "Unnamed: 1":" - - - Salatalık sebzeler, (marul (Lactuca sativa) ve hindiba (Cichorium spp.) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.20.00.00",
+        "Unnamed: 1":" - - - Pazı ve yaban enginarı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.40.00.00",
+        "Unnamed: 1":" - - - Kebere",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.50.00.00",
+        "Unnamed: 1":" - - - Rezene",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.60.00.00",
+        "Unnamed: 1":" - - - Tatlı mısır",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0709.99.90.00.11",
+        "Unnamed: 1":" - - - - Bamya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.90.00.12",
+        "Unnamed: 1":" - - - - Semizotu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.90.00.13",
+        "Unnamed: 1":" - - - - Maydanoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.90.00.14",
+        "Unnamed: 1":" - - - - Asma yaprağı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0709.99.90.00.18",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.10",
+        "Unnamed: 1":"Sebzeler (pişirilmemiş veya buharda veya suda kaynatılarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pişirilmiş) (dondurulmuş): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0710.10.00.00.00",
+        "Unnamed: 1":" - Patates",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Baklagil sebzeler (kabuklu veya kabuksuz):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0710.21.00.00.00",
+        "Unnamed: 1":" - - Bezelye (Pisum sativum)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.22.00.00.00",
+        "Unnamed: 1":" - - Fasulye (Phaseolus spp., Vigna spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.30.00.00.00",
+        "Unnamed: 1":" - Ispanak, Yeni Zelanda ıspanağı ve orache ıspanağı (bahçe ıspanağı)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.40.00.00.00",
+        "Unnamed: 1":" - Tatlı mısır",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"0710.80",
+        "Unnamed: 1":" - Diğer sebzeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0710.80.10.00.00",
+        "Unnamed: 1":" - - Zeytinler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Capsicum veya Pimenta cinsi meyvalar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0710.80.51.00.00",
+        "Unnamed: 1":" - - - Tatlı biberler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.59.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Mantarlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0710.80.61.00.00",
+        "Unnamed: 1":" - - - Agaricus cinsi mantarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.69.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.70.00.00",
+        "Unnamed: 1":" - - Domatesler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.80.00.00",
+        "Unnamed: 1":" - - Enginarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.85.00.00",
+        "Unnamed: 1":" - - Kuşkonmazlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0710.80.95.00.11",
+        "Unnamed: 1":" - - - Soğan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.95.00.12",
+        "Unnamed: 1":" - - - Havuç",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.95.00.13",
+        "Unnamed: 1":" - - - Pırasa",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.95.00.14",
+        "Unnamed: 1":" - - - Karnabahar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.95.00.15",
+        "Unnamed: 1":" - - - Lahana",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.80.95.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0710.90.00.00.00",
+        "Unnamed: 1":" - Sebze karışımları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.11",
+        "Unnamed: 1":"Geçici olarak konserve edilmiş fakat bu halleriyle derhal yenilmeye ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"elverişli olmayan sebzeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0711.20",
+        "Unnamed: 1":" - Zeytinler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0711.20.10.00.00",
+        "Unnamed: 1":" - - Zeytinyağı imalinde kullanılmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0711.20.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0711.40.00.00.00",
+        "Unnamed: 1":" - Hıyarlar ve kornişonlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Mantarlar ve domalanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0711.51.00.00.00",
+        "Unnamed: 1":" - - Agaricus cinsi mantarlar",
+        "ÖLÇÜ\nBİRİMİ":"Kg\/net eda",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"0711.59.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"0711.90",
+        "Unnamed: 1":" - Diğer sebzeler; sebze karışımları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Sebzeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0711.90.10.00.00",
+        "Unnamed: 1":" - - - Capsicum ve Pimenta cinsi meyvalar (tatlı biberler hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"0711.90.30.00.00",
+        "Unnamed: 1":" - - - Tatlı mısır",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"0711.90.50.00.00",
+        "Unnamed: 1":" - - - Soğanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"0711.90.70.00.00",
+        "Unnamed: 1":" - - - Kebere",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"0711.90.80.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"0711.90.90.00.00",
+        "Unnamed: 1":" - - Sebze karışımları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.12",
+        "Unnamed: 1":"Kurutulmuş sebzeler (bütün halde, kesilmiş, dilimlenmiş ,kırılmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya toz halinde, fakat başka şekilde hazırlanmamış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0712.20.00.00.00",
+        "Unnamed: 1":" - Soğanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Mantarlar, yahudi kulağı (Auricularia spp.), jöle mantarı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(Tremella spp.) ve domalanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0712.31.00.00.00",
+        "Unnamed: 1":" - - Agaricus cinsi mantarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.32.00.00.00",
+        "Unnamed: 1":" - - Yahudi kulağı  (Auricularia spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.33.00.00.00",
+        "Unnamed: 1":" - - Jöle mantarı (Tremella spp.) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.34.00.00.00",
+        "Unnamed: 1":" - - Shiitake (Lentinus edodes)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90",
+        "Unnamed: 1":" - Diğer sebzeler; sebze karışımları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0712.90.05.00.00",
+        "Unnamed: 1":" - - Patates (kesilmiş veya dilimlenmiş olsun olmasın, fakat başka ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      şekilde hazırlanmamış) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Tatlı mısır (Zea Mays var. Saccharata):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0712.90.11.00.00",
+        "Unnamed: 1":" - - - Tohumluk (melez)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"0712.90.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"0712.90.30.00.00",
+        "Unnamed: 1":" - - Domates",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.50.00.00",
+        "Unnamed: 1":" - - Havuç",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.11",
+        "Unnamed: 1":" - - - Sarımsak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.12",
+        "Unnamed: 1":" - - - Pırasa",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.13",
+        "Unnamed: 1":" - - - Ispanak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.14",
+        "Unnamed: 1":" - - - Kuşkonmaz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.15",
+        "Unnamed: 1":" - - - Bamya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.16",
+        "Unnamed: 1":" - - - Bezelye ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.17",
+        "Unnamed: 1":" - - - Kabak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.18",
+        "Unnamed: 1":" - - - Karnabahar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.21",
+        "Unnamed: 1":" - - - Lahana",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.22",
+        "Unnamed: 1":" - - - Patlıcan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0712.90.90.00.29",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.13",
+        "Unnamed: 1":"Kuru baklagiller (kabuksuz) (taneleri ikiye ayrılmış,tane kabukları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"çıkarılmış olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.10",
+        "Unnamed: 1":" - Bezelye (Pisum sativum):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.10.10.00.11",
+        "Unnamed: 1":" - - - Yem bezelyesi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.10.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.10.90.00.11",
+        "Unnamed: 1":" - - - Yem bezelyesi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.10.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.20",
+        "Unnamed: 1":" - Nohut (garbanzos):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.20.00.00.11",
+        "Unnamed: 1":" - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Fasulye (Vigna spp., Phaseolus spp.):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.31",
+        "Unnamed: 1":" - - Vigna mungo (L.) Hepper veya vignaradiata (L.) wilczek",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      türü fasulyeler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.31.00.00.11",
+        "Unnamed: 1":" - - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.31.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.32",
+        "Unnamed: 1":" - - Küçük kırmızı (Adzuki) fasulye (Phaseolus veya Vigna ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     angularis)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.32.00.00.11",
+        "Unnamed: 1":" - - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.32.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.33",
+        "Unnamed: 1":" - - Adi fasulye (beyaz fasulye dahil) (Phaseolus vulgaris):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Tohumluk olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.33.10.00.11",
+        "Unnamed: 1":" - - - - Barbunya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.33.10.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.33.90.00.11",
+        "Unnamed: 1":" - - - - Barbunya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.33.90.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.34",
+        "Unnamed: 1":" - - Bambara Fasulyesi (Vigna subterranea or Voandzeia subterranea):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.34.00.00.11",
+        "Unnamed: 1":" - - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.34.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.35",
+        "Unnamed: 1":" - - Börülce (Vigna unguiculata):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.35.00.00.11",
+        "Unnamed: 1":" - - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.35.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.39",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.39.00.00.11",
+        "Unnamed: 1":" - - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.39.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.40",
+        "Unnamed: 1":" - Mercimekler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.40.00.00.11",
+        "Unnamed: 1":" - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.40.00.00.12",
+        "Unnamed: 1":" - - Yeşil mercimek",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.40.00.00.13",
+        "Unnamed: 1":" - - Kırmızı mercimek",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.40.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.50",
+        "Unnamed: 1":" - Baklalar (Vicia faba var. Major) ve at baklası (Vicia faba var.",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   equina, Vicia faba var. minor)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.50.00.00.11",
+        "Unnamed: 1":" - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.50.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.60",
+        "Unnamed: 1":" - Güvercin bezelye (Cajanus cajan):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.60.00.00.11",
+        "Unnamed: 1":" - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.60.00.00.12",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0713.90.00.00.13",
+        "Unnamed: 1":" - - Tohumluk olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0713.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"07.14",
+        "Unnamed: 1":"Manyok, ararot ,salep, yer elması ,tatlı patates ve yüksek oranda",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"nişasta veya inülin içeren benzeri kök ve yumrular (taze , soğu-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tulmuş, dondurulmuş veya kurutulmuş) (dilimlere ayrılmış veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"\"pellet\" şeklinde olsun olmasın); sagu özü: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0714.10",
+        "Unnamed: 1":" - Manyok (cassava): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0714.10.00.00.11",
+        "Unnamed: 1":" - - İnsan gıdası olarak kullanılmaya elverişli,net muhtevası 28 kg.ı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        geçmeyen ambalajlarda olanlar (taze ve bütün halde veya kabuk-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        suz ve dondurulmuş) (dilimlenmiş olsun olmasın) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.20",
+        "Unnamed: 1":" - Tatlı patates:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0714.20.10.00.00",
+        "Unnamed: 1":" - - Taze, bütün halde (insan gıdası olarak kullanılmaya elverişli hale",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      getirilmiş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0714.20.90.10.00",
+        "Unnamed: 1":" - - - Dondurulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"0714.20.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.30.00.00.00",
+        "Unnamed: 1":" - Hint Patatesi (Dioscorea spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.40.00.00.00",
+        "Unnamed: 1":" - Kulkas Kökü (Taro) (Colocasia spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.50.00.00.00",
+        "Unnamed: 1":" - Yautiya (Xanthosoma spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ararot ve salep kökleri ve yüksek oranda nişasta içeren benzeri kök ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ve yumrular:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0714.90.20.00.11",
+        "Unnamed: 1":" - - - Ararot",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.90.20.00.12",
+        "Unnamed: 1":" - - - Salep",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0714.90.20.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0714.90.90.10.00",
+        "Unnamed: 1":" - - - Dondurulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"0714.90.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    }
+]

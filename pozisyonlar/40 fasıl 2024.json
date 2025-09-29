@@ -1,0 +1,1760 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"40.01",
+        "Unnamed: 1":"Tabii kauçuk, balata, güta -perka, guayül, çıkıl (chicle) ve benzeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tabii sakızlar (ilk şekillerde veya levha, tabaka veya şerit halinde):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4001.10",
+        "Unnamed: 1":" - Tabii kauçuk lateksi (prevulkanize edilmiş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4001.10.00.10.00",
+        "Unnamed: 1":" - - Prevulkanize edilmiş tabii kauçuk lateksi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15.0
+    },
+    {
+        "Unnamed: 0":"4001.10.00.20.00",
+        "Unnamed: 1":" - - Prevulkanize edilmemiş tabii kauçuk lateksi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Tabii kauçuk (diğer şekillerde):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4001.21.00.00.00",
+        "Unnamed: 1":" - - Füme yapraklar (RSS)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15.0
+    },
+    {
+        "Unnamed: 0":"4001.22.00.00.00",
+        "Unnamed: 1":" - - Teknik yönden belirlenmiş tabii kauçuk (TSNR)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15.0
+    },
+    {
+        "Unnamed: 0":"4001.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4001.29.00.10.00",
+        "Unnamed: 1":" - - - Krep kauçuk",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4001.29.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15.0
+    },
+    {
+        "Unnamed: 0":"4001.30.00.00.00",
+        "Unnamed: 1":" - Balata, güta -perka; guayül, çıkıl (chicle) ve benzeri tabii sakızlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.02",
+        "Unnamed: 1":"Sentetik kauçuk veya sıvı yağlardan türetilen taklit kauçuk (ilk ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"şekillerde veya levha, tabaka, şerit halinde) ; 40.01 pozisyonundaki ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"herhangi bir ürünün bu pozisyondaki herhangi bir ürünle olan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"karışımları (ilk şekillerde veya levha, tabaka, şerit halinde):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Stiren-butadien kauçuk (SBR); karboksilenmiş stiren-butadien ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    kauçuk  (XSBR):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.11.00.00.00",
+        "Unnamed: 1":" - - Lateks şeklinde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.19.10.00.00",
+        "Unnamed: 1":" - - - Emilsiyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       (balyalar halinde)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.19.20.00.00",
+        "Unnamed: 1":" - - - Solisyon polimerizasyonu ile üretilen stiren-butadien-stiren ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       blok kopolimerleri (SBS termoplastik elostomerler) (granül, parça veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       toz halinde)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.19.30.00.00",
+        "Unnamed: 1":" - - - Solisyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       (balyalar halinde)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.19.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.20.00.00.00",
+        "Unnamed: 1":" - Butadien kauçuk (BR)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İzobüten-izopren (bütil) kauçuk (IIR); halojenli izobüten -izopren ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   kauçukları (CIIR veya BIIR):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.31.00.00.00",
+        "Unnamed: 1":" - - İzobüten - İzopren (butil) kauçuk (IRR)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kloropren (klor butadien) kauçuk (CR):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.41.00.00.00",
+        "Unnamed: 1":" - - Lateks şeklinde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.49.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Akrilonitril  - butadien kauçuk (NBR):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.51.00.00.00",
+        "Unnamed: 1":" - - Lateks şeklinde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.59.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.60.00.00.00",
+        "Unnamed: 1":" - İzopren kauçuk (IR)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.70.00.00.00",
+        "Unnamed: 1":" - Etilen  - propilen  - konjuge olmamış dien kauçuk (EPDM)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.80.00.00.00",
+        "Unnamed: 1":" - 40.01 Pozisyonundaki ürünlerin bu pozisyondaki ürünlerle olan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   karışımları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.91.00.00.00",
+        "Unnamed: 1":" - - Lateks şeklinde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.99.10.00.00",
+        "Unnamed: 1":" - - - Plastik maddelerin katılmasıyla değişikliğe uğrayan ürünler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4002.99.90.11.00",
+        "Unnamed: 1":" - - - - Her nevi nakil vasıtası iç ve dış lastiği imal ve yenilenmesinde (sırt ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          geçirme işinde) kullanılacak olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4002.99.90.19.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4003.00.00.00.00",
+        "Unnamed: 1":"Rejenere kauçuk (ilk şekillerde, levha, tabaka veya şerit halinde)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4004.00",
+        "Unnamed: 1":"Kauçuğun döküntü, kırpıntı ve artıkları (sertleştirilmiş kauçuk hariç)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve bunlardan elde edilen tozlar ve granüller",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4004.00.00.00.13",
+        "Unnamed: 1":"- Toz ve granüller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4004.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"40.05",
+        "Unnamed: 1":"Karıştırılmış kauçuk (vulkanize edilmemiş) (ilk şekillerde, levha,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tabaka veya şerit halinde):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4005.10.00.00.00",
+        "Unnamed: 1":" - Karbon karası (carbon black) veya silika ile karıştırılmış kauçuk",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4005.20.00.00.00",
+        "Unnamed: 1":" - Çözeltiler; dispersiyonlar (4005.10 alt pozisyondakiler hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4005.91.00.00.00",
+        "Unnamed: 1":" - - Levha, tabaka ve şeritler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4005.99",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4005.99.00.10.00",
+        "Unnamed: 1":" - - - Tabii kauçuğun kırmızı kil veya proteinle olan ana karışımları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15.0
+    },
+    {
+        "Unnamed: 0":"4005.99.00.20.00",
+        "Unnamed: 1":" - - - Vulkanizasyona hazır karışımlar halinde tabii veya sentetik kauçuktan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        granüller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4005.99.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.06",
+        "Unnamed: 1":"Diğer şekillerdeki vulkanize edilmemiş kauçuk (çubuk, boru ve profil",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"şekiller gibi) ve vulkanize edilmemiş kauçuktan eşya (disk ve rondela ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"gibi):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4006.10",
+        "Unnamed: 1":" - Kauçuk lastiklere yeniden sırt geçirmede kullanılan profiller",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4006.10.00.00.11",
+        "Unnamed: 1":" - - Kauçuk kaplanmış tekstil şerit ve kuşaklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4006.10.00.00.12",
+        "Unnamed: 1":" - - Kauçuk kaplanmış metal şerit ve kuşaklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4006.10.00.00.13",
+        "Unnamed: 1":" - - Üzerine kauçuk yapıştırıcı sürülmüş kauçuk mesnetli şeritler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4006.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4006.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4006.90.00.10.00",
+        "Unnamed: 1":" - - Vulkanize edilmemiş kauçuktan profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4006.90.00.20.00",
+        "Unnamed: 1":" - - Contalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4006.90.00.30.00",
+        "Unnamed: 1":" - - Rondelalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4006.90.00.40.00",
+        "Unnamed: 1":" - - Çıplak kauçuk iplik",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4006.90.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4007.00.00.00.00",
+        "Unnamed: 1":"Vulkanize edilmiş kauçuktan iplik ve ipler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.08",
+        "Unnamed: 1":"Vulkanize edilmiş kauçuktan levha, tabaka, şerit, çubuk ve profiller",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(sertleştirilmiş kauçuktan olanlar hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Gözenekli kauçuktan:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4008.11.00.00.00",
+        "Unnamed: 1":" - - Levha, tabaka ve şeritler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4008.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Gözenekli olmayan kauçuktan:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4008.21",
+        "Unnamed: 1":" - - Levha, tabaka ve şeritler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4008.21.10.00.00",
+        "Unnamed: 1":" - - - Yer kaplamaları ve paspaslar",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4008.21.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4008.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4008.29.00.10.00",
+        "Unnamed: 1":" - - - Sivil hava taşıtlarında kullanılmaya mahsus ölçüsüne göre kesilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        profiller ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4008.29.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.09",
+        "Unnamed: 1":"Vulkanize edilmiş kauçuktan boru ve hortumlar, bağlantı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"elemanlarıyla birlikte olsun olmasın (conta, dirsek, rondela gibi) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(sertleştirilmiş kauçuktan olanlar hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer maddeler ile takviye edilmemiş veya başka şekilde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   birleştirilmemiş: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.11.00.00.00",
+        "Unnamed: 1":" - - Bağlantı elemanları olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.12",
+        "Unnamed: 1":" - - Bağlantı elemanları ile birlikte olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.12.00.10.00",
+        "Unnamed: 1":" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya mahsus",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.12.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Sadece metallerle takviye edilmiş veya başka şekilde birleştirilmiş:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.21",
+        "Unnamed: 1":" - - Bağlantı elemanları olmayanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.21.00.10.00",
+        "Unnamed: 1":" - - - Basınçlı hava çekiçleri için özel hortumlar (asgari 40 atmosfer basınçla",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        2 saat devamlı ve fiili bir çalışmaya dayanıklı olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.21.00.90.11",
+        "Unnamed: 1":" - - - - Alçak ve yüksek basınçlı buhar için hortumlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.21.00.90.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.22",
+        "Unnamed: 1":" - - Bağlantı elemanları ile birlikte olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.22.00.10.00",
+        "Unnamed: 1":" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya mahsus",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"         olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.22.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Sadece dokumaya elverişli maddelerle takviye edilmiş veya başka",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   şekilde birleştirilmiş :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.31.00.00.00",
+        "Unnamed: 1":" - - Bağlantı elemanları olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.32",
+        "Unnamed: 1":" - - Bağlantı elemanları ile birlikte olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.32.00.10.00",
+        "Unnamed: 1":" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      mahsus olanlar) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.32.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer maddelerle takviye edilmiş veya başka şekilde birleştirilmiş :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.41",
+        "Unnamed: 1":" - - Bağlantı elemanları olmayanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.41.00.10.00",
+        "Unnamed: 1":" - - - Basınçlı hava çekiçleri için özel hortumlar (asgari 40 atmosfer basınçla ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        2 saat devamlı ve fiili bir çalışmaya dayanıklı olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4009.41.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.42",
+        "Unnamed: 1":" - - Bağlantı elemanları ile birlikte olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4009.42.00.10.00",
+        "Unnamed: 1":" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        mahsus olanlar) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":"4009.42.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.10",
+        "Unnamed: 1":"Vulkanize edilmiş kauçuktan taşıyıcı kolanlar ve transmisyon kolanları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Taşıyıcı kolanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4010.11.00.00.00",
+        "Unnamed: 1":" - - Sadece metalle takviye edilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.12.00.00.00",
+        "Unnamed: 1":" - - Sadece dokumaya elverişli maddelerle takviye edilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Transmisyon kolanları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4010.31.00.00.00",
+        "Unnamed: 1":" - - Dış çevresi 60 cm.yi geçen fakat 180 cm.yi geçmeyen, kesiti trapez ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     şeklinde (V-kolanlar), V-yivli olan sonsuz transmisyon kolanları  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.32.00.00.00",
+        "Unnamed: 1":" - - Dış çevresi 60 cm.yi geçen fakat 180 cm.yi geçmeyen, kesiti trapez ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      transmisyon kolanları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.33.00.00.00",
+        "Unnamed: 1":" - - Dış çevresi 180 cm.yi geçen fakat 240 cm.yi geçmeyen, kesiti trapez ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      şeklinde (V-kolanlar), V-yivli olan sonsuz transmisyon kolanları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.34.00.00.00",
+        "Unnamed: 1":" - - Dış çevresi 180 cm.yi geçen fakat 240 cm.yi geçmeyen, kesiti trapez ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      şeklinde (V-kolanlar) olan ( V-yivli olanlar hariç) sonsuz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      transmisyon kolanları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.35.00.00.00",
+        "Unnamed: 1":" - - Dış çevresi 60 cm.yi geçen fakat 150 cm.yi geçmeyen, sonsuz ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      senkronize kolanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.36.00.00.00",
+        "Unnamed: 1":" - - Dış çevresi 150 cm.yi geçen fakat 198 cm.yi geçmeyen, sonsuz ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      senkronize kolanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4010.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.11",
+        "Unnamed: 1":"Kauçuktan yeni dış lastikler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4011.10",
+        "Unnamed: 1":" - Otomobillerde kullanılanlar (steyşın ve yarış otomobilleri dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4011.10.00.10.00",
+        "Unnamed: 1":" - - Turizm amaçlı otomobillerde kullanılan türden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4011.10.00.90.09",
+        "Unnamed: 1":" - - - Yarış otomobillerine ait olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.10.00.90.11",
+        "Unnamed: 1":" - - - Tekstil kuşaklı radyal dış lastikler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.10.00.90.12",
+        "Unnamed: 1":" - - - Çelik kuşaklı radyal dış lastikler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.10.00.90.13",
+        "Unnamed: 1":" - - - Konvansiyonel (crossply) dış lastikler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.10.00.90.18",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.20",
+        "Unnamed: 1":" - Otobüs ve kamyonlarda kullanılanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Yükleme endeksi 121'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4011.20.10.00.11",
+        "Unnamed: 1":" - - - Radyal dış lastikler (kolonlar dahil)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.20.10.00.12",
+        "Unnamed: 1":" - - - Konvansiyonel (cropssply) dış lastikler (kolonlar dahil) ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.20.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Yükleme endeksi 121'i geçenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4011.20.90.00.11",
+        "Unnamed: 1":" - - - Radyal dış lastikler (kolonlar dahil)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.20.90.00.12",
+        "Unnamed: 1":" - - - Konvansiyonel (cropssply) dış lastikler (kolonlar dahil) ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.20.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.30",
+        "Unnamed: 1":" - Uçaklarda kullanılanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4011.30.00.10.00",
+        "Unnamed: 1":" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.30.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.40.00.00.00",
+        "Unnamed: 1":" - Motosikletlerde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.50.00.00.00",
+        "Unnamed: 1":" - Bisikletlerde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.70.00.00.00",
+        "Unnamed: 1":" - Tarım ve orman taşıtları ve makinelerinde kullanılan türde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.80.00.00.00",
+        "Unnamed: 1":" - Yapı, madencilik veya sanayi elleçleme  taşıtları ve makinelerinde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     kullanılan türde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4011.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.12",
+        "Unnamed: 1":"Kauçuktan sırt geçirilmiş veya kullanılmış dış lastikler; kauçuktan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dolgu lastikleri veya tekerlek bandajları, dış lastikler için sırtlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve kolanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Sırt geçirilmiş dış lastikler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4012.11.00.00.00",
+        "Unnamed: 1":" - - Otomobillerde kullanılan türde olanlar (steyşın ve yarış otomobilleri dahil)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.12.00.00.00",
+        "Unnamed: 1":" - - Otobüs veya kamyonlarda kullanılan türde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.13",
+        "Unnamed: 1":" - - Hava taşıtlarında kullanılmaya mahsus olanlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4012.13.00.10.00",
+        "Unnamed: 1":" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.13.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.20",
+        "Unnamed: 1":" - Kullanılmış dış lastikler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4012.20.00.10.00",
+        "Unnamed: 1":" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.20.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Dolgu lastikleri veya tekerlek bandajları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4012.90.20.00.11",
+        "Unnamed: 1":" - - - Dolgu lastikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.90.20.00.12",
+        "Unnamed: 1":" - - - Tekerlek bandajları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.90.30.00.00",
+        "Unnamed: 1":" - - Dış lastikler için sırtlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4012.90.90.00.00",
+        "Unnamed: 1":" - - Kolanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.13",
+        "Unnamed: 1":"Kauçuktan iç lastikler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4013.10.00.00.00",
+        "Unnamed: 1":" - Otomobiller (steyşın ve yarış otomobilleri dahil), otobüsler ve kamyon-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   larda kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4013.20.00.00.00",
+        "Unnamed: 1":" - Bisikletlerde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4013.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4013.90.00.00.11",
+        "Unnamed: 1":" - - Motosikletlerde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4013.90.00.00.12",
+        "Unnamed: 1":" - - Traktör ön iç lastikleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4013.90.00.00.13",
+        "Unnamed: 1":" - - Traktör arka iç lastikleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4013.90.00.00.14",
+        "Unnamed: 1":" - - Uçak iç lastikleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4013.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.14",
+        "Unnamed: 1":"Sertleştirilmemiş vulkanize kauçuktan hijyen eşyası ve eczacılık",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"eşyası (emzikli biberon başlıkları dahil) (sertleştirilmiş kauçuktan aksamı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"bulunsun bulunmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4014.10.00.00.00",
+        "Unnamed: 1":" - Prezervatifler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"4014.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4014.90.00.00.12",
+        "Unnamed: 1":" - - Emzikli biberon başlıkları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"4014.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.15",
+        "Unnamed: 1":"Sertleştirilmemiş vulkanize kauçuktan her türlü giyim eşyası ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"aksesuarı (eldivenler, tek parmak eldivenler ve parmaksız",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"eldivenler dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Eldivenler, tek parmak eldivenler ve parmaksız eldivenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4015.12",
+        "Unnamed: 1":" - - Tıpta, cerrahide, dişçilik veya veterinerlikte kullanılan eldivenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4015.12.00.00.11",
+        "Unnamed: 1":" - - - Nitril olanlar",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"4015.12.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"4015.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4015.19.00.00.11",
+        "Unnamed: 1":" - - - Ev işlerinde kullanılan eldivenler",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"4015.19.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"4015.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"40.16",
+        "Unnamed: 1":"Sertleştirilmemiş vulkanize kauçuktan diğer eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.10",
+        "Unnamed: 1":" - Gözenekli kauçuktan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Teknik işlerde kullanılanlar (sivil hava taşıtlarında kullanılmaya mahsus ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olanlar) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.10.00.11.00",
+        "Unnamed: 1":" - - - Rondelalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.10.00.12.00",
+        "Unnamed: 1":" - - - Contalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.10.00.19.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.10.00.21.00",
+        "Unnamed: 1":" - - - Rondelalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.10.00.22.00",
+        "Unnamed: 1":" - - - Contalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.10.00.29.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.91.00.00.00",
+        "Unnamed: 1":" - - Yer döşemeleri ve paspaslar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4016.92.00.00.00",
+        "Unnamed: 1":" - - Silgiler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4016.93",
+        "Unnamed: 1":" - - Contalar, rondelalar ve diğer sızdırmazlık contaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Teknik işlerde kullanılanlar (sivil hava taşıtlarında kullanılmaya mahsus  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       olanlar) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.93.00.11.00",
+        "Unnamed: 1":" - - - - Rondelalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.93.00.12.00",
+        "Unnamed: 1":" - - - - Contalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.93.00.19.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.93.00.21.00",
+        "Unnamed: 1":" - - - - Rondelalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.93.00.22.00",
+        "Unnamed: 1":" - - - - Contalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"4016.93.00.29.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4016.94.00.00.00",
+        "Unnamed: 1":" - - Gemi veya doklarda kullanılan çarpmayı önleyici tamponlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (şişirilebilir olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4016.95.00.00.00",
+        "Unnamed: 1":" - - Diğer şişirilebilir eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"4016.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - 87.01 ila 87.05 pozisyonlarındaki motorlu araçlar için olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.99.52.00.00",
+        "Unnamed: 1":" - - - - Kauçuk-metal bağlantılı parçalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70.0
+    },
+    {
+        "Unnamed: 0":"4016.99.57.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.99.91.00.00",
+        "Unnamed: 1":" - - - - Kauçuk-metal bağlantılı parçalar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4016.99.97.00.12",
+        "Unnamed: 1":" - - - - - Emzikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4016.99.97.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4017.00",
+        "Unnamed: 1":"Her şekilde sertleştirilmiş kauçuk (ebonit gibi) (döküntü ve artıklar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dahil); sertleştirilmiş kauçuktan eşya :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Her şekilde sertleştirilmiş kauçuk (ebonit gibi)(döküntü ve artıklar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4017.00.00.10.11",
+        "Unnamed: 1":" - - Külçe ,blok, levha ,tabaka, şerit, çubuk, profil veya boru halinde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4017.00.00.10.12",
+        "Unnamed: 1":" - - Sertleştirilmiş kauçuğun döküntü, artık ve tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4017.00.00.91.00",
+        "Unnamed: 1":" - Boru ve hortumlar (gaz veya sıvı taşımak için bağlantı parçaları takılmış)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (sivil hava taşıtlarında kullanılmaya mahsus olanlar) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4017.00.00.99.11",
+        "Unnamed: 1":" - - Sağlığa, tıbba ve cerrahiye mahsus eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4017.00.00.99.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    }
+]

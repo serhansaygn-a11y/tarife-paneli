@@ -1,0 +1,1112 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":"3",
+        "474\nVERGİ\nHADDİ":"4"
+    },
+    {
+        "Unnamed: 0":"01.01",
+        "Unnamed: 1":" Canlı atlar,eşekler,katırlar ve bardolar: ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Atlar: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0101.21.00.00.00",
+        "Unnamed: 1":" - - Damızlıklar ",
+        "ÖLÇÜ\nBİRİMİ":"Baş",
+        "474\nVERGİ\nHADDİ":"10"
+    },
+    {
+        "Unnamed: 0":"0101.29",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0101.29.10.00.00",
+        "Unnamed: 1":" - - - Kesimlik atlar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"35"
+    },
+    {
+        "Unnamed: 0":"0101.29.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"35"
+    },
+    {
+        "Unnamed: 0":"0101.30",
+        "Unnamed: 1":" - Eşekler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0101.30.00.10.00",
+        "Unnamed: 1":" - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"Baş",
+        "474\nVERGİ\nHADDİ":"10"
+    },
+    {
+        "Unnamed: 0":"0101.30.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Baş",
+        "474\nVERGİ\nHADDİ":"35"
+    },
+    {
+        "Unnamed: 0":"0101.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0101.90.00.10.00",
+        "Unnamed: 1":" - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"Baş",
+        "474\nVERGİ\nHADDİ":"10"
+    },
+    {
+        "Unnamed: 0":"0101.90.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Baş",
+        "474\nVERGİ\nHADDİ":"35"
+    },
+    {
+        "Unnamed: 0":"01.02",
+        "Unnamed: 1":" Canlı büyükbaş hayvanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Sığırlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.21",
+        "Unnamed: 1":"  - - Damızlıklar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.21.10.00.00",
+        "Unnamed: 1":"  - - - Düveler (doğurmamış dişi sığırlar)",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"10 "
+    },
+    {
+        "Unnamed: 0":"0102.21.30.00.00",
+        "Unnamed: 1":"  - - - İnekler",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"10 "
+    },
+    {
+        "Unnamed: 0":"0102.21.90.00.00",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"10 "
+    },
+    {
+        "Unnamed: 0":"0102.29",
+        "Unnamed: 1":"  - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.29.05.00.00",
+        "Unnamed: 1":" - - - Bibos veya Poephagus alt cinsine ait olanlar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.29.10.00.00",
+        "Unnamed: 1":"  - - - - Ağırlığı 80 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - Ağırlığı 80 kg.ı geçen fakat 160 kg.ı geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0102.29.21.00.00",
+        "Unnamed: 1":"  - - - - - Kesimlik olanlar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.29.00.00",
+        "Unnamed: 1":"  - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - Ağırlığı 160 kg.ı geçen fakat 300 kg.ı geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0102.29.41.00.00",
+        "Unnamed: 1":"  - - - - - Kesimlik olanlar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.49.00.00",
+        "Unnamed: 1":"  - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - Ağırlığı 300 kg.ı geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - - Düveler (doğurmamış dişi sığırlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - - - Kesimlik olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.29.51.00.11",
+        "Unnamed: 1":" - - - - - - - Ağırlığı 400 kg.ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.51.00.19",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.59.00.00",
+        "Unnamed: 1":"  - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - - İnekler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - - - Kesimlik olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.29.61.00.11",
+        "Unnamed: 1":" - - - - - - - Ağırlığı 400 kg.ı geçen dişi danalar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.61.00.19",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.69.00.00",
+        "Unnamed: 1":"  - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - - - Kesimlik olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.29.91.00.11",
+        "Unnamed: 1":" - - - - - - - Ağırlığı 400 kg.ı geçen erkek danalar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.91.00.19",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0102.29.99.00.00",
+        "Unnamed: 1":"  - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - Bufalo:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.31.00.00.00",
+        "Unnamed: 1":" - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"10 "
+    },
+    {
+        "Unnamed: 0":"0102.39",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.39.10.00.00",
+        "Unnamed: 1":" - - - Evcil türler",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150"
+    },
+    {
+        "Unnamed: 0":"0102.39.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150"
+    },
+    {
+        "Unnamed: 0":"0102.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.90.20.00.00",
+        "Unnamed: 1":" - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"10 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0102.90.91.00.00",
+        "Unnamed: 1":" - - - Evcil türler",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150"
+    },
+    {
+        "Unnamed: 0":"0102.90.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"01.03",
+        "Unnamed: 1":" Canlı domuzlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0103.10",
+        "Unnamed: 1":"  - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0103.10.00.10.00",
+        "Unnamed: 1":"  - - Evcil damızlıklar ",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0103.10.00.90.00",
+        "Unnamed: 1":"  - - Diğer damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0103.91",
+        "Unnamed: 1":"  - - Ağırlığı 50 kg. dan az olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0103.91.10.00.00",
+        "Unnamed: 1":"  - - - Evcil türler",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"85 "
+    },
+    {
+        "Unnamed: 0":"0103.91.90.00.00",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"85 "
+    },
+    {
+        "Unnamed: 0":"0103.92",
+        "Unnamed: 1":"  - -  Ağırlığı 50 kg. veya daha fazla olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Evcil türler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0103.92.11.00.00",
+        "Unnamed: 1":"  - - - - Ağırlığı en az 160 kg. olan ve en az bir defa doğurmuş domuzlar ",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"85 "
+    },
+    {
+        "Unnamed: 0":"0103.92.19.00.00",
+        "Unnamed: 1":"  - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"85 "
+    },
+    {
+        "Unnamed: 0":"0103.92.90.00.00",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"85 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"01.04",
+        "Unnamed: 1":" Canlı koyun ve keçiler: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0104.10",
+        "Unnamed: 1":"  -  Koyunlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0104.10.10.00.00",
+        "Unnamed: 1":"  - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"20"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0104.10.30.00.00",
+        "Unnamed: 1":"  - - - Kuzular (1 yaşında veya daha küçük)",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0104.10.80.00.00",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0104.20",
+        "Unnamed: 1":" - Keçiler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0104.20.10.00.00",
+        "Unnamed: 1":"  - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"20 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0104.20.90.00.13",
+        "Unnamed: 1":"  - - - Oğlaklar",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150 "
+    },
+    {
+        "Unnamed: 0":"0104.20.90.00.18",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Baş",
+        "474\nVERGİ\nHADDİ":"150"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"01.05",
+        "Unnamed: 1":" Canlı kümes hayvanları [horozlar, tavuklar (\"Gallus Domesticus\" türü)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" ördekler, kazlar,  hindiler ve beç tavukları gibi evcil türler]:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  -  Ağırlığı 185gr.ı geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.11",
+        "Unnamed: 1":"  - -  Horozlar ve tavuklar (\"Gallus Domesticus\" türü):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Büyük ebeveyn ve ebeveyn dişi civcivler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.11.11.00.00",
+        "Unnamed: 1":"  - - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.11.19.00.11",
+        "Unnamed: 1":" - - - - - Etlik",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.11.19.00.12",
+        "Unnamed: 1":" - - - - - Yumurtacı",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.11.19.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.11.91.00.11",
+        "Unnamed: 1":" - - - - - Etlik ebeveyn",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.11.91.00.12",
+        "Unnamed: 1":" - - - - - Yumurtacı ebeveyn",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.11.91.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.11.99.00.11",
+        "Unnamed: 1":" - - - - - Etlik",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.11.99.00.12",
+        "Unnamed: 1":" - - - - - Yumurtacı",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.11.99.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.12",
+        "Unnamed: 1":"  - - Hindiler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.12.00.10.11",
+        "Unnamed: 1":"  - - - - Hindi civcivi",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.12.00.10.19",
+        "Unnamed: 1":"  - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.12.00.90.00",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.13.",
+        "Unnamed: 1":"  - - Ördekler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.13.00.00.11",
+        "Unnamed: 1":"  - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.13.00.00.12",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.14",
+        "Unnamed: 1":"  - - Kazlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.14.00.00.11",
+        "Unnamed: 1":"  - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.14.00.00.12",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.15",
+        "Unnamed: 1":"  - - Beç tavukları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.15.00.00.11",
+        "Unnamed: 1":"  - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.15.00.00.12",
+        "Unnamed: 1":"  - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.94",
+        "Unnamed: 1":"  - - Tavuklar ve horozlar (Gallus Domesticus türü) ; ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.94.00.10.00",
+        "Unnamed: 1":"  - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.94.00.90.11",
+        "Unnamed: 1":" - - - - Etlik",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.94.00.90.12",
+        "Unnamed: 1":" - - - - Yumurtacı",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.94.00.90.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":"0105.99",
+        "Unnamed: 1":"  - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Ördekler: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.99.10.10.00",
+        "Unnamed: 1":"  - - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.99.10.90.00",
+        "Unnamed: 1":"  - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Kazlar: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.99.20.10.00",
+        "Unnamed: 1":"  - - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.99.20.90.00",
+        "Unnamed: 1":"  - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Hindiler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.99.30.10.00",
+        "Unnamed: 1":"  - - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.99.30.90.00",
+        "Unnamed: 1":"  - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - - Beç tavukları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0105.99.50.10.00",
+        "Unnamed: 1":"  - - - - Damızlık olanlar ",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0105.99.50.90.00",
+        "Unnamed: 1":"  - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":"75"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"01.06",
+        "Unnamed: 1":" Canlı diğer hayvanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Memeliler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.11.00.00.00",
+        "Unnamed: 1":" - - Maymunlar (Primatlar)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.12.00.00.00",
+        "Unnamed: 1":" - - Balinalar, yunus balıkları ve domuzbalıkları ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    (Cetacea takımından memeliler); manati-deniz güzeli  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    ve deniz inekleri (Sirenia takımından memeliler); fok, deniz",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    aslanı ve deniz aygırları (Pinnipedia alt takımından memeliler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.13.00.00.00",
+        "Unnamed: 1":" - - Develer ve diğer devegillerden olanlar (Camelidae)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.14",
+        "Unnamed: 1":" - - Tavşanlar veya yabani tavşanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Evcil tavşanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.14.10.10.00",
+        "Unnamed: 1":" - - - -  Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.14.10.90.00",
+        "Unnamed: 1":" - - - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.14.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.19.00.10.00",
+        "Unnamed: 1":" - - - Kobaylar, fareler",
+        "ÖLÇÜ\nBİRİMİ":"- ",
+        "474\nVERGİ\nHADDİ":"5"
+    },
+    {
+        "Unnamed: 0":"0106.19.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"- ",
+        "474\nVERGİ\nHADDİ":"30"
+    },
+    {
+        "Unnamed: 0":"0106.20",
+        "Unnamed: 1":" - Sürüngenler (yılanlar ve kaplumbağalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.20.00.00.11",
+        "Unnamed: 1":" - - Süs kaplumbağası (akvaryum için)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kuşlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0106.31.00.00.00",
+        "Unnamed: 1":" - - Yırtıcı kuşlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.32.00.00.00",
+        "Unnamed: 1":" - - Papağanımsılar (papağanlar, muhabbetkuşları, ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     makaolar ve kakadular dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0106.33",
+        "Unnamed: 1":" - - Devekuşları; emular (Dromaius novaehollandiae): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.33.00.10.00",
+        "Unnamed: 1":" - - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.33.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.39",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - -  Güvercinler: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.39.10.10.00",
+        "Unnamed: 1":" - - - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.39.10.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - -  Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.39.80.10.00",
+        "Unnamed: 1":" - - - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.39.80.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" -  Böcekler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.41",
+        "Unnamed: 1":" - - Arılar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.41.00.10.00",
+        "Unnamed: 1":" - - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.41.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.49",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.49.00.00.11",
+        "Unnamed: 1":" - - - Biyolojik mücadelede kullanılan parazit ve predatörler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.49.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.90.00.10.00",
+        "Unnamed: 1":" - - Damızlıklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0106.90.00.90.11",
+        "Unnamed: 1":" - - - Kurbağalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.90.00.90.12",
+        "Unnamed: 1":" - - - Biyolojik mücadelede kullanılan parazit ve predatörler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    },
+    {
+        "Unnamed: 0":"0106.90.00.90.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30 "
+    }
+]

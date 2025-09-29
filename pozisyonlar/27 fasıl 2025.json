@@ -1,0 +1,2276 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":"BİRİMİ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ":3,
+        "474    VERGİ HADDİ    (%)":4
+    },
+    {
+        "Unnamed: 0":"27.01",
+        "Unnamed: 1":"Taşkömürü; taşkömüründen elde edilen briketler,topak ve",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"benzeri katı yakıtlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Taşkömürü (toz haline getirilmiş olsun olmasın fakat",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   aglomere edilmemiş):",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2701.11.00.00.00",
+        "Unnamed: 1":" - - Antrasit  ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2701.12",
+        "Unnamed: 1":" - - Bitümenli taşkömürü :",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2701.12.10.00.00",
+        "Unnamed: 1":" - - - Kokluk taşkömürü",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2701.12.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2701.19.00.00.00",
+        "Unnamed: 1":" - - Diğer taşkömürleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2701.20",
+        "Unnamed: 1":" - Taşkömüründen elde edilen briketler,topak ve benzeri katı yakıtlar ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2701.20.00.00.11",
+        "Unnamed: 1":" - - Briketler",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2701.20.00.00.12",
+        "Unnamed: 1":" - - Topaklar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2701.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.02",
+        "Unnamed: 1":"Linyit (aglomere edilmiş olsun olmasın) (siyah kehribar hariç) :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2702.10.00.00.00",
+        "Unnamed: 1":" - Linyit (toz haline getirilmiş olsun olmasın fakat aglomere edilmemiş) ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2702.20.00.00.00",
+        "Unnamed: 1":" - Aglomere linyit ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2703.00",
+        "Unnamed: 1":"Turba (turba döküntüleri dahil) (aglomere edilmiş olsun olmasın)",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2703.00.00.00.11",
+        "Unnamed: 1":"- Tarımda kullanılan turba ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2703.00.00.00.12",
+        "Unnamed: 1":"- Tarımda kullanılan aglomere turba ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2703.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2704.00",
+        "Unnamed: 1":"Taşkömürü,linyit ve turbadan elde edilen kok ve semikok (aglo -",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mere edilmiş olsun olmasın); karni kömürü:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2704.00.10.00.00",
+        "Unnamed: 1":" -Taşkömüründen elde edilen kok ve semikok",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":"2704.00.30.00.00",
+        "Unnamed: 1":" - Linyitten elde edilen kok ve semikok",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2704.00.90.10.00",
+        "Unnamed: 1":" - - Karni kömürü",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":5
+    },
+    {
+        "Unnamed: 0":"2704.00.90.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2705.00.00.00.00",
+        "Unnamed: 1":"Havagazı, sugazı, fakir gaz ve benzeri gazlar (petrol gazı ve ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"diğer gazlı hidrokarbonlar hariç)",
+        "ÖLÇÜ":"1 000 m3",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2706.00",
+        "Unnamed: 1":"Taşkömürü, linyit ve turbanın damıtılmasından elde edilen katranlar",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve diğer mineral katranlar (suyu alınmış veya kısmen damıtılmış",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olsun olmasın) (yeniden terkip edilmiş katranlar dahil)",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2706.00.00.00.11",
+        "Unnamed: 1":"- Taşkömürü katranı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2706.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.07",
+        "Unnamed: 1":"Yüksek sıcaklıkta taşkömürü katranının damıtılmasından elde ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edilen yağlar ve diğer ürünler; içindeki aromatik unsurların ağır -",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lığı aromatik olmayan unsurlardan fazla olan benzeri müstahzarlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2707.10.00.00.00",
+        "Unnamed: 1":" - Benzol (benzen)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.20.00.00.00",
+        "Unnamed: 1":" - Toluol (toluen)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.30.00.00.00",
+        "Unnamed: 1":" - Ksilol (ksilen)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.40.00.00.00",
+        "Unnamed: 1":" - Naftalin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.50",
+        "Unnamed: 1":" - ISO 3405 Metodu ile (ASTMD 86 Metoduna eşdeğer) ile ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   250°C de hacim itibariyle % 65 veya daha fazlası (kayıplar dahil)",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   damıtılan diğer aromatik hidrokarbon karışımları:  ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2707.50.00.00.11",
+        "Unnamed: 1":" - - Solvent nafta (çözücü nafta)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.50.00.00.12",
+        "Unnamed: 1":" - - Piroliz benzini (Pygas) (Reformaj işlemine tabi tutulacak olanlar)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.50.00.00.19",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2707.91.00.00.00",
+        "Unnamed: 1":" - - Kreozot yağları",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ham yağlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2707.99.11.00.00",
+        "Unnamed: 1":" - - - - 200°C ye kadar sıcaklıkta,hacim itibariyle % 90 veya daha fazla",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          damıtılmış ham hafif yağlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.20.00.00",
+        "Unnamed: 1":" - - - Sülfürik asitle diğer kısımları alınmış petrol eterleri; Antrasen",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Bazik ürünler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2707.99.50.00.11",
+        "Unnamed: 1":" - - - - Piridin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.50.00.12",
+        "Unnamed: 1":" - - - - Akridin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.50.00.13",
+        "Unnamed: 1":" - - - - Anilin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.50.00.19",
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Fenoller",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2707.99.80.00.11",
+        "Unnamed: 1":" - - - - Krezoller",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.80.00.12",
+        "Unnamed: 1":" - - - - Ksilenoller",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.80.00.13",
+        "Unnamed: 1":" - - - - Kinoller",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.80.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2707.99.91.00.00",
+        "Unnamed: 1":" - - - - 28.03 Pozisyonundaki ürünlerin imaline mahsus olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2707.99.99.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.08",
+        "Unnamed: 1":"Taşkömürü katranından veya diğer mineral katranlardan elde ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edilen  zift ve zift koku :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2708.10.00.00.00",
+        "Unnamed: 1":" - Zift",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2708.20.00.00.00",
+        "Unnamed: 1":" - Zift koku",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2709.00",
+        "Unnamed: 1":"Petrol yağları ve bitümenli minerallerden elde edilen yağlar (ham):",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2709.00.10.00.00",
+        "Unnamed: 1":" - Tabii gazın kondanseleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2709.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.10",
+        "Unnamed: 1":"Petrol yağları ve bitümenli minerallerden elde edilen yağlar",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(hamyağlar hariç) ; esas unsur olarak, ağırlık itibariyle",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"% 70 veya daha fazla petrol yağları veya bitümenli minerallerden",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" elde edilen yağları içeren ve tarifenin başka yerinde",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" belirtilmeyen veya yer almayan müstahzarlar, atık yağlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Petrol yağları ve bitümenli minerallerden elde edilen yağlar",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(ham yağlar hariç) ; esas unsur olarak, ağırlık itibariyle % 70",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya daha fazla petrol yağları veya bitümenli minerallerden",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"elde edilen yağları içeren ve tarifenin başka yerinde belirtilmeyen",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya yer almayan müstahzarlar (biodizel ihtiva edenler ve",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" atık yağlar hariç):",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12",
+        "Unnamed: 1":" - - Hafif yağlar ve müstahzarları  :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12.11.00.00",
+        "Unnamed: 1":" - - - Özel bir işleme tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - 2710.12.11.00 alt pozisyonunda belirtilen işlemlerden başka",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        bir işlemle  kimyasal değişime tabi tutulacak olanlar",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12.15.00.11",
+        "Unnamed: 1":" - - - - Yakıt Nafta",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.15.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğer amaçlar için kullanılanlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - -  Özel benzinler :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12.21.00.00",
+        "Unnamed: 1":" - - - - - White spirit",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.25.00.00",
+        "Unnamed: 1":" - - - - -  Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - -  Diğerleri :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Motor benzini :  ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12.31.00.00",
+        "Unnamed: 1":" - - - - - - Uçak benzini ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - -  Diğerleri : ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - -  İçindeki kurşun miktarı litrede 0,013 gramı geçmeyenler :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12.41.00.00",
+        "Unnamed: 1":" - - - - - - - - Oktanı (RON) 95'den az olanlar",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - - Oktanı (RON) 95 veya daha fazla fakat 98'den az olanlar",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12.45.00.11",
+        "Unnamed: 1":" - - - - - - - - - Kurşunsuz benzin 95 oktan",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.45.00.13",
+        "Unnamed: 1":" - - - - - - - - - Kurşunsuz benzin 95 oktan (E10)",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.45.00.18",
+        "Unnamed: 1":" - - - - - - - - - Diğerleri",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - - Oktanı (RON) 98 veya daha fazla olanlar",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.12.49.00.11",
+        "Unnamed: 1":" - - - - - - - - - Kurşunsuz benzin 98 oktan",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.49.00.12",
+        "Unnamed: 1":" - - - - - - - - - Kurşunsuz benzin 98 oktan (E10)",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.49.00.18",
+        "Unnamed: 1":" - - - - - - - - - Diğerleri",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.50.00.00",
+        "Unnamed: 1":" - - - - - - - İçindeki kurşun miktarı litrede 0,013 gramı geçenler",
+        "ÖLÇÜ":"m³ (1)",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.70.00.00",
+        "Unnamed: 1":" - - - - - Benzin tipi jet yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - - Diğer hafif yağlar ",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2710.12.90.00.11",
+        "Unnamed: 1":" - - - - - - Diğer solventler (çözücüler)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.12.90.00.19",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Orta yağlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.11.00.00",
+        "Unnamed: 1":" - - - -  Özel bir işleme tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.15.00.00",
+        "Unnamed: 1":" - - - - 2710.19.11.00 alt pozisyonunda belirtilen işlemlerden başka",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"           bir işlemle  kimyasal değişime tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğer amaçlar için kullanılanlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Kerosen :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Jet yakıtı:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.21.00.11",
+        "Unnamed: 1":" - - - - - - - Sürdürülebilir Havacılık Yakıtı (SAF)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.21.00.19",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.25.00.11",
+        "Unnamed: 1":" - - - - - - - Gazyağı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.25.00.19",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.29.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağır yağlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Gaz oiller :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.31.00.00",
+        "Unnamed: 1":" - - - - -  Özel bir işleme tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.35.00.00",
+        "Unnamed: 1":" - - - - - 2710.19.31.00 alt pozisyonunda belirtilen işlemlerden başka",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            bir işlemle  kimyasal değişime tabi tutulacak olanlar ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - - Diğer amaçlar için kullanılanlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - Ağırlıkça en az %80 oranında biyolojik bazlı karbon içeriğine ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"               sahip olanlar: (2)",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.42.00.11",
+        "Unnamed: 1":" - - - - - - - - HVO Motorin (Hidroişlemle üretilmiş yenilenebilir parafinik motorin)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.42.00.19",
+        "Unnamed: 1":" - - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - Diğerleri:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.44.00.11",
+        "Unnamed: 1":" - - - - - - - - Motorin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.44.00.12",
+        "Unnamed: 1":" - - - - - - - - GTL Motorin (Gazdan sentezlenerek üretilmiş parafinik motorin)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.44.00.17",
+        "Unnamed: 1":" - - - - - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.44.00.29",
+        "Unnamed: 1":" - - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçen fakat % 0,002'yi ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"              geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.46.00.18",
+        "Unnamed: 1":" - - - - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.46.00.29",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Ağırlık itibariyle kükürt oranı % 0,002'yi geçen fakat % 0,1'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.47.00.18",
+        "Unnamed: 1":" - - - - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.47.00.19",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Ağırlık itibariyle kükürt oranı % 0,1'i geçenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.48.00.11",
+        "Unnamed: 1":" - - - - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.48.00.18",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Fuel oiller :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.51.00.00",
+        "Unnamed: 1":" - - - - - Özel bir işleme tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.55.00.00",
+        "Unnamed: 1":" - - - - - 2710.19.51.00 Alt pozisyonunda belirtilen işlemlerden başka",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            bir işlemle  kimyasal değişime tabi tutulacak olanlar ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğer amaçlar için kullanılanlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Ağırlık itibariyle kükürt miktarı %0,1'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.62.00.10",
+        "Unnamed: 1":" - - - - - - - Kalorifer Yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.62.00.11",
+        "Unnamed: 1":" - - - - - - - Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.62.00.31",
+        "Unnamed: 1":" - - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.62.00.39",
+        "Unnamed: 1":" - - - - - - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Ağırlık itibariyle kükürt miktarı %0,1'i geçen fakat % 0,5'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.66.00.10",
+        "Unnamed: 1":" - - - - - - - Kalorifer Yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.66.00.11",
+        "Unnamed: 1":" - - - - - - - Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.66.00.31",
+        "Unnamed: 1":" - - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.66.00.39",
+        "Unnamed: 1":" - - - - - - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Ağırlık itibariyle kükürt miktarı % 0,5'i geçenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - Ağırlık itibariyle kükürt miktarı %0,5'i geçen fakat %1'i geçmeyenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.67.00.12",
+        "Unnamed: 1":" - - - - - - - - Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.67.00.13",
+        "Unnamed: 1":" - - - - - - - - Kalorifer Yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.67.00.31",
+        "Unnamed: 1":" - - - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.67.00.39",
+        "Unnamed: 1":" - - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - Ağırlık itibariyle kükürt miktarı %1'i geçenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.67.00.41",
+        "Unnamed: 1":" - - - - - - - - Yüksek Kükürtlü Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.67.00.42",
+        "Unnamed: 1":" - - - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.67.00.49",
+        "Unnamed: 1":" - - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Yağlama yağları ; diğer yağlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.71.00.00",
+        "Unnamed: 1":" - - - - - Özel bir işleme tabi tutulacak olanlar                                ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.75.00.00",
+        "Unnamed: 1":" - - - - - 2710.19.71.00 alt pozisyonunda belirtilen işlemlerden başka",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          bir işlemle  kimyasal değişime tabi tutulacak olanlar            ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğer amaçlar için kullanılanlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.81.00.00",
+        "Unnamed: 1":" - - - - - - Motor yağları, kompresör yağlama yağları, türbin yağlama yağları ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.83.00.00",
+        "Unnamed: 1":" - - - - - - Hidrolik yağları                               ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.85.00.00",
+        "Unnamed: 1":" - - - - - - Beyaz yağlar, sıvı parafin                                                ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.87.00.00",
+        "Unnamed: 1":" - - - - - - Dişli yağları ve redüktör yağları                                        ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.91.00.00",
+        "Unnamed: 1":" - - - - - - Metal işlemeye mahsus bileşikler, kalıp çıkarma yağları,",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"             aşınmayı önleyici yağlar                                                  ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.93.00.00",
+        "Unnamed: 1":" - - - - - - Elektrik izolasyonuna mahsus yağlar                                                   ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Diğer yağlama yağları ve diğer yağlar                               ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.19.99.00.11 ",
+        "Unnamed: 1":" - - - - - - - Spindle Oil, Light Neutral, Heavy Neutral, Bright Stock",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.99.00.25",
+        "Unnamed: 1":" - - - - - - - Diğer madeni yağlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.19.99.00.98",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20",
+        "Unnamed: 1":" - Petrol yağları ve bitümenli minerallerden elde edilen yağlar",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(ham yağlar hariç) ; esas unsur olarak, ağırlık itibariyle % 70",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya daha fazla petrol yağları veya bitümenli minerallerden",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"elde edilen yağları içeren ve tarifenin başka yerinde belirtilmeyen",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya yer almayan müstahzarlar (biodizel ihtiva edenler) (atık yağlar hariç):",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Gaz oiller :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.11.00.11",
+        "Unnamed: 1":" - - - - Motorin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.11.00.12",
+        "Unnamed: 1":" - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.11.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçen fakat % 0,1'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçen fakat % 0,002'yi ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"         geçmeyenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.16.00.11",
+        "Unnamed: 1":" - - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.16.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Ağırlık itibariyle kükürt oranı % 0,002'yi geçen fakat % 0,1'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.16.00.21",
+        "Unnamed: 1":" - - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.16.00.29",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle kükürt oranı % 0,1'i geçenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.19.00.11",
+        "Unnamed: 1":" - - - - Damıtık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.19.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Fuel oiller :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle kükürt miktarı % 0,5'i geçmeyenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.32.00.10",
+        "Unnamed: 1":" - - - - Özel bir işleme tabi tutulacak olanlar   ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğer amaçlar için kullanılanlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Ağırlık itibariyle kükürt miktarı %0,1'i geçmeyenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.32.00.11",
+        "Unnamed: 1":" - - - - - - Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.32.00.12",
+        "Unnamed: 1":" - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.32.00.19",
+        "Unnamed: 1":" - - - - - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Ağırlık itibariyle kükürt miktarı %0,1'i geçen fakat % 0,5'i geçmeyenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.32.00.21",
+        "Unnamed: 1":" - - - - - - Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.32.00.22",
+        "Unnamed: 1":" - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.32.00.29",
+        "Unnamed: 1":" - - - - - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle kükürt miktarı % 0,5'i geçenler",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.38.00.10",
+        "Unnamed: 1":" - - - - Özel bir işleme tabi tutulacak olanlar   ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğer amaçlar için kullanılanlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Ağırlık itibariyle kükürt miktarı %0,5'i geçen fakat %1'i geçmeyenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.38.00.11",
+        "Unnamed: 1":" - - - - - - Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.38.00.12",
+        "Unnamed: 1":" - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.38.00.19",
+        "Unnamed: 1":" - - - - - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Ağırlık itibariyle kükürt miktarı %1'i geçenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.20.38.00.21",
+        "Unnamed: 1":" - - - - - - Fuel oil",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.38.00.22",
+        "Unnamed: 1":" - - - - - - Artık denizcilik yakıtı",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.38.00.29",
+        "Unnamed: 1":" - - - - - - Diğerleri ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.20.90.00.00",
+        "Unnamed: 1":" - - Diğer yağlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Atık yağlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.91",
+        "Unnamed: 1":" - - Poliklorlu bifeniller (PCB'ler), poliklorlu terfeniller (PCT'ler) veya ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     polibromlu bifeniller (PBB'ler) içerenler:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2710.91.10.00.00",
+        "Unnamed: 1":" - - - 50 mg\/kg veya daha fazla konsantrasyon seviyesinde poliklorlu",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       bifeniller (PCB'ler) içerenler",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.91.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri, 50 mg\/kg'dan daha düşük bir konsantrasyon seviyesinde",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       poliklorlu bifeniller (PCB'ler) içersin veya içermesin poliklorlu terfeniller ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       (PCT'ler) veya polibromlu bifeniller (PBB'ler) içerenler ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":"2710.99.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.11",
+        "Unnamed: 1":"Petrol gazları ve diğer gazlı hidrokarbonlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Sıvılaştırılmış:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.11.00.00.00",
+        "Unnamed: 1":" - - Doğal gaz                                                        ",
+        "ÖLÇÜ":"     TJ",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.12",
+        "Unnamed: 1":" - - Propan:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Saflığı % 99 veya daha fazla olan propan:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.12.11.00.00",
+        "Unnamed: 1":" - - - - Güç temininde veya yakıt olarak kullanılmaya mahsus olanlar      ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.12.19.00.00",
+        "Unnamed: 1":" - - - - Diğer amaçlar için kullanılanlar                                 ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.12.91.00.00",
+        "Unnamed: 1":" - - - - Özel bir işleme tabi tutulacak olanlar                             ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.12.93.00.00",
+        "Unnamed: 1":" - - - - 2711.12.91.00  Alt pozisyonlarında belirtilen işlemlerden",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          başka bir işlem ile kimyasal değişime tabi tutulacak olanlar                  ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğer amaçlar için kullanılanlar :                              ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.12.94.00.00",
+        "Unnamed: 1":" - - - - - % 90'dan daha fazla saflıkta fakat % 99'dan daha az saflıkta",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.12.97.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.13",
+        "Unnamed: 1":" - - Bütan:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.13.10.00.00",
+        "Unnamed: 1":" - - - Özel bir işleme tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.13.30.00.00",
+        "Unnamed: 1":" - - - 2711.13.10.00 Alt pozisyonunda belirtilen işlemden başka bir ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        işlemle kimyasal değişime tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğer amaçlar için kullanılanlar :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.13.91.00.00",
+        "Unnamed: 1":" - - - - % 90'dan daha fazla saflıkta fakat % 95'den daha az saflıkta",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.13.97.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.14",
+        "Unnamed: 1":" - - Etilen,propilen,bütilen ve bütadien",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2711.14.00.00.11",
+        "Unnamed: 1":" - - - Etilen",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.14.00.00.12",
+        "Unnamed: 1":" - - - Propilen",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.14.00.00.13",
+        "Unnamed: 1":" - - - Bütilen ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.14.00.00.14",
+        "Unnamed: 1":" - - - Bütadien",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.19.00.00.11",
+        "Unnamed: 1":" - - - Sıvılaştırılmış petrol gazı (L.P.G.)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.19.00.00.12",
+        "Unnamed: 1":" - - - Etan",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.19.00.00.13",
+        "Unnamed: 1":" - - - Metan",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.19.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Gaz halinde olanlar:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2711.21.00.00.00",
+        "Unnamed: 1":" - - Doğal gaz",
+        "ÖLÇÜ":"TJ",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.11",
+        "Unnamed: 1":" - - - Propan",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.12",
+        "Unnamed: 1":" - - - Bütan",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.13",
+        "Unnamed: 1":" - - - Etilen",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.14",
+        "Unnamed: 1":" - - - Propilen",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.15",
+        "Unnamed: 1":" - - - Bütilen ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.16",
+        "Unnamed: 1":" - - - Bütadien",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.17",
+        "Unnamed: 1":" - - - Metan",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.18",
+        "Unnamed: 1":" - - - Etan",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":"2711.29.00.00.29",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.12",
+        "Unnamed: 1":"Vazelin; parafin; mikro-kristal bünyeli petrol mumu,yağlı mum, ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ozokerit, linyit mumu, turba mumu,diğer mineral mumlar,",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sentez veya diğer işlemlerle elde edilen benzeri ürünler ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(renklendirilmiş olsun olmasın):",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2712.10",
+        "Unnamed: 1":" - Vazelin:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2712.10.10.00.00",
+        "Unnamed: 1":" - - Ham vazelin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.20",
+        "Unnamed: 1":" - Ağırlık itibariyle % 0,75'den az yağ içeren parafin:",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2712.20.10.00.00",
+        "Unnamed: 1":" - - Sentetik parafin (molekül ağırlığı 460 veya daha fazla fakat 1560'ı",
+        "ÖLÇÜ":"  ",
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      geçmeyen)",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2712.20.90.00.11",
+        "Unnamed: 1":" - - - Ham parafin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.20.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ozokerit, linyit mumu ve turba mumu (tabii ürünler):",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ham                                                    ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2712.90.11.00.11",
+        "Unnamed: 1":" - - - - Ham ozokerit",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90.11.00.12",
+        "Unnamed: 1":" - - - - Ham linyit mumu ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90.11.00.13",
+        "Unnamed: 1":" - - - - Ham turba mumu",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri                                          ",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2712.90.19.00.11",
+        "Unnamed: 1":" - - - - Ham olmayan ozokerit",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90.19.00.12",
+        "Unnamed: 1":" - - - - Ham olmayan linyit mumu ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90.19.00.13",
+        "Unnamed: 1":" - - - - Ham olmayan turba mumu",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ham :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2712.90.31.00.00",
+        "Unnamed: 1":" - - - - Özel bir işleme tabi tutulacak olanlar ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90.33.00.00",
+        "Unnamed: 1":" - - - - 2712.90.31.00 Alt pozisyonunda belirtilen işlemden başka bir ",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          işlemle kimyasal değişime tabi tutulacak olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90.39.00.00",
+        "Unnamed: 1":" - - - - Diğer amaçlar için kullanılanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2712.90.91.00.00",
+        "Unnamed: 1":" - - - - Zincir uzunluğu 24 veya daha fazla fakat 28 karbon atomunu ",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          geçmeyen, ağırlık itibariyle % 80 veya daha fazla alken-1 ihtiva",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          eden alken-1 karışımları",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2712.90.99.10.00",
+        "Unnamed: 1":" - - - - - Parafin",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":"2712.90.99.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.13",
+        "Unnamed: 1":"Petrol koku, petrol bitümeni ve petrol yağlarının veya bitümenli",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"minerallerden elde edilen yağların diğer kalıntıları :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Petrol koku :",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2713.11.00.00.00",
+        "Unnamed: 1":" - - Kalsine edilmemiş",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2713.12.00.00.00",
+        "Unnamed: 1":" - - Kalsine edilmiş",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2713.20",
+        "Unnamed: 1":" - Petrol bitümeni",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2713.20.00.00.11",
+        "Unnamed: 1":" - - Penetrasyon asfalt",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2713.20.00.00.12",
+        "Unnamed: 1":" - - Blown",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2713.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2713.90",
+        "Unnamed: 1":" - Petrol yağlarının veya bitümenli minerallerden elde edilen ",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   yağların diğer kalıntıları :",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2713.90.10.00.00",
+        "Unnamed: 1":" - - 28.03 Pozisyonundaki ürünlerin imaline mahsus olanlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2713.90.90.00.11",
+        "Unnamed: 1":" - - - Petrol yağları veya şist yağlarının diğer kalıntıları ",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2713.90.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"27.14",
+        "Unnamed: 1":"Tabii bitümen ve tabii asfalt; bitümenli veya yağlı şist ve katran-",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lı kumlar; asfaltitler ve asfaltlı kayalar :",
+        "ÖLÇÜ":"  ",
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2714.10.00.00.00",
+        "Unnamed: 1":" - Bitümenli veya yağlı şist ve katranlı kumlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2714.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ":" ",
+        "474    VERGİ HADDİ    (%)":" "
+    },
+    {
+        "Unnamed: 0":"2714.90.00.00.11",
+        "Unnamed: 1":" - - Tabii bitümen",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2714.90.00.00.12",
+        "Unnamed: 1":" - - Tabii asfalt",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2714.90.00.00.13",
+        "Unnamed: 1":" - - Asfaltlı kayalar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2714.90.00.00.14",
+        "Unnamed: 1":" - - Asfaltitler",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2714.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":"2715.00.00.00.00",
+        "Unnamed: 1":"Esasını tabii asfalt, tabii bitümen, petrol bitümeni, mineral",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"katran veya mineral katran zifti (bitümenli sakızlar, cut-backs",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"gibi) teşkil eden bitümenli karışımlar",
+        "ÖLÇÜ":"-",
+        "474    VERGİ HADDİ    (%)":20
+    },
+    {
+        "Unnamed: 0":"2716.00.00.00.00",
+        "Unnamed: 1":"Elektrik enerjisi",
+        "ÖLÇÜ":"1000 kWs",
+        "474    VERGİ HADDİ    (%)":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(1) 15 0C'lik ısıda ölçülmüş.",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(2) EN 16575 standardındaki tanıma göre",
+        "ÖLÇÜ":null,
+        "474    VERGİ HADDİ    (%)":null
+    }
+]

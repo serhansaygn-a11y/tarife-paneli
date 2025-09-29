@@ -1,0 +1,146 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"66.01",
+        "Unnamed: 1":"Şemsiyeler ve güneş şemsiyeleri (bastonlu şemsiyeler, bahçe",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"şemsiyeleri ve benzeri şemsiyeler dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6601.10.00.00.00",
+        "Unnamed: 1":" - Bahçe şemsiyeleri ve benzeri şemsiyeler",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6601.91.00.00.00",
+        "Unnamed: 1":" - - İçiçe girebilen milleri olanlar",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"6601.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6601.99.20.00.00",
+        "Unnamed: 1":" - - - Kılıfları dokunmuş mensucattan olanlar",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"6601.99.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6602.00.00.00.00",
+        "Unnamed: 1":"Bastonlar, iskemle bastonlar, kamçılar, kırbaçlar ve benzerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"66.03",
+        "Unnamed: 1":"66.01 ve 66.02 Pozisyonlarına dahil eşyanın aksam, süs ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"teferruatı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6603.20.00.00.00",
+        "Unnamed: 1":" - Şemsiyelerin bir araya getirilmiş tel mesnetleri (mil üzerine",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   monte edilenler dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"6603.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6603.90.10.00.00",
+        "Unnamed: 1":" - - Saplar ve uçlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6603.90.90.10.00",
+        "Unnamed: 1":" - - - 66.01 Pozisyonuna giren eşyanın aksamı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"6603.90.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    }
+]

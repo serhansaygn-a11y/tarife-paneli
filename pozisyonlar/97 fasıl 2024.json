@@ -1,0 +1,344 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"97.01",
+        "Unnamed: 1":"Tamamen elle yapılmış yağlı boya, karakalem ve pastel resimler ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(49.06 pozisyonundaki çizimler ve elle boyanmış veya elle dekore ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edilmiş fabrikasyon ürünler hariç); kolajlar (yapıştırma resimler), mozaikler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve benzeri dekoratif plakalar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - 100 yaşını geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9701.21.00.00.00",
+        "Unnamed: 1":" - - Yağlı boya, karakalem ve pastel resimler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9701.22.00.00.00",
+        "Unnamed: 1":" - - Mozaikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9701.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9701.91.00.00.00",
+        "Unnamed: 1":" - - Yağlı boya, karakalem ve pastel resimler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9701.92.00.00.00",
+        "Unnamed: 1":" - - Mozaikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9701.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9701.99.00.05.00",
+        "Unnamed: 1":" - - - Tamamen elle yapılmış sanat eseri niteliğindeki kolaj ve benzeri dekoratif panolar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.10.00",
+        "Unnamed: 1":" - - - Çiçekler, çiçek goncaları ve tomurcuklar ile yapraklı dallar, ince dallar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ve bitkilerin diğer parçaları, otlar, yosunlar ve dikenlerden yapılmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.20.00",
+        "Unnamed: 1":" - - - Plastik maddelerden yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.30.00",
+        "Unnamed: 1":" - - - Ahşaptan yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.40.00",
+        "Unnamed: 1":" - - - Tabii mantardan yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.50.00",
+        "Unnamed: 1":" - - - Baskı yapılmış resim veya dekoratif motiflerle süslenmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.60.00",
+        "Unnamed: 1":" - - - Mensucattan yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.70.00",
+        "Unnamed: 1":" - - - Adi metallerden yapılmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9701.99.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"97.02",
+        "Unnamed: 1":"Orijinal gravürler, estamplar ve litoğrafyalar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9702.10.00.00.00",
+        "Unnamed: 1":" - 100 yaşını geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9702.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"97.03",
+        "Unnamed: 1":"Heykel veya yontu sanatının orijinal eserleri (yapıldığı madde ne",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olursa olsun)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9703.10.00.00.00",
+        "Unnamed: 1":" - 100 yaşını geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9703.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9704.00.00.00.00",
+        "Unnamed: 1":"Kullanılmış veya kullanılmamış posta pulları, damga ve 'harç ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pulları, matbu posta pulu veya posta pulu yerine geçen damga",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" taşıyan zarflar ve benzerleri (4907 pozisyonunda yer alanlar hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"97.05",
+        "Unnamed: 1":"Zooloji, botanik, mineroloji, anatomiye ait veya tarihi, arkeolojik,",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"paleontolojik, etnoğrafik veya nümizmatik bir değeri bulunan",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kolleksiyon ve örnekler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9705.10.00.00.00",
+        "Unnamed: 1":" - Arkeolojik, etnoğrafik veya tarihi bir değeri bulunan koleksiyon ve örnekler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Zoolojik, botanik, minerolojik, anatomik veya paleontolojik bir değeri bulunan  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   koleksiyon ve örnekler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9705.21.00.00.00",
+        "Unnamed: 1":" - - İnsan örnekleri ve bunların parçaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9705.22.00.00.00",
+        "Unnamed: 1":" - - Soyu tükenmiş veya nesli tükenmekte olan türler ve bunların parçaları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9705.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Nümizmatik bir değeri bulunan koleksiyon ve örnekler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9705.31.00.00.00",
+        "Unnamed: 1":" - - 100 yaşını geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9705.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"97.06",
+        "Unnamed: 1":"Eskiliği yüzyılı aşan antika eşya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9706.10.00.00.00",
+        "Unnamed: 1":" - 250 yaşını geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"9706.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0.0
+    }
+]

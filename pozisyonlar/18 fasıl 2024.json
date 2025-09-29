@@ -1,0 +1,392 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"1801.00",
+        "Unnamed: 1":"Kakao dane ve kırıkları (ham veya kavrulmuş, bütün veya kırık)",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1801.00.00.00.11",
+        "Unnamed: 1":"- Dane kakao (ham)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"1801.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1802.00.00.00.00",
+        "Unnamed: 1":"Kakao kabukları, iç kabukları, zarları ve diğer kakao döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"18.03",
+        "Unnamed: 1":"Kakao hamuru (yağı alınmış olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1803.10.00.00.00",
+        "Unnamed: 1":" - Yağı alınmamış",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1803.20.00.00.00",
+        "Unnamed: 1":" - Tamamen veya kısmen yağı alınmış",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1804.00.00.00.00",
+        "Unnamed: 1":"Kakao yağı (katı ve sıvı)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1805.00.00.00.00",
+        "Unnamed: 1":"Kakao tozu (ilave şeker veya diğer tatlandırıcı maddeler içermeyenler)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"18.06",
+        "Unnamed: 1":"Çikolata ve kakao içeren diğer gıda müstahzarları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.10",
+        "Unnamed: 1":" - Kakao tozu (ilave şeker veya diğer tatlandırıcı maddeler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   içerenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.10.15.00.00",
+        "Unnamed: 1":" - - Sakkaroz içermeyenler veya ağırlık itibariyle % 5'den az sakkaroz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (sakkaroz olarak ifade edilen invert şeker dahil) veya sakkaroz olarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ifade edilen izoglikoz içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.10.20.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 5 veya daha fazla fakat % 65'den az sakkaroz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (sakkaroz olarak ifade edilen invert şeker dahil) veya sakkaroz oIarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ifade edilen izoglikoz içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.10.30.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 65 veya daha fazla fakat % 80'den az sakkaroz ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (sakkaroz olarak ifade edilen invert şeker dahil)veya sakkaroz olarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ifade edilen izoglikoz içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.10.90.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 80 veya daha fazla sakkaroz (sakkaroz olarak ifade",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     edilen invert şeker dahil) veya sakkaroz olarak ifade edilen izoglikoz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.20",
+        "Unnamed: 1":" - Ağırlığı 2 kg'dan fazla olan kalıp,dilim veya çubuklar halinde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   veya  sıvı, hamur, toz, granül veya benzeri şekillerde olup, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  muhteviyatı 2 kg'ı geçen kaplarda veya ambalajlarda sunulmuş olan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   diğer müstahzarlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.20.10.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 31 veya daha fazla kakao yağı içerenler veya kakao",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     yağı ile katı süt yağının birlikte oranı ağırlık itibariyle % 31 veya daha ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.20.30.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle kakao yağı ile katı süt yağının birlikte oranı % 25 veya  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     daha fazla fakat % 31'den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.20.50.00.00",
+        "Unnamed: 1":" - - - Ağırlık itibariyle % 18 veya daha fazla kakao yağı içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.20.70.00.00",
+        "Unnamed: 1":" - - - Sütlü çikolata kırıntıları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.20.80.00.00",
+        "Unnamed: 1":" - - - Kakao ile kaplanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.20.95.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri (kalıp, dilim veya çubuk halinde):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.31.00.00.00",
+        "Unnamed: 1":" - - Doldurulmuş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.32",
+        "Unnamed: 1":" - - Doldurulmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.32.10.00.00",
+        "Unnamed: 1":" - - - İlave hububat, meyva veya sert kabuklu meyva içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.32.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Çikolata ve çikolata mamulleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Çikolatalar (pralinler dahil) (doldurulmuş olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.90.11.00.00",
+        "Unnamed: 1":" - - - - Alkol içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.90.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1806.90.31.00.00",
+        "Unnamed: 1":" - - - - Doldurulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.90.39.00.00",
+        "Unnamed: 1":" - - - - Doldurulmamış",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.90.50.00.00",
+        "Unnamed: 1":" - - Kakaolu şekerci mamulleri ve şeker yerine kullanılan maddelerden",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      imal edilmiş kakaolu şekerci mamulleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.90.60.00.00",
+        "Unnamed: 1":" - - Ekmeğe sürülerek yenilen kakaolu ürünler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.90.70.00.00",
+        "Unnamed: 1":" - - Meşrubat yapımında kullanılan kakaolu müstahzarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"1806.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    }
+]

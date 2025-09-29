@@ -1,0 +1,1610 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"1601.00",
+        "Unnamed: 1":"Etten, sakatattan, kandan veya böcekten yapılmış sosisler ve benzeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ürünler; esası bu ürünler olan gıda müstahzarları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1601.00.10.00.00",
+        "Unnamed: 1":" - Karaciğerden yapılanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":107
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Sosisler (kurutulmuş veya sürülebilir, pişirilmemiş)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1601.00.91.00.11",
+        "Unnamed: 1":" - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":107
+    },
+    {
+        "Unnamed: 0":"1601.00.91.00.19",
+        "Unnamed: 1":" - - - Diğer hallerde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":107
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1601.00.99.00.21",
+        "Unnamed: 1":" - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":107
+    },
+    {
+        "Unnamed: 0":"1601.00.99.00.28",
+        "Unnamed: 1":" - - - Diğer hallerde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":107
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"16.02",
+        "Unnamed: 1":"Hazırlanmış veya konserve edilmiş et, sakatat, kan veya böcek:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.10.00.00.00",
+        "Unnamed: 1":" - Homojenize müstahzarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.20",
+        "Unnamed: 1":" - Hayvanların karaciğerlerinden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Kaz veya ördek karaciğerlerinden olanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.20.10.00.11",
+        "Unnamed: 1":" - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.20.10.00.19",
+        "Unnamed: 1":" - - - Diğer hallerde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"1602.20.90.00.11",
+        "Unnamed: 1":" - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.20.90.00.19",
+        "Unnamed: 1":" - - - Diğer hallerde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - 01.05 Pozisyonundaki kümes hayvanlarından olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.31",
+        "Unnamed: 1":" - - Hindiden olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle % 57 veya daha fazla kümes hayvanlarının eti veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        sakatatını içerenler (1) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Sadece pişmemiş hindi eti içerenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.31.11.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.31.11.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"1602.31.19.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.31.19.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"1602.31.80.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.31.80.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.32",
+        "Unnamed: 1":" - - Horoz ve tavuklardan olanlar (Gallus domesticus  türü) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle % 57 veya daha fazla kümes hayvanlarının eti veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        sakatatını içerenler (1) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - Pişirilmemiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.32.11.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.32.11.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"  ",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.32.19.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.32.19.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Ağırlık itibariyle % 25 veya daha fazla fakat % 57 'den az",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        kümes hayvanlarının eti veya sakatatını içerenler (1) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.32.30.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.32.30.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.32.90.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.32.90.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.39",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle % 57 veya daha fazla kümes hayvanlarının eti veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        sakatatını içerenler (1) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Pişirilmemiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.39.21.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.39.21.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.39.29.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.39.29.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.39.85.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.39.85.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Domuzdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.41",
+        "Unnamed: 1":" - - But ve but parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Evcil domuzdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.41.10.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.41.10.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.41.90.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.41.90.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.42",
+        "Unnamed: 1":" - - Kol ve kol parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Evcil domuzdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.42.10.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.42.10.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.42.90.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.42.90.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49",
+        "Unnamed: 1":" - - Diğerleri (karışımlar dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - -  Evcil domuzdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Ağırlık itibariyle % 80 veya daha fazla her türden et veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          sakatat içerenler (bütün katı yağları dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Bel (boyun hariç) ve parçaları (but ve bel karışımları dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"1602.49.11.00.11",
+        "Unnamed: 1":" - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49.11.00.19",
+        "Unnamed: 1":" - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Boyun ve parçaları (boyun ve kol karışımları dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.49.13.00.11",
+        "Unnamed: 1":" - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49.13.00.19",
+        "Unnamed: 1":" - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - But, kol, bel ve boyun ve bunların parçalarını içeren diğer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"             karışımlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.49.15.00.11",
+        "Unnamed: 1":" - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49.15.00.19",
+        "Unnamed: 1":" - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.49.19.00.11",
+        "Unnamed: 1":" - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49.19.00.19",
+        "Unnamed: 1":" - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Ağırlık itibariyle % 40 veya daha fazla, fakat % 80' den az her",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          türden et veya sakatat içerenler (bütün katı yağlar dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.49.30.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49.30.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Ağırlık itibariyle % 40' dan az her tür et veya sakatat içerenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          (bütün katı yağlar dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.49.50.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49.50.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.49.90.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.49.90.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.50",
+        "Unnamed: 1":" - Sığırdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Pişirilmemiş; pişirilmiş ve pişirilmemiş et veya sakatat karışımları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.50.10.00.11",
+        "Unnamed: 1":" - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.50.10.00.19",
+        "Unnamed: 1":" - - - Diğer hallerde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1602.50.31.00.00",
+        "Unnamed: 1":" - - - Hava almayan kaplarda salamura edilmiş sığır eti",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.50.95.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90",
+        "Unnamed: 1":" - Diğerleri (hayvanların kan müstahzarları dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Hayvanların kan müstahzarları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.10.00.11",
+        "Unnamed: 1":" - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.10.00.19",
+        "Unnamed: 1":" - - - Diğer hallerde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - -  Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Av hayvanlarından veya tavşandan olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.31.00.11",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.31.00.19",
+        "Unnamed: 1":" - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Evcil domuz eti veya sakatat içerenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.51.00.11",
+        "Unnamed: 1":" - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.51.00.19",
+        "Unnamed: 1":" - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Sığır eti veya sakatat içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Pişirilmemiş; pişirilmiş ve pişirilmemiş et veya sakatat karışımları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.61.00.11",
+        "Unnamed: 1":" - - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.61.00.19",
+        "Unnamed: 1":" - - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.69.00.11",
+        "Unnamed: 1":" - - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.69.00.19",
+        "Unnamed: 1":" - - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Koyundan:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.91.00.11",
+        "Unnamed: 1":" - - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.91.00.19",
+        "Unnamed: 1":" - - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Keçiden:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.95.00.11",
+        "Unnamed: 1":" - - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.95.00.19",
+        "Unnamed: 1":" - - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1602.90.99.00.11",
+        "Unnamed: 1":" - - - - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":"1602.90.99.00.19",
+        "Unnamed: 1":" - - - - - - - Diğer hallerde  olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":135
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1603.00",
+        "Unnamed: 1":"Et, balık, kabuklu hayvanlar, yumuşakçalar veya diğer su",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"omurgasızlarının hülasa ve suları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1603.00.10.00.00",
+        "Unnamed: 1":" - Net muhtevası 1 kg. ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1603.00.80.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"16.04",
+        "Unnamed: 1":"Hazırlanmış veya konserve edilmiş balıklar; havyar ve balık yumurtalarından",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"elde edilen havyar yerine kullanılan ürünler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bütün veya parça halindeki balıklar (kıyılmamış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.11.00.00.00",
+        "Unnamed: 1":" - - Som balıkları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.12",
+        "Unnamed: 1":" - - Ringa balıkları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.12.10.00.00",
+        "Unnamed: 1":" - - - Çiğ filetolar (sadece hamur veya ekmek kırıntılarıyla kaplanmış,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        yağda ön kızartma yapılmış olsun olmasın; dondurulmuş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.12.91.00.00",
+        "Unnamed: 1":" - - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.12.99.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.13",
+        "Unnamed: 1":" - - Sardalya, sardinella ve palatika veya çaça balıkları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Sardalyalar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.13.11.00.00",
+        "Unnamed: 1":" - - - - Zeytinyağı ile hazırlanmış veya konserve edilmiş olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.13.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.13.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.14",
+        "Unnamed: 1":" - - Ton balıkları, skipjack ve palamut (Sarda spp.):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ton balıkları ve skipjack :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Skipjack:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.14.21.00.00",
+        "Unnamed: 1":" - - - - - Bitkisel yağlarla hazırlanmış veya konserve edilmiş olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.14.26.00.00",
+        "Unnamed: 1":" - - - - - - Filetolar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.14.28.00.00",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Sarı yüzgeçli orkinos (Thunnus albacares):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.14.31.00.00",
+        "Unnamed: 1":" - - - - - Bitkisel yağlarla hazırlanmış veya konserve edilmiş olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.14.36.00.00",
+        "Unnamed: 1":" - - - - - - Filetolar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.14.38.00.00",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.14.41.00.00",
+        "Unnamed: 1":" - - - - - Bitkisel yağlarla hazırlanmış veya konserve edilmiş olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.14.46.00.00",
+        "Unnamed: 1":" - - - - - - Filetolar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.14.48.00.00",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.14.90.00.00",
+        "Unnamed: 1":" - - - Palamutlar (Sarda spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.15",
+        "Unnamed: 1":" - - Uskumru balıkları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Uskumru (Scomber scombrus) ve kolyoz (Scomber japonicus)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        türleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.15.11.00.00",
+        "Unnamed: 1":" - - - - Filetolar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.15.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.15.90.00.00",
+        "Unnamed: 1":" - - - Avustralya uskumrusu (Scomber australasicus) türleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.16.00.00.00",
+        "Unnamed: 1":" - - Hamsiler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.17.00.00.00",
+        "Unnamed: 1":" - - Yılan Balıkları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.18.00.00.00",
+        "Unnamed: 1":" - - Köpekbalığı yüzgeçleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.19.10.00.00",
+        "Unnamed: 1":" - - - Salmonidae türleri (som balıkları hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Euthynnus cinsi balıklar, skipjack (Katsuwonus pelamis) hariç :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.19.31.00.00",
+        "Unnamed: 1":" - - - - Filetolar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.19.39.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.19.50.00.00",
+        "Unnamed: 1":" - - - Tek renkli Orcynopsis türü balıklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.19.91.00.00",
+        "Unnamed: 1":"- - - - Çiğ filetolar (sadece hamur veya ekmek kırıntılarıyla kaplanmış,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        yağda ön kızartma yapılmış olsun olmasın; dondurulmuş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.19.92.00.00",
+        "Unnamed: 1":" - - - - - Morina balıkları (Gadus morhua,Gadus ogac,Gadus macrocephalus)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.19.93.00.00",
+        "Unnamed: 1":" - - - - - Kömür balıkları (Pollachius virens)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.19.94.00.00",
+        "Unnamed: 1":" - - - - - Berlam balıkları (Merluccius spp., Urophycis spp.)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.19.95.00.00",
+        "Unnamed: 1":" - - - - - Alaska mezgit (Theragra chalcogramma) ve mezgit (Pollachius",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            pollachius) balıkları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.19.97.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.20",
+        "Unnamed: 1":" - Hazırlanmış veya konserve edilmiş diğer balıklar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.20.05.00.00",
+        "Unnamed: 1":" - - Surimi müstahzarları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.20.10.00.00",
+        "Unnamed: 1":" - - - Som balıkları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.20.30.00.00",
+        "Unnamed: 1":" - - - Salmonidaeler (som balıkları hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.20.40.00.00",
+        "Unnamed: 1":" - - - Hamsiler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Sardalyalar, palamut, uskumru (Scomber scombrus) ve kolyoz ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        (Scomber japonicus) türleri, tek renkli Orcynopsis türü balıklar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1604.20.50.00.11",
+        "Unnamed: 1":" - - - - Sardalya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.20.50.00.12",
+        "Unnamed: 1":" - - - - Uskumru",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.20.50.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.20.70.00.00",
+        "Unnamed: 1":" - - - Ton balıkları, skipjack veya Euthynnus cinsi diğer balıklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğer balıklar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1604.20.90.00.11",
+        "Unnamed: 1":" - - - - Ringa",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.20.90.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Havyar ve havyar yerine kullanılan ürünler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1604.31.00.00.00",
+        "Unnamed: 1":" - - Havyar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":"1604.32.00.00.00",
+        "Unnamed: 1":" - - Havyar yerine kullanılan ürünler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":91
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"16.05",
+        "Unnamed: 1":"Hazırlanmış veya konserve edilmiş kabuklu hayvanlar, yumuşakçalar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve diğer su omurgasızları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1605.10.00.00.00",
+        "Unnamed: 1":" - Yengeçler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Karidesler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1605.21",
+        "Unnamed: 1":" - - Hava almayan kaplarda olmayanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1605.21.10.00.00",
+        "Unnamed: 1":" - - - Net muhtevası 2 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.21.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.30",
+        "Unnamed: 1":" - İstakozlar:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1605.30.10.00.00",
+        "Unnamed: 1":" - - İstakoz eti (pişirilmiş) (istakoz yağı veya istakoz ezmesi, patesi,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     çorbası veya istakoz sosları imaline mahsus)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.30.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.40",
+        "Unnamed: 1":" - Diğer kabuklu hayvanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1605.40.00.00.13",
+        "Unnamed: 1":" - - Kerevit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.40.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yumuşakçalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1605.51.00.00.00",
+        "Unnamed: 1":" - - İstiridyeler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.52.00.00.00",
+        "Unnamed: 1":" - - Deniz tarakları (kraliçe deniz tarakları dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.53",
+        "Unnamed: 1":" - - Midyeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1605.53.10.00.00",
+        "Unnamed: 1":" - - - Hava almayan kaplarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.53.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.54.00.00.00",
+        "Unnamed: 1":" - - Mürekkep balığı ve kalamar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.55.00.00.00",
+        "Unnamed: 1":" - - Ahtapot",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.56.00.00.00",
+        "Unnamed: 1":" - -  Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     Tridacnidae and Veneridae familyasına ait yumuşakçalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.57.00.00.00",
+        "Unnamed: 1":" - - Deniz kulağı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.58.00.00.00",
+        "Unnamed: 1":" - - Salyangoz (deniz salyangozları hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.59",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1605.59.00.00.11",
+        "Unnamed: 1":" - - - Deniz salyangozu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.59.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" -  Diğer su omurgasızları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1605.61.00.00.00",
+        "Unnamed: 1":" - - Deniz hıyarları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.62.00.00.00",
+        "Unnamed: 1":" - - Deniz kestanesi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.63.00.00.00",
+        "Unnamed: 1":" - - Denizanası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"1605.69.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" (1)   Kümes hayvanlarının yüzde ağırlığı tespit edilirken kemiklerin ağırlığı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      dikkate alınmaz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    }
+]

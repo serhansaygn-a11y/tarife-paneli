@@ -1,0 +1,1160 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"30.01",
+        "Unnamed: 1":"Tedavide kullanılan kurutulmuş guddeler ve diğer organlar (toz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"haline getirilmiş olsun olmasın); guddelerin veya diğer organların ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya bunların salgılarının tedavide kullanılan hülasaları; heparin ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve tuzları; tedavide veya korunmada kullanılmak üzere hazırlan-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mış tarifenin başka yerinde yer almayan veya belirtilmeyen insan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya hayvan menşeli diğer maddeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3001.20",
+        "Unnamed: 1":" - Guddelerin veya diğer organların veya bunların salgılarının ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   hülasaları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3001.20.10.00.00",
+        "Unnamed: 1":" - - İnsan menşeli olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3001.20.90.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3001.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3001.90.20.00.00",
+        "Unnamed: 1":" - - İnsan menşeli olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3001.90.91.00.00",
+        "Unnamed: 1":" - - - Heparin ve tuzları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3001.90.98.10.00",
+        "Unnamed: 1":" - - - - Kurutulmuş guddeler diğer organlar (toz haline getirilmiş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3001.90.98.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"30.02",
+        "Unnamed: 1":"İnsan kanı; tedavide, korunmada veya teşhiste kullanılmak üzere",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hazırlanmış hayvan kanı; antiserum ve diğer kan fraksiyonları ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"bağışıklık sağlayan ürünler (biyoteknolojik işlemle el-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"de edilmiş olsun olmasın) aşılar, toksinler, mikroorganizma",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kültürleri (mayalar hariç) ve benzeri ürünler; hücre kültürleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" (değiştitirilmiş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Antiserumlar ve diğer kan fraksiyonları ve bağışıklık",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   sağlayan ürünler (biyoteknolojik işlemle elde  edilmiş olsun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3002.12",
+        "Unnamed: 1":" - - Antiserumlar ve diğer kan fraksiyonları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Antiserumlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.11",
+        "Unnamed: 1":" - - - - Yılan serumu   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.12",
+        "Unnamed: 1":" - - - -  Aglutinan serumları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.13",
+        "Unnamed: 1":" - - - - Gamma-globulin",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğer kan fraksiyonları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.21",
+        "Unnamed: 1":" - - - - Hemoglobin  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.22",
+        "Unnamed: 1":" - - - - Kan globulinleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.23",
+        "Unnamed: 1":" - - - - Serum globulinleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"3002.12.00.00.29",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3002.13.00.00.00",
+        "Unnamed: 1":" - - Dozlandırılmamış veya perakende satışa uygun şekilde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     ambalajlanmamış\/hazırlanmamış, karışım olmayan bağışıklık ürünleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3002.14.00.00.00",
+        "Unnamed: 1":" - - Dozlandırılmamış veya perakende satışa uygun şekilde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     ambalajlanmamış\/hazırlanmamış, karışım halinde bağışıklık ürünleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3002.15.00.00.00",
+        "Unnamed: 1":" - - Dozlandırılmış veya perakende satışa uygun şekilde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     ambalajlanmış\/hazırlanmış bağışıklık ürünleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Aşılar, toksinler, mikroorganizma kültürleri (mayalar hariç) ve benzeri ürünler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3002.41",
+        "Unnamed: 1":" - - İnsanlar için kullanılan aşılar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3002.41.10.00.00",
+        "Unnamed: 1":" - - - SARS ile ilişkili koronavirüs aşıları (SARS-CoV türleri) ",
+        "ÖLÇÜ\nBİRİMİ":"adet",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3002.41.90.10.00",
+        "Unnamed: 1":" - - - - Çocuk felci aşıları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - Bakteriyel ve virütik diğer aşılar: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"3002.41.90.20.11",
+        "Unnamed: 1":" - - - - - Kızamık aşısı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.41.90.20.12",
+        "Unnamed: 1":" - - - - - Kabakulak aşısı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.41.90.20.13",
+        "Unnamed: 1":" - - - - - BCG aşısı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.41.90.20.14",
+        "Unnamed: 1":" - - - - - Karma aşı (DBT)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.41.90.20.15",
+        "Unnamed: 1":" - - - - - Kolera aşısı   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.41.90.20.16",
+        "Unnamed: 1":" - - - - - Tifo aşısı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.41.90.20.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.42.00.00.00",
+        "Unnamed: 1":" - - Veterinerlikte kullanılan aşılar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.49.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Hücre kültürleri (değiştirilmiş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3002.51.00.00.00",
+        "Unnamed: 1":" - - Hücre tedavisi ürünleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.59.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3002.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3002.90.10.00.00",
+        "Unnamed: 1":" - - İnsan kanı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3002.90.30.00.00",
+        "Unnamed: 1":" - - Tedavide, korunmada veya teşhiste kullanılmak üzere hazırlanmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      hayvan kanı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"30.03",
+        "Unnamed: 1":"Tedavide veya korunmada kullanılmak üzere birbirleriyle ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"karıştırılmış iki veya daha fazla unsurdan oluşan ilaçlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(30.02, 30.05 veya 30.06 pozisyonlarındaki ürünler hariç)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(dozlandırılmamış veya perakende satılacak şekilde ambalajlan-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mamış) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3003.10.00.00.00",
+        "Unnamed: 1":" - Penisilanik asit bünyeli penisilinler veya bunların türevleri veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   streptomisinIer veya bunların türevlerini içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3003.20.00.00.00",
+        "Unnamed: 1":" - Diğerleri, antibiyotikleri içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri, hormonları veya 29.37 pozisyonundaki diğer ürünleri içerenler: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3003.31.00.00.00",
+        "Unnamed: 1":" - - İnsülin içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3003.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri, alkaloidleri veya bunların türevlerini içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3003.41.00.00.00",
+        "Unnamed: 1":" - - Efedrin ve tuzlarını içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"3003.42.00.00.00",
+        "Unnamed: 1":" - - Psödoefedrin (INN) ve tuzlarını içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"3003.43.00.00.00",
+        "Unnamed: 1":" - - Norefedrin ve tuzlarını içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"3003.49.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"3003.60.00.00.00",
+        "Unnamed: 1":" - Diğerleri, bu Faslın 2 no.lu alt pozisyon notunda tanımlanan anti-sıtma ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   aktif maddelerini içerenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"3003.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"30.04",
+        "Unnamed: 1":"Tedavide veya korunmada kullanılmak üzere karışık olan veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olmayan ürünlerden oluşan ilaçlar (30.02, 30.05 veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"30.06 pozisyonlarındaki eşya hariç) (deri üzerine zerk edilerek ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kullanılmaya mahsus olanlar \"transdermal administration systems\"",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dahil) (dozlandırılmış veya perakende satılacak şekilde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ambalajlanmış) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3004.10.00.00.00",
+        "Unnamed: 1":" - Penisilanik asit bünyeli penisilinler veya bunların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   türevleri veya streptomisinler veya bunların türevlerini",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.20.00.00.00",
+        "Unnamed: 1":" - Diğerleri, antibiyotikleri içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri, hormonları veya 29.37 pozisyonundaki diğer ürünleri içerenler: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3004.31.00.00.00",
+        "Unnamed: 1":" - - İnsülin içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.32.00.00.00",
+        "Unnamed: 1":" - - Böbreküstü bezi hormonlarını, bunların türevleri ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     yapısal benzerlerini içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri, alkaloidleri veya bunların türevlerini içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3004.41.00.00.00",
+        "Unnamed: 1":" - - Efedrin ve tuzlarını içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.42.00.00.00",
+        "Unnamed: 1":" - - Psödoefedrin (INN) ve tuzlarını içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.43.00.00.00",
+        "Unnamed: 1":" - - Norefedrin ve tuzlarını içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.49.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.50.00.00.00",
+        "Unnamed: 1":" - Diğerleri, vitaminleri veya 29.36 pozisyonundaki diğer ürünleri içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.60.00.00.00",
+        "Unnamed: 1":" - Diğerleri, bu Faslın 2 no.lu alt pozisyon notunda tanımlanan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   anti-sıtma aktif maddelerini içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3004.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3004.90.00.00.11",
+        "Unnamed: 1":" - - Onkolojik ilaçlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"3004.90.00.00.12",
+        "Unnamed: 1":" - - Hematolojik ilaçlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"3004.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"30.05",
+        "Unnamed: 1":"Tıpta, cerrahide, dişçilikte veya veterinerlikte kullanılan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"eczacılık maddeleri emdirilmiş veya kaplanmış veya perakende",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"satılacak şekilde hazırlanmış veya ambalajlanmış pamuklar,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"gaz bezleri, bandajlar ve benzeri maddeler (sargılar, yapışkan plasterler,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hardal yakıları gibi):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3005.10.00.00.00",
+        "Unnamed: 1":" - Yapışkan sargılar ve yapışkan tabakası olan diğer maddeler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"3005.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Vatka ve vatkadan mamul eşya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3005.90.10.00.11",
+        "Unnamed: 1":" - - -  Hidrofil pamuktan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"3005.90.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Tekstil maddelerinden yapılmış olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Gaz bezleri ve gazlı diğer eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3005.90.31.00.11",
+        "Unnamed: 1":" - - - - - Gaz bezleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"3005.90.31.00.12",
+        "Unnamed: 1":" - - - - - Tıbbi gaz kompresler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"3005.90.31.00.19",
+        "Unnamed: 1":" - - - - - Gazlı diğer eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3005.90.50.00.11",
+        "Unnamed: 1":" - - - - - Alçılı sargı bezi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"3005.90.50.00.12",
+        "Unnamed: 1":" - - - - - Tıbbi üçgen sargı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"3005.90.50.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3005.90.99.10.00",
+        "Unnamed: 1":" - - - - Tıbbi muşamba ve tafta angle",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":"3005.90.99.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":70
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"30.06",
+        "Unnamed: 1":"Bu fasılın 4 nolu notunda belirtilen eczacılık eşyası ve müstah -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"zarları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3006.10",
+        "Unnamed: 1":" - Cerrahi dikişler için steril katgütler, benzeri steril dikiş malzemeleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   ( cerrahi ve dişçilikte kullanılan steril,emilebilir iplikler dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   ve cerrahi yaraların kapatılmasında kullanılan steril doku ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    yapıştıcıları; steril laminaryalar ve steril laminarya fitilleri;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    cerrahi ve dişçilikte kullanılan steril, emilebilir hemostatlar;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  cerrahi ve dişçilikte kullanılan steril yapışmayı önleyiciler (emilebilir",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3006.10.10.00.00",
+        "Unnamed: 1":" - - Cerrahi dikişler için steril katgütler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"10"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Cerrahi ve dişçilikte kullanılan steril yapışmayı önleyiciler (emilebilir ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" 3006.10.30.10.00",
+        "Unnamed: 1":" - - - Plastiklerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"50"
+    },
+    {
+        "Unnamed: 0":" 3006.10.30.20.00",
+        "Unnamed: 1":" - - - Örme mensucattan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"100"
+    },
+    {
+        "Unnamed: 0":" 3006.10.30.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"10"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Plastiklerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.10.11",
+        "Unnamed: 1":" - - - - Cerrahi ve dişçilikte kullanılan emici steril hemostatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"50"
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.10.12",
+        "Unnamed: 1":" - - - - Cerrahi poliamid iplik",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"50"
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.10.13",
+        "Unnamed: 1":" - - - - Cerrahi poliglaktin iplik",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"50"
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.10.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"50"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Örme mensucattan olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.20.11",
+        "Unnamed: 1":" - - - - Cerrahi ve dişçilikte kullanılan emici steril hemostatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"100"
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.20.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"100"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.90.11",
+        "Unnamed: 1":" - - - - Cerrahi ve dişçilikte kullanılan emici steril hemostatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"10"
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.90.12",
+        "Unnamed: 1":" - - - - Cerrahi paslanmaz çelik tel",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":" 3006.10.90.90.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"3006.30",
+        "Unnamed: 1":" - Radyografi muayeneleri için X - ışınlarını geçirmeyen müstah -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   zarlar; hastaya tatbik edilmek üzere hazırlanmış teşhis reak -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   tifleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3006.30.00.00.11",
+        "Unnamed: 1":" - - Hastaya tatbik edilmek üzere hazırlanmış teşhis reaktifleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"3006.30.00.00.12",
+        "Unnamed: 1":" - - Radyografi muayeneleri için X - ışınlarını geçirmeyen müstahzarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"3006.40",
+        "Unnamed: 1":" - Dişçilik çimentoları ve diğer diş dolgu maddeleri; kemiklerin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   tedavisinde kullanılan çimentolar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"3006.40.00.00.12",
+        "Unnamed: 1":" - - Çinko-fosfat siman ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3006.40.00.00.13",
+        "Unnamed: 1":" - - Kemiklerin tedavisinde kullanılan çimentolar; sentetik kemik greftleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3006.40.00.00.18",
+        "Unnamed: 1":" - - Diğer dişçilik çimentosu ve diğer diş dolgu maddeleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3006.50.00.00.00",
+        "Unnamed: 1":" - İlk yardım kutuları ve setleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"3006.60.00.00.00",
+        "Unnamed: 1":" - Esası hormon, 29.37 pozisyonunun diğer ürünler veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   spermisit olan gebeliği önleyici kimyasal müstahzarlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"3006.70.00.00.00",
+        "Unnamed: 1":"  -Tıpta veya veterinerlikte, cerrahi operasyonlar ya da fiziksel ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   muayeneler için bedenin bölümlerini yağlayıcı olarak veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   beden  ve tıbbi  aletler arasında  birleştirme vasıtası olarak ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   kullanılmak üzere tasarlanan jel müstahzarları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3006.91.00.00.00",
+        "Unnamed: 1":" - - Ostomi kullanımlara mahsus olduğu tanımlanabilen aletler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"3006.92.00.00.00",
+        "Unnamed: 1":" - -  Eczacılık ürünleri döküntüleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"3006.93.00.00.00",
+        "Unnamed: 1":" - - Tanınmış klinik çalışmalarda kullanılmak üzere plasebolar ve kör ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (veya çift kör) klinik deney kitleri (ölçülü dozlarda) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    }
+]

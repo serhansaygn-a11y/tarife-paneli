@@ -1,0 +1,1256 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"6801.00.00.00.00",
+        "Unnamed: 1":"Tabii taşlardan kaldırım taşları ve kaldırım kenar taşları ile",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"döşeme taşları (kayagan taşından olanlar hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.02",
+        "Unnamed: 1":"Yontulmaya veya inşaata elverişli işlenmiş taşlar (kayagan taşı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hariç) ve mamulleri (68.01 pozisyonunda yer alanlar hariç); tabii ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"taşlardan (kayagan taşı dahil) mozaik için küp şeklinde taşlar ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"benzerleri (takviye edilmiş olsun olmasın); tabii taşlardan (kaya-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"gan taşı dahil) suni olarak boyanmış granüller, küçük parçalar ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tozlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.10",
+        "Unnamed: 1":" - Karolar, küpler ve benzeri eşya (dikdörtgen ve kare şeklinde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   olsun olmasın) (en geniş yüzü, bir kenarı 7 cm. den az olan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   kare içine girebilecek olanlar); suni olarak boyanmış granüller, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   küçük parçalar ve tozlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.10.00.10.00",
+        "Unnamed: 1":" - - Kayagan taşından mozaik için küpler ve benzerleri ve suni olarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      boyanmış granüller,küçük parçalar ve tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - -Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.10.00.90.11",
+        "Unnamed: 1":" - - - Kalkerli taşlardan veya su mermerinden",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.10.00.90.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yontulmaya veya inşaata elverişli diğer taşlar ve bunlardan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   eşya (basitçe kesilmiş veya yontulmuş, yüzeyleri düz ve yassı olanlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.21",
+        "Unnamed: 1":" - - Mermer, traverten ve su mermeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.21.00.00.11",
+        "Unnamed: 1":" - - - Yontulmuş veya kesilmiş mermer ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.21.00.00.12",
+        "Unnamed: 1":" - - - Yontulmuş veya kesilmiş traverten",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.21.00.00.13",
+        "Unnamed: 1":" - - - Yontulmuş veya kesilmiş su mermeri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.21.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.23.00.00.00",
+        "Unnamed: 1":" - - Granit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.29",
+        "Unnamed: 1":" - - Diğer taşlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.29.00.10.00",
+        "Unnamed: 1":" - - - Diğer kalkerli taşlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.29.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.91",
+        "Unnamed: 1":" - - Mermer, traverten ve su mermeri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"6802.91.00.00.11",
+        "Unnamed: 1":" - - - Heykeltraşlık sanatına göre yontulmuş mermerden salon süs eşyaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.91.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.92.00.00.00",
+        "Unnamed: 1":" - - Diğer kalkerli taşlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.93",
+        "Unnamed: 1":" - - Granit:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.93.10.00.00",
+        "Unnamed: 1":" - - - Net ağırlığı 10 kg. veya daha fazla olan, cilalanmış, dekore",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       edilmiş veya başka şekilde işlenmiş fakat yontulmamış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.93.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.99",
+        "Unnamed: 1":" - - Diğer taşlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6802.99.10.00.00",
+        "Unnamed: 1":" - - - Net ağırlığı 10 kg. veya daha fazla olan, cilalanmış, dekore",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        edilmiş veya başka şekilde işlenmiş fakat yontulmamış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6802.99.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6803.00",
+        "Unnamed: 1":"İşlenmiş kayagan taşı ve kayagan taşından veya aglomere",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" kayagan taşından eşya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6803.00.10.00.00",
+        "Unnamed: 1":" - Çatı ve duvar kaplamalarında kullanılanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6803.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"68.04",
+        "Unnamed: 1":"Değirmen taşları, bileği taşları, bileği çarkları ve benzerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(karkassız) (öğütme, bileme, parlatmaya, rektifiye etme veya kes-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"me işlerine mahsus),el ile bilemeye veya parlatmaya mahsus",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"taşlar ve bunların parçaları (tabii taştan, aglomere edilmiş tabii ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya suni aşındırıcılardan veya seramikten)(diğer maddelerden",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"parçalar ile birlikte olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6804.10",
+        "Unnamed: 1":" - Öğütme, ezme veya liflere ayırmaya mahsus değirmen taşları ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   ve diğer öğütücü taşlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6804.10.00.00.11",
+        "Unnamed: 1":" - - Değirmen taşları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"6804.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bileği taşları, bileği çarkları ve benzerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6804.21",
+        "Unnamed: 1":" - - Aglomere edilmiş sentetik veya tabii elmastan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6804.21.00.00.13",
+        "Unnamed: 1":" - - - Kesici diskler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.21.00.00.14",
+        "Unnamed: 1":" - - - Segmentler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.21.00.00.18",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.22",
+        "Unnamed: 1":" - - Aglomere edilmiş diğer aşındırıcılardan veya seramikten:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Suni aşındırıcılardan (bir bağlayıcı ile birlikte):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Sentetik veya suni reçinelerden:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6804.22.12.00.00",
+        "Unnamed: 1":" - - - - - Takviye edilmemiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.22.18.00.00",
+        "Unnamed: 1":" - - - - - Takviye edilmiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.22.30.00.00",
+        "Unnamed: 1":" - - - - Seramikten veya silikattan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.22.50.00.00",
+        "Unnamed: 1":" - - - - Diğer maddelerden",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.22.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.23",
+        "Unnamed: 1":" - - Tabii taşlardan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6804.23.00.00.11",
+        "Unnamed: 1":" - - - Matkap uçları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.23.00.00.12",
+        "Unnamed: 1":" - - - Traş bıçakları için bileme taşları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.23.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.30",
+        "Unnamed: 1":" - El ile bilemeye veya parlatmaya mahsus taşlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6804.30.00.00.11",
+        "Unnamed: 1":" - - Aglomere edilmiş aşındırıcılardan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6804.30.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.05",
+        "Unnamed: 1":"Tabii veya suni aşındırıcı toz veya küçük taneler (mesnedi doku-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"maya elverişli maddelerden, kağıttan, kartondan veya diğer mad-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"delerden)(kesilerek şekil verilmiş, dikilmiş veya başka şekilde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hazırlanmış olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6805.10.00.00.00",
+        "Unnamed: 1":" - Mesnedi sadece dokunmuş mensucattan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6805.20.00.00.00",
+        "Unnamed: 1":" - Mesnedi sadece kağıt veya karton olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6805.30.00.00.00",
+        "Unnamed: 1":" - Mesnedi diğer maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.06",
+        "Unnamed: 1":"Cüruf yünü, kaya yünü ve benzeri mineral yünler; genleştirilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"vermikülit, genleştirilmiş kil, köpüklü cüruf ve benzeri genleştiril-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"miş mineral maddeler; mineral maddelerden ısıyı tecrit edici,sesi ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tecrit edici veya sesi muhafaza edici eşya ve karışımlar (68.11 ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya 68.12 pozisyonlarıyla 69. fasıla girenler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6806.10",
+        "Unnamed: 1":" - Cüruf yünü, kaya yünü ve benzeri mineral yünler (bunların bir-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   birleriyle olan karışımları dahil) (kütle, yaprak ve rulo halinde): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6806.10.00.00.11",
+        "Unnamed: 1":" - - Dökme seramik elyaf",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.10.00.00.12",
+        "Unnamed: 1":" - - Seramik elyaf battaniye",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.20",
+        "Unnamed: 1":" - Genleştirilmiş vermikülit, genleştirilmiş kil, köpüklü cüruf ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    benzeri genleştirilmiş mineral maddeler (bunların birbirleriyle",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    olan karışımları dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6806.20.10.00.00",
+        "Unnamed: 1":" - - Genleştirilmiş kil",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6806.20.90.00.12",
+        "Unnamed: 1":" - - - Genleştirilmiş perlitten blok ürünler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.20.90.00.13",
+        "Unnamed: 1":" - - - Genleştirilmiş perlitten harçlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.20.90.00.18",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6806.90.00.00.11",
+        "Unnamed: 1":" - - Soğuk tandiş plakaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.90.00.00.12",
+        "Unnamed: 1":" - - Yanmaz dolgu levhaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6806.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.07",
+        "Unnamed: 1":"Asfalttan veya benzeri maddelerden eşya (petrol bitümeni veya taşkömürü zifti gibi):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6807.10.00.00.00",
+        "Unnamed: 1":" - Rulo halinde",
+        "ÖLÇÜ\nBİRİMİ":"   m2",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"6807.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6808.00.00.00.00",
+        "Unnamed: 1":"Bitkisel liflerden, samandan veya ağaç talaşından, ağaç",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kırpıntılarından,ağaç parçacıklarından, testere talaşından veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"diğer döküntülerden yapılmış panolar, levhalar, karolar, bloklar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve benzerleri(çimento, alçı ve diğer mineral bağlayıcılarla aglomere edilmiş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.09",
+        "Unnamed: 1":"Alçı ve alçı esaslı bileşiklerden eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Levhalar, plakalar, panolar, karolar ve benzerleri (tezyin edil-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   memiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6809.11.00.00.00",
+        "Unnamed: 1":" - - Yüzü sadece kağıt veya kartonla kaplanmış veya takviye edil-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     miş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"   m2",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6809.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"   m2",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"6809.90.00.00.00",
+        "Unnamed: 1":" - Diğer eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.10",
+        "Unnamed: 1":"Çimentodan, betondan veya suni taştan eşya (takviye edilmiş ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Karolar, döşemelik taşlar, tuğlalar ve benzeri eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6810.11",
+        "Unnamed: 1":" - - İnşaat için bloklar ve levhalar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6810.11.10.00.00",
+        "Unnamed: 1":" - - - Hafif betondan (esası ezilmiş süngertaşı, granüle cüruf vb.) olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6810.11.90.00.11",
+        "Unnamed: 1":" - - - - Suni mermerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6810.11.90.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6810.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6810.91.00.00.00",
+        "Unnamed: 1":" - - İnşaat mühendisliği ve bina yapımı için prefabrik yapı elemanları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6810.99",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6810.99.00.00.11",
+        "Unnamed: 1":" - - - Betondan bordür taşları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6810.99.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.11",
+        "Unnamed: 1":"Amyantlı çimentodan, selülozlu çimentodan ve benzerlerinden eşya:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6811.40.00.00.00",
+        "Unnamed: 1":" - Amyant içerenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Amyant içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6811.81.00.00.00",
+        "Unnamed: 1":" - - Oluklu levhalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6811.82.00.00.00",
+        "Unnamed: 1":" - - Diğer levhalar, panolar, karolar ve benzeri eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6811.89.00.00.00",
+        "Unnamed: 1":" - - Diğer eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.12",
+        "Unnamed: 1":"İşlenmiş amyant (lif halinde) ; amyant veya amyant ve magnez -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yum karbonat esaslı karışımlar; bu karışımlardan veya amyanttan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"eşya (iplikler,mensucat, giyim eşyası, başlıklar, ayakkabılar, con-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"talar gibi) (takviye edilmiş olsun olmasın) (68.11 veya 68.13 pozis-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yonları hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6812.80",
+        "Unnamed: 1":" - Krisidolitten olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6812.80.10.00.00",
+        "Unnamed: 1":" - - İşlenmiş lifler; amyant veya magnezyum karbonat ve amyant esaslı karışımlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6812.80.90.10.00",
+        "Unnamed: 1":" - - - İplikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6812.80.90.20.00",
+        "Unnamed: 1":" - - - Dokunmuş veya örme mensucat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6812.80.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6812.91.00.00.00",
+        "Unnamed: 1":" - - Giyim eşyası, giyim eşyası aksesuarı, ayakkabılar ve başlıklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6812.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6812.99.10.00.00",
+        "Unnamed: 1":" - - - İşlenmiş amyant (lif halinde); amyant veya amyant ve magnezyum",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       karbonat esaslı karışımlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"6812.99.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.13",
+        "Unnamed: 1":"Esası amyant (asbest), mineral maddeler veya selüloz olan, frenler-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"de ve sürtünmeyi temin edici her türlü cihazda kullanılmak üzere ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"monte edilmemiş maddeler ve bunların garnitürleri (levhalar,rulo-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lar, şeritler, segmanlar,diskler, rondelalar, balatalar gibi) (dokumaya elve-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"rişli maddeler veya diğer maddelerle birlikte olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6813.20",
+        "Unnamed: 1":" - Amyant içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Fren balataları ve yastıkları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6813.20.00.21.00",
+        "Unnamed: 1":" - - - Fren balataları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6813.20.00.29.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6813.20.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Amyant içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6813.81",
+        "Unnamed: 1":" - - Fren balataları ve yastıkları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6813.81.00.10.00",
+        "Unnamed: 1":" - - - Fren balataları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6813.81.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6813.89.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.14",
+        "Unnamed: 1":"İşlenmiş mika ve mikadan eşya (aglomere edilmiş veya terkip",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yoluyla elde edilmiş mika dahil) (kağıt, karton veya diğer mad-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"delerden bir mesnet üzerinde olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6814.10.00.00.00",
+        "Unnamed: 1":" - Aglomere edilmiş veya terkip yoluyla elde edilmiş mikadan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   levha, yaprak ve şeritler (mesnedi olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6814.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"68.15",
+        "Unnamed: 1":"Tarifenin başka yerinde belirtilmeyen veya yer almayan taştan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya diğer mineral maddelerden eşya ( karbon elyaf ve karbon",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"elyafdan eşya ve turbdan eşya dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Karbon elyaf; karbon elyaftan eşya (elektrik işlerinde kullanılanlar hariç); ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    Grafit veya diğer karbondan eşya (elektrik işlerinde kullanılanlar hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6815.11.00.00.00",
+        "Unnamed: 1":" - - Karbon elyaf",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6815.12.00.00.00",
+        "Unnamed: 1":" - - Karbon elyaftan mensucat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6815.13.00.00.00",
+        "Unnamed: 1":" - - Karbon elyaftan diğer eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6815.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6815.20.00.00.00",
+        "Unnamed: 1":" - Turbadan eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6815.91",
+        "Unnamed: 1":" - - Magnezit, periklas formunda magneziya, dolomit (dolim formunda dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     veya kromit içerenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"6815.91.00.00.11",
+        "Unnamed: 1":" - - - Pişirilmemiş kromit tuğlası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6815.91.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    },
+    {
+        "Unnamed: 0":"6815.99.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60
+    }
+]

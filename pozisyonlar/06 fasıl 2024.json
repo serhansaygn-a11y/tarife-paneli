@@ -1,0 +1,704 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"06.01",
+        "Unnamed: 1":" Çiçek soğanları, yumrular, yumrulu kökler, küçük soğanlar, sürgün",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" başları ve rizomlar (dinlenme halinde sürgün  vermiş veya çiçeklen-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" miş); hindiba bitkisi ve kökleri (12.12 pozisyonundaki kökler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0601.10",
+        "Unnamed: 1":" - Çicek soğanları, yumrular, yumrulu kökler, küçük soğanlar,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    sürgün başları ve rizomlar (dinlenme halinde):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0601.10.10.00.00",
+        "Unnamed: 1":" - - Sümbül soğanları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.10.20.00.00",
+        "Unnamed: 1":" - - Nergis soğanları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.10.30.00.00",
+        "Unnamed: 1":" - - Lale soğanları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.10.40.00.00",
+        "Unnamed: 1":" - - Glayöl soğanları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0601.10.90.10.00",
+        "Unnamed: 1":" - - - Diğer çiçek soğanları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.10.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.20",
+        "Unnamed: 1":" - Çiçek soğanları, yumrular, yumrulu kökler küçük soğanlar,sür-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   gün başları ve rizomlar (sürgün  vermiş veya çiçeklenmiş);hindi-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   ba bitkisi ve kökleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Hindiba bitkisi ve kökleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0601.20.10.00.11",
+        "Unnamed: 1":" - - - Hindiba bitkisi ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.20.10.00.12",
+        "Unnamed: 1":" - - - Hindiba  kökleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Orkide, sümbül,nergis ve lale soğanları",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0601.20.30.00.11",
+        "Unnamed: 1":" - - - Orkide soğanları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.20.30.00.12",
+        "Unnamed: 1":" - - - Sümbül soğanları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.20.30.00.13",
+        "Unnamed: 1":" - - - Nergis soğanları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.20.30.00.14",
+        "Unnamed: 1":" - - - Lale soğanları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğer çiçek soğanları",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0601.20.90.10.11",
+        "Unnamed: 1":" - - - - Glayöller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.20.90.10.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0601.20.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"06.02",
+        "Unnamed: 1":"Diğer canlı bitkiler (kökleri dahil), çelikler, daldırmalar;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mantar miselleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.10",
+        "Unnamed: 1":" - Köklendirilmemiş çelik ve daldırmalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.10.10.00.00",
+        "Unnamed: 1":" - - Asma çelikleri, daldırmalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.20",
+        "Unnamed: 1":" - Meyveleri veya sert kabuklu meyveleri yenilen ağaçlar, çalılar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   (aşılı veya aşısız) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.20.10.00.00",
+        "Unnamed: 1":" - - Asma (aşılı veya köklendirilmiş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.20.20.00.00",
+        "Unnamed: 1":" - - - Çıplak kökleriyle birlikte olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.20.30.00.00",
+        "Unnamed: 1":" - - - - Narenciye",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.20.80.00.11",
+        "Unnamed: 1":" - - - - - Kestane",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.20.80.00.12",
+        "Unnamed: 1":" - - - - - Fıstık çamı",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.20.80.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.30.00.00.00",
+        "Unnamed: 1":" - Rododendronlar ve açelyalar (aşılı veya aşısız)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0602.40.00.00.00",
+        "Unnamed: 1":" - Güller (aşılı veya aşısız)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.90.10.00.00",
+        "Unnamed: 1":" - - Mantar miselleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0602.90.20.00.00",
+        "Unnamed: 1":" - - Ananas fidanı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.90.30.00.00",
+        "Unnamed: 1":" - - Sebze ve çilek fideleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Açık hava bitkileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Ağaç ve çalılar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Orman ağaçları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Köklendirilmiş çelikler ve fidanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.90.41.00.11",
+        "Unnamed: 1":" - - - - - - - Çelikler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.90.41.00.12",
+        "Unnamed: 1":" - - - - - - - Fidanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.90.41.00.29",
+        "Unnamed: 1":" - - - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - - - Köklendirilmiş çelikler ve fidanlar",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0602.90.45.00.11",
+        "Unnamed: 1":" - - - - - - - Çelikler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.90.45.00.12",
+        "Unnamed: 1":" - - - - - - -  Fidanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Diğerleri: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.90.46.00.00",
+        "Unnamed: 1":" - - - - - - - Çıplak kökleriyle birlikte olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.90.47.00.00",
+        "Unnamed: 1":" - - - - - - - - Kozalaklı ve yaprak dökmeyen ağaçlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0602.90.48.00.00",
+        "Unnamed: 1":" - - - - - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0602.90.50.00.00",
+        "Unnamed: 1":" - - - - Diğer açık hava bitkileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Oda bitkileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - - Köklendirilmiş çelikler ve fidanlar (kaktüsler hariç)",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0602.90.70.00.11",
+        "Unnamed: 1":" - - - - - Çelikler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"0602.90.70.00.12",
+        "Unnamed: 1":" - - - - -  Fidanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0602.90.91.00.00",
+        "Unnamed: 1":" - - - - - Tomurcuklu veya çiçek açmış çiçekler (kaktüsler hariç)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"0602.90.99.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"06.03",
+        "Unnamed: 1":"Buket yapmaya elverişli veya süs amacına uygun cinsten kesme",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"çiçekler ve çiçek tomurcukları (taze, kurutulmuş, boyanmış, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ağartılmış, emprenye edilmiş veya başka şekilde hazırlanmış): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Taze:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0603.11.00.00.00",
+        "Unnamed: 1":" - - Güller",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.12.00.00.00",
+        "Unnamed: 1":" - - Karanfiller",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.13.00.00.00",
+        "Unnamed: 1":" - - Orkideler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.14.00.00.00",
+        "Unnamed: 1":" - - Krizantemler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.15.00.00.00",
+        "Unnamed: 1":" - - Zambaklar (Lilium spp.)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0603.19.10.00.00",
+        "Unnamed: 1":" - - - Glayöller",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.19.20.00.00",
+        "Unnamed: 1":" - - - Düğün çiçeği",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.19.70.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0603.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"06.04",
+        "Unnamed: 1":"Buket yapmaya elverişli veya süs amacına uygun cinsten",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"bitki yaprakları, bitki dalları ve bitkilerin diğer kısımları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(çiçeksiz veya tomurcuksuz) ve otlar, yosunlar ve likenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(taze, kurutulmuş, boyanmış, ağartılmış, emprenye edilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya başka şekilde hazırlanmış): ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0604.20",
+        "Unnamed: 1":" - Taze:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Yosunlar ve likenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0604.20.11.00.00",
+        "Unnamed: 1":" - - - Ren geyiği likeni",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0604.20.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0604.20.20.00.00",
+        "Unnamed: 1":" - - Noel ağaçları ",
+        "ÖLÇÜ\nBİRİMİ":"    Adet",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0604.20.40.00.00",
+        "Unnamed: 1":" - - İğne yapraklı ağaçların dalları  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0604.20.90.00.11",
+        "Unnamed: 1":" - - - Şimşir dalı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0604.20.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0604.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Yosunlar ve likenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0604.90.11.00.00",
+        "Unnamed: 1":" - - - Ren geyiği likeni",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0604.90.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0604.90.91.00.00",
+        "Unnamed: 1":" - - - Sadece kurutulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    },
+    {
+        "Unnamed: 0":"0604.90.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":52
+    }
+]

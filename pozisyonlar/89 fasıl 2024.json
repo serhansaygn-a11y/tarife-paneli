@@ -1,0 +1,626 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"89.01",
+        "Unnamed: 1":"Yolcu gemileri, gezinti gemileri, feribotlar, yük gemileri, mavnalar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve insan veya yük taşımaya mahsus benzeri deniz taşıtları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8901.10",
+        "Unnamed: 1":" - Yolcu gemileri, gezinti gemileri ve esasen insan taşımak üzere",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    imal edilmiş benzeri deniz taşıtları; her türlü feribotlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8901.10.10.00.11",
+        "Unnamed: 1":" - - - 18 Gros tonilatoyu geçmeyen gezinti gemileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.10.10.00.59",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"8901.10.90.00.11",
+        "Unnamed: 1":" - - - Yolcu ve gezinti gemileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.10.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.20",
+        "Unnamed: 1":" - Sarnıçlı gemiler (tankerler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"8901.20.10.00.00",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.20.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Ct\/I",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.30",
+        "Unnamed: 1":" - Frigorifik deniz taşıtları (8901.20 alt pozisyonundakiler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8901.30.10.00.00",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.30.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Ct\/I",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.90",
+        "Unnamed: 1":" - Yük taşımaya mahsus diğer deniz taşıtları ve hem insan hem de yük ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    taşımaya mahsus diğer deniz taşıtları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8901.90.10.00.00",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8901.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Ct\/I",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8902.00",
+        "Unnamed: 1":"Balıkçılığa mahsus deniz taşıtları; balıkçılık ürünlerinin işlenmesine, korunmasına ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"konserve edilmesine mahsus fabrika gemileri ve diğer deniz taşıtları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8902.00.10.00.00",
+        "Unnamed: 1":" - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8902.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"89.03",
+        "Unnamed: 1":"Yatlar ve diğer eğlence ve spor amaçlı deniz taşıtları; kürekli kayıklar ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kanolar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Şişirilebilir (sert karinalı şişirilebilir dahil) olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.11.00.00.00",
+        "Unnamed: 1":" - - Bir motorla donatılmış veya takılmak üzere tasarlanmış, yüksüz (net) ağırlığı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    (motor hariç) 100 kg'ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.12.00.00.00",
+        "Unnamed: 1":" - - Bir motorla kullanılmak üzere tasarlanmamış ve yüksüz (net) ağırlığı  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    100 kg'ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" -Yelkenli tekneler (yardımcı motoru olsun olmasın) (şişirilebilir olanlar hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.21.00.00.00",
+        "Unnamed: 1":" - - Uzunluğu 7,5 m.yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.22",
+        "Unnamed: 1":" - - Uzunluğu 7,5 m.yi geçen fakat 24 m geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.22.10.00.00",
+        "Unnamed: 1":" - - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.22.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.23",
+        "Unnamed: 1":" - - Uzunluğu 24 m.yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.23.10.00.00",
+        "Unnamed: 1":" - - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.23.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Motorbotlar (dıştan takma motoru olanlar hariç) (şişirilebilir olanlar hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.31.00.00.00",
+        "Unnamed: 1":" - - Uzunluğu 7,5 m.yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.32",
+        "Unnamed: 1":" - - Uzunluğu 7,5 m.yi geçen fakat 24 m geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.32.10.00.00",
+        "Unnamed: 1":" - - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.32.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.33",
+        "Unnamed: 1":" - - Uzunluğu 24 m.yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.33.10.00.00",
+        "Unnamed: 1":" - - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.33.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.93",
+        "Unnamed: 1":" - - Uzunluğu 7,5 m.yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.93.10.00.00",
+        "Unnamed: 1":" - - - Birim ağırlığı 100 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.93.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Birim ağırlığı 100 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8903.99.10.00.11",
+        "Unnamed: 1":" - - - - Kürekli kayık ve kanolar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.99.10.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"8903.99.99.00.11",
+        "Unnamed: 1":" - - - - Kürekli kayık ve kanolar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8903.99.99.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8904.00",
+        "Unnamed: 1":"Römorkörler ve itici gemiler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8904.00.10.00.00",
+        "Unnamed: 1":" - Römorkörler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İtici gemiler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8904.00.91.00.00",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"8904.00.99.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"89.05",
+        "Unnamed: 1":"Fener gemileri, yangın söndürme gemileri,tarak gemileri, yüzer ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"vinçler ve esas görevine göre sefer hizmetleri ikinci derecede olan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"diğer deniz taşıtları; yüzer havuzlar; yüzer veya dalabilen sondaj ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"üretim platformları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8905.10",
+        "Unnamed: 1":" - Tarak gemileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8905.10.10.00.00",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"8905.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"8905.20.00.00.00",
+        "Unnamed: 1":" - Yüzer veya dalabilen sondaj ve üretim platformları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"8905.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"8905.90.10.00.00",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"8905.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"89.06",
+        "Unnamed: 1":"Diğer deniz taşıtları (savaş gemileri ve kurtarma gemileri dahil, kürekli",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olanlar hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8906.10.00.00.00",
+        "Unnamed: 1":" - Savaş gemileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8906.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8906.90.10.00.00",
+        "Unnamed: 1":" - - Denizde seyretmeye mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8906.90.91.00.00",
+        "Unnamed: 1":" - - - Birim ağırlığı 100 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"8906.90.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"89.07",
+        "Unnamed: 1":"Diğer yüzer araçlar  (sallar,tanklar, coffer -damlar, yükleme,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"boşaltma platformları, şamandıralar ve işaret kuleleri gibi):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8907.10.00.00.00",
+        "Unnamed: 1":" - Şişirilebilir sallar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"8907.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"8907.90.00.00.11",
+        "Unnamed: 1":" - - Metalden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"8907.90.00.00.16",
+        "Unnamed: 1":" - - Ahşap ve diğer maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"8908.00",
+        "Unnamed: 1":"Sökülecek deniz taşıtları, suda yüzen sökülecek diğer araçlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"8908.00.00.10.00",
+        "Unnamed: 1":" - Sökülecek deniz taşıtları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"8908.00.00.20.00",
+        "Unnamed: 1":" - Suda yüzen sökülecek diğer araçlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    }
+]

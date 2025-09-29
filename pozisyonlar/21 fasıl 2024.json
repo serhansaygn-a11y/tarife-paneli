@@ -1,0 +1,878 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"21.01",
+        "Unnamed: 1":"Kahve, çay veya Paraguay çayı hülasası, esans ve konsantreleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve esası bu ürünler veya kahve, çay, Paraguay çayı olan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"müstahzarlar;kavrulmuş hindiba ve kavrulmuş kahve yerine",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kullanılan diğer maddeler ve bunların hülasa, esans ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"konsantreleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kahve hülasası, esans ve konsantreleri ve esası bu hülasa,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   esans ve konsantreler veya kahve olan müstahzarlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2101.11",
+        "Unnamed: 1":" - - Hülasa, esans ve konsantreler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2101.11.00.10.00",
+        "Unnamed: 1":" - - - Toz halinde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2101.11.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2101.12",
+        "Unnamed: 1":" - - Esası hülasa, esans ve konsantre veya kahve olan müstah-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     zarlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Esası kahve hülasası, esansı ve konsantresi olan müstahzarlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2101.12.92.10.00",
+        "Unnamed: 1":" - - - - Katı süt yağı, süt proteinleri, sakkaroz, izoglikoz, nişasta veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          glikoz içermeyen veya % 1,5'dan az katı süt yağı, % 2,5'dan az süt ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          proteinleri, % 5'dan az sakkaroz veya izoglikoz, % 5'dan az nişasta ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          veya glikoz içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2101.12.92.90.00",
+        "Unnamed: 1":" - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2101.12.98.10.00",
+        "Unnamed: 1":" - - - - Katı süt yağı, süt proteinleri, sakkaroz, izoglikoz, nişasta veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          glikoz içermeyen veya % 1,5'dan az katı süt yağı, % 2,5'dan az süt ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          proteinleri, % 5'dan az sakkaroz veya izoglikoz, %5'dan az nişasta ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          veya glikoz içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2101.12.98.90.00",
+        "Unnamed: 1":" - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2101.20",
+        "Unnamed: 1":" - Çay ve Paraguay çayı hülasası, esans ve konsantreleri ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    esası bu hülasa, esans veya konsantreler veya çay veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    Paraguay  çayı olan müstahzarlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Hülasa, esans ve konsantreler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"2101.20.20.00.11",
+        "Unnamed: 1":" - - - Çay hülasası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2101.20.20.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Müstahzarlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2101.20.92.00.00",
+        "Unnamed: 1":" - - - Esası çay ve maté  hülasası, esansı ve konsantresi olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2101.20.98.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2101.30",
+        "Unnamed: 1":" - Kavrulmuş hindiba ve kavrulmuş kahve yerine kullanılan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   diğer maddeler ve bunların hülasa, esans ve konsantreleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Kavrulmuş hindiba ve kavrulmuş kahve yerine kullanılan diğer ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      maddeler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2101.30.11.00.00",
+        "Unnamed: 1":" - - - Kavrulmuş hindiba",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2101.30.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Kavrulmuş hindiba ve kavrulmuş kahve yerine kullanılan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      maddelerin hülasa,esans ve konsantreleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2101.30.91.00.00",
+        "Unnamed: 1":" - - - Kavrulmuş hindibadan elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2101.30.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"21.02",
+        "Unnamed: 1":"Mayalar (canlı veya cansız); cansız diğer tek hücreli mikro -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"organizmalar (30.02 pozisyonunda yer alan aşılar hariç); ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hazırlanmış kabartma tozları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2102.10",
+        "Unnamed: 1":" - Canlı mayalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2102.10.10.00.00",
+        "Unnamed: 1":" - - Kültür mayaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ekmekçi mayası:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2102.10.31.00.00",
+        "Unnamed: 1":" - - - Kuru maya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":"2102.10.39.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2102.10.90.10.00",
+        "Unnamed: 1":" - - - Bira mayası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2102.10.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2102.20",
+        "Unnamed: 1":" - Cansız mayalar; cansız diğer tek hücreli mikroorganizmalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Cansız mayalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Tablet, küp veya benzeri şekillerde veya net ağırlığı 1 kg.ı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        geçmeyen ambalajlarda :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2102.20.11.10.00",
+        "Unnamed: 1":" - - - - Bira mayası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2102.20.11.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2102.20.19.10.00",
+        "Unnamed: 1":" - - - - Bira mayası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2102.20.19.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2102.20.90.10.00",
+        "Unnamed: 1":" - - - Tek hücreli algler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2102.20.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2102.30.00.00.00",
+        "Unnamed: 1":" - Hazırlanmış kabartma tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"21.03",
+        "Unnamed: 1":"Soslar ve müstahzarları; çeşni ve lezzet verici karışımlar;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hardal unu ve kaba unu ve hazır hardal:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2103.10.00.00.00",
+        "Unnamed: 1":" - Soya sosu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2103.20.00.00.00",
+        "Unnamed: 1":" - Domates ketçapı ve diğer domates sosları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2103.30",
+        "Unnamed: 1":" - Hardal unu ve kaba unu ve hazır hardal:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Hardal unu ve irmiği",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2103.30.10.00.11",
+        "Unnamed: 1":" - - - Net ağırlığı 1 kg veya daha az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"2103.30.10.00.12",
+        "Unnamed: 1":" - - - Net ağırlığı 1 kg. dan fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"2103.30.90.00.00",
+        "Unnamed: 1":" - - Hazır hardal",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"2103.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2103.90.10.00.00",
+        "Unnamed: 1":" - - Mango çetnisi (sıvı halde)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2103.90.30.00.00",
+        "Unnamed: 1":" - - Hacim itibariyle alkol  derecesi % 44,2 veya daha fazla fakat % 49,2'yi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     geçmeyenler, ağırlık olarak % 1,5 - % 6 oranında çantaniye otu ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (gentiane) baharat ve çeşitli katkı maddeleri ile %4 - %10 arasında şe- ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     ker içeren ve muhtevası 0,5 litreyi geçmeyen kaplarda bulunan aromatik",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     lezzet verici müstahzarlar ",
+        "ÖLÇÜ\nBİRİMİ":"Lt alk.%100",
+        "474\nVERGİ\nHADDİ":120
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2103.90.90.00.11",
+        "Unnamed: 1":" - - - Acı biber sosu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2103.90.90.00.12",
+        "Unnamed: 1":" - - - Çemen",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2103.90.90.00.13 ",
+        "Unnamed: 1":" - - - Harissa sosu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2103.90.90.00.18",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"21.04",
+        "Unnamed: 1":"Çorbalar, et suları ve müstahzarları; karışım halindeki homo -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"jenize gıda müstahzarları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2104.10",
+        "Unnamed: 1":" - Çorbalar, et suları ve müstahzarları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2104.10.00.00.11",
+        "Unnamed: 1":" - - Et suyu tabletleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2104.10.00.00.12",
+        "Unnamed: 1":" - - Çorbalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2104.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2104.20.00.00.00",
+        "Unnamed: 1":" - Karışım halindeki homojenize gıda müstahzarları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2105.00",
+        "Unnamed: 1":"Dondurma ve yenilen diğer buzlar (kakao içersin içermesin):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Katı süt yağı içermeyenler veya ağırlık itibariyle % 3 'ten az",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   katı süt yağı içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2105.00.10.10.00",
+        "Unnamed: 1":" - - Kakao içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2105.00.10.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Ağırlık itibariyle katı süt yağı oranı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - % 3 veya daha fazla, fakat % 7'den az olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2105.00.91.10.00",
+        "Unnamed: 1":" - - - Kakao içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2105.00.91.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - % 7 veya daha fazla olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2105.00.99.10.00",
+        "Unnamed: 1":" - - - Kakao içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":"2105.00.99.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"21.06",
+        "Unnamed: 1":"Tarifenin başka yerinde belirtilmeyen veya yer almayan gıda ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"müstahzarları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.10",
+        "Unnamed: 1":" - Protein konsantreleri ve protein bünyeli maddeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Katı süt yağı, sakkaroz, izoglikoz, glikoz veya nişasta içermeyen ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     veya ağırlık itibariyle % 1,5 'ten az katı süt yağı, % 5'ten az ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     sakkaroz veya izoglikoz, % 5'ten az glikoz veya nişasta içerenler ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.10.20.00.11",
+        "Unnamed: 1":" - - - Diyet mamaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2106.10.20.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.10.80.00.11",
+        "Unnamed: 1":" - - - Diyet mamaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2106.10.80.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2106.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.90.20.00.00",
+        "Unnamed: 1":" - - Bileşik alkol müstahzarları (içki imalinde kullanılan koku veren madde-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ler esaslı olanlar hariç)",
+        "ÖLÇÜ\nBİRİMİ":"Lt alk.%100",
+        "474\nVERGİ\nHADDİ":120
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Aromalandırılmış veya renklendirilmiş şeker şurupları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.90.30.00.00",
+        "Unnamed: 1":" - - - İzoglikoz şurupları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"75"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.90.51.00.00",
+        "Unnamed: 1":" - - - - Laktoz şurubu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"75"
+    },
+    {
+        "Unnamed: 0":"2106.90.55.00.00",
+        "Unnamed: 1":" - - - - Glikoz şurubu ve malto dekstrin şurubu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"75"
+    },
+    {
+        "Unnamed: 0":"2106.90.59.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"75"
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.90.92.00.00",
+        "Unnamed: 1":" - - - Katı süt yağı, sakkaroz, izoglikoz, nişasta veya glikoz içermeyen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       veya ağırlık itibariyle % 1,5 'ten az katı süt yağı, % 5'ten az sakkaroz ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       veya izoglikoz, % 5'ten az glikoz veya nişasta içerenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2106.90.98.00.14",
+        "Unnamed: 1":" - - - - Jöleler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2106.90.98.00.15",
+        "Unnamed: 1":" - - - - Emülgatörler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2106.90.98.00.16",
+        "Unnamed: 1":" - - - - Diyet mamaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2106.90.98.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    }
+]

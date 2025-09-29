@@ -1,0 +1,1142 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"7401.00.00.00.00",
+        "Unnamed: 1":"Bakır matları; çöktürülmüş bakır (tersip bakır)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7402.00",
+        "Unnamed: 1":"Rafine edilmemiş bakır; elektrolitik rafine için bakır anotları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7402.00.00.00.11",
+        "Unnamed: 1":"- Blister bakır",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7402.00.00.00.12",
+        "Unnamed: 1":"- Elektrolitik rafine için bakır anotları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7402.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"74.03",
+        "Unnamed: 1":"Rafine edilmiş bakır ve bakır alaşımları (ham):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Rafine edilmiş bakır:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7403.11",
+        "Unnamed: 1":" - - Katotlar ve katot parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7403.11.00.10.00",
+        "Unnamed: 1":" - - - Elektrolitik bakırdan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"7403.11.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7403.12.00.00.00",
+        "Unnamed: 1":" - - Tel çubukları (wire bars)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7403.13.00.00.00",
+        "Unnamed: 1":" - - Kütükler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7403.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7403.19.00.10.00",
+        "Unnamed: 1":" - - - Elektrolitik bakırdan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"7403.19.00.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bakır alaşımları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7403.21.00.00.00",
+        "Unnamed: 1":" - - Bakır -çinko esaslı alaşımlar (pirinç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7403.22.00.00.00",
+        "Unnamed: 1":" - - Bakır -kalay esaslı alaşımlar (bronz)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7403.29.00.00.00",
+        "Unnamed: 1":" - - Diğer bakır alaşımlar [74.05 pozisyonundaki ön alaşımlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (kupro alyajlar) hariç]",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7404.00",
+        "Unnamed: 1":"Bakır döküntü ve hurdaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7404.00.10.00.00",
+        "Unnamed: 1":" - Rafine edilmiş bakırdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bakır alaşımlarından olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7404.00.91.00.00",
+        "Unnamed: 1":" - - Bakır -çinko esaslı alaşımlardan olanlar (pirinç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"7404.00.99.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"7405.00",
+        "Unnamed: 1":"Bakırın ön alaşımları (kupro alyajlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7405.00.00.10.00",
+        "Unnamed: 1":"- Ağırlık itibariyle %8'den fazla bakır içeren bakır fosfor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"7405.00.00.20.00",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.06",
+        "Unnamed: 1":"Bakır tozları ve bakırdan ince pullar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7406.10.00.00.00",
+        "Unnamed: 1":" - Pul bünyeli olmayan tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7406.20",
+        "Unnamed: 1":" - Pul bünyeli tozlar; ince pullar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7406.20.00.00.11",
+        "Unnamed: 1":" - - Pul bünyeli bakır tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7406.20.00.00.12",
+        "Unnamed: 1":" - - Bakırdan ince pullar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.07",
+        "Unnamed: 1":"Bakır çubuklar ve profiller:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7407.10",
+        "Unnamed: 1":" - Rafine edilmiş bakırdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7407.10.00.00.11",
+        "Unnamed: 1":" - - İçi boş profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7407.10.00.00.12",
+        "Unnamed: 1":" - - İçi dolu profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7407.10.00.00.13",
+        "Unnamed: 1":" - - Çubuklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bakır alaşımlarından olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7407.21",
+        "Unnamed: 1":" - - Bakır -çinko esaslı alaşımlardan (pirinç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7407.21.10.00.00",
+        "Unnamed: 1":" - - - Çubuklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7407.21.90.00.00",
+        "Unnamed: 1":" - - - Profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7407.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.08",
+        "Unnamed: 1":"Bakır teller:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Rafine edilmiş bakırdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7408.11",
+        "Unnamed: 1":" - - Enine kesitinin en geniş yeri 6 mm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7408.11.00.00.11",
+        "Unnamed: 1":" - - - Elektrolitik tel",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7408.11.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7408.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Enine kesitinin en geniş yeri 0,5 mm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7408.19.10.00.11",
+        "Unnamed: 1":" - - - - Elektrolitik tel",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7408.19.10.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - - Enine kesitinin en geniş yeri 0,5 mm. yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7408.19.90.00.11",
+        "Unnamed: 1":" - - - - Elektrolitik tel",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7408.19.90.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bakır alaşımlarından olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7408.21.00.00.00",
+        "Unnamed: 1":" - - Bakır -çinko esaslı alaşımlardan olanlar (pirinç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7408.22.00.00.00",
+        "Unnamed: 1":" - - Bakır -nikel esaslı alaşımlardan (kupro -nikel) veya bakır -nikel - ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     çinko esaslı alaşımlardan (nikel gümüşleri)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7408.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.09",
+        "Unnamed: 1":"Bakır saclar, levhalar, yapraklar ve şeritler (kalınlıkları 0,15 mm. yi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"geçenler) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Rafine edilmiş bakırdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7409.11.00.00.00",
+        "Unnamed: 1":" - - Rulo halinde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7409.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bakır -çinko esaslı alaşımlardan olanlar (pirinç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7409.21.00.00.00",
+        "Unnamed: 1":" - - Rulo halinde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7409.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bakır -kalay esaslı alaşımlardan olanlar (bronz):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7409.31.00.00.00",
+        "Unnamed: 1":" - - Rulo halinde olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7409.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7409.40.00.00.00",
+        "Unnamed: 1":" - Bakır -nikel esaslı alaşımlardan (kupro -nikel) ve bakır -nikel -çinko",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   esaslı alaşımlardan olanlar (nikel gümüşleri)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7409.90.00.00.00",
+        "Unnamed: 1":" - Diğer bakır alaşımlarından olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"74.10",
+        "Unnamed: 1":"Bakırdan ince yaprak ve şeritler (baskılı veya baskısız ve kağıttan, kar -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tondan , plastik maddelerden veya benzeri maddelerden mesnetler üzeri-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ne tesbit edilmiş olsun olmasın) kalınlıkları (mesnetleri hariç) 0,15 mm. yi ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Mesnetsiz olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7410.11",
+        "Unnamed: 1":" - - Rafine edilmiş bakırdan olanlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7410.11.00.00.11",
+        "Unnamed: 1":" - - - Bakır kalınlığı 35 mikrona kadar (35 mikron dahil) olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45
+    },
+    {
+        "Unnamed: 0":"7410.11.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45
+    },
+    {
+        "Unnamed: 0":"7410.12.00.00.00",
+        "Unnamed: 1":" - - Bakır alaşımlarından olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Mesnetli olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7410.21.00.00.00",
+        "Unnamed: 1":" - - Rafine edilmiş bakırdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45
+    },
+    {
+        "Unnamed: 0":"7410.22.00.00.00",
+        "Unnamed: 1":" - - Bakır alaşımlarından olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":45
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.11",
+        "Unnamed: 1":"Bakırdan ince ve kalın borular:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7411.10",
+        "Unnamed: 1":" - Rafine edilmiş bakırdan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7411.10.10.00.00",
+        "Unnamed: 1":" - - Düz olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Et kalınlığı 0,36 mm’den az olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7411.10.90.00.11",
+        "Unnamed: 1":" - - - - Yivli",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7411.10.90.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Et kalınlığı 0,36 mm veya daha fazla olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7411.10.90.00.21",
+        "Unnamed: 1":" - - - - Yivli",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7411.10.90.00.29",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bakır alaşımlardan olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7411.21",
+        "Unnamed: 1":" - - Bakır -çinko esaslı alaşımlardan olanlar (pirinç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7411.21.10.00.00",
+        "Unnamed: 1":" - - - Düz olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7411.21.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7411.22.00.00.00",
+        "Unnamed: 1":" - - Bakır -nikel esaslı alaşımlardan (kupro -nikel) veya bakır -nikel -çinko",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     esaslı alaşımlardan olanlar (nikel gümüşleri)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7411.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.12",
+        "Unnamed: 1":"Bakırdan ince ve kalın boru bağlantı parçaları (rakorlar, dirsekler,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"manşonlar gibi) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7412.10.00.00.00",
+        "Unnamed: 1":" - Rafine edilmiş bakırdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7412.20",
+        "Unnamed: 1":" - Bakır alaşımlarından olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7412.20.00.00.11",
+        "Unnamed: 1":" - - Pirinçten olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7412.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7413.00.00.00.00",
+        "Unnamed: 1":"Bakırdan demetlenmiş teller, kablolar, örme halatlar ve benzerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(elektrik için izole edilmiş olanlar hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[74.14]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.15",
+        "Unnamed: 1":"Bakırdan veya başları bakırdan ve gövdeleri demir ve çelikten küçük ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"büyük çiviler, pünezler, yivli çiviler ve benzerleri (83.05 pozisyonuna",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"girenler hariç) ; bakırdan civata ve somunlar, çengelli vidalar, perçin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"çivileri, pimler, kamalar, rondelalar (yaylanmayı sağlayıcı rondela dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve benzeri eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7415.10.00.00.00",
+        "Unnamed: 1":" - Büyük ve küçük çiviler, pünezler, yivli çiviler ve benzeri eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer eşya (diş açılmamış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7415.21.00.00.00",
+        "Unnamed: 1":" - - Rondelalar (yaylanmayı sağlayıcı olanlar dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7415.29",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7415.29.00.00.11",
+        "Unnamed: 1":" - - - Perçin çivileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7415.29.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" -Diğer eşya (diş açılmış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7415.33",
+        "Unnamed: 1":" - - Vidalar; civatalar ve somunlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7415.33.00.00.11",
+        "Unnamed: 1":" - - - Vidalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7415.33.00.00.12",
+        "Unnamed: 1":" - - - Civata ve somunlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7415.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[74.16]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[74.17]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.18",
+        "Unnamed: 1":"Bakırdan sofra, mutfak ve diğer ev işlerinde kullanılan eşya ile sağlığı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"koruyucu eşya ve bunların aksamı; bakırdan süngerler, temizlik ve parlat-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ma işlerinde kullanılan eşya, eldivenler ve benzerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7418.10",
+        "Unnamed: 1":" - Sofra, mutfak ve diğer ev işlerinde kullanılan eşya ve bunların aksamı;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    süngerler, temizlik ve parlatma işlerinde kullanılan eşya, eldivenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    ve benzerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7418.10.10.00.00",
+        "Unnamed: 1":" - - Ev işlerinde kullanılan türden, elektrikli olmayan pişirme veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       ısıtma cihazları ve bunların aksam ve parçaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7418.10.90.00.11",
+        "Unnamed: 1":" - - - Ev işlerinde kullanılan eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7418.10.90.00.15",
+        "Unnamed: 1":" - - - Aksam ve parçalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7418.20",
+        "Unnamed: 1":" - Sağlığı koruyucu eşya ve bunların aksamı :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7418.20.00.00.11",
+        "Unnamed: 1":" - - Sağlığı koruyucu eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7418.20.00.00.15",
+        "Unnamed: 1":" - - Aksam ve parçalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"74.19",
+        "Unnamed: 1":"Bakırdan diğer eşya:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7419.20",
+        "Unnamed: 1":" - Döküm, kalıba dökülmüş, presle şekillendirilmiş veya dövülmüş fakat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  daha ileri bir işleme tabi tutulmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7419.20.00.10.00",
+        "Unnamed: 1":" - - Her türlü madde için (sıkıştırılmış veya sıvı gaz hariç) bakırdan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        depolar, sarnıçlar, küvler ve benzeri diğer kaplar (hacmi 300 Iitreden",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        fazla olan, mekanik veya termik tertibatı bulunmayanlar) (iç yüzeyleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        kaplanmış ve ısıyı tecrit veya muhafaza edici maddelerle donatılmış olsun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"7419.20.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7419.80",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Çapları 6 mm. yi geçmeyen bakır tellerden mensucat ( sonsuz veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        devamlı mensucat dahil), ızgara, kafeslikler ve ağlar; bakırdan metal ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       depluvayye",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7419.80.10.00.11",
+        "Unnamed: 1":" - - - Mensucat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7419.80.10.00.12",
+        "Unnamed: 1":" - - - Bakırdan metal depluvayye",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7419.80.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"7419.80.30.00.00",
+        "Unnamed: 1":" - - Bakır yaylar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"7419.80.90.10.00",
+        "Unnamed: 1":" - - - Her türlü madde için (sıkıştırılmış veya sıvı gaz hariç) bakırdan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        depolar, sarnıçlar, küvler ve benzeri diğer kaplar (hacmi 300 Iitreden",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        fazla olan, mekanik veya termik tertibatı bulunmayanlar) (iç yüzeyleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        kaplanmış ve ısıyı tecrit veya muhafaza edici maddelerle donatılmış ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"7419.80.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    }
+]

@@ -1,0 +1,884 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"[95.01]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[95.02]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00",
+        "Unnamed: 1":" Üç tekerlekli bisikletler, skuterler, pedallı arabalar ve benzeri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" tekerlekli oyuncaklar; oyuncak bebekler için arabalar;oyuncak bebekler;",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"diğer oyuncaklar; küçültülmüş (scale) modeller ve benzeri eğlencelik",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"modeller( hareketli olsun olmasın );her türlü bilmeceler (puzzle):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Üç tekerlekli bisikletler, skuterler, pedallı arabalar ve benzeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    tekerlekli oyuncaklar; oyuncak bebekler için arabalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.10.11.00",
+        "Unnamed: 1":"  - - Oyuncak bebekler için arabalar",
+        "ÖLÇÜ\nBİRİMİ":" -",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.10.12.00",
+        "Unnamed: 1":"  - - Üç tekerlekli bisikletler",
+        "ÖLÇÜ\nBİRİMİ":" -",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.10.19.11",
+        "Unnamed: 1":" - - - Skuterler",
+        "ÖLÇÜ\nBİRİMİ":" -",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.10.19.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" -",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" -Sadece insan şeklinde yapma bebekler (bunların aksam, parça ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  aksesuarları dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.21.00.00",
+        "Unnamed: 1":" - - Oyuncak bebekler",
+        "ÖLÇÜ\nBİRİMİ":" -",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.29.00.00",
+        "Unnamed: 1":" - - Aksam, parça ve aksesuarlar",
+        "ÖLÇÜ\nBİRİMİ":" -",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.30.00.00",
+        "Unnamed: 1":" -Elektrikli trenler (rayları, işaretleri ve diğer aksesuarı dahil);birleştirilecek",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" türden küçültülmüş modeller ",
+        "ÖLÇÜ\nBİRİMİ":" -",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer yapı setleri ve yapı oyuncakları:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.35.00.00",
+        "Unnamed: 1":" - - Plastik maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.39.00.00",
+        "Unnamed: 1":" - - Diğer maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Hayvanları ve insan dışı yaratıkları tasvir eden oyuncaklar:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.41.00.00",
+        "Unnamed: 1":" - - İçleri doldurulmuş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.49.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.55.00.00",
+        "Unnamed: 1":" - Oyuncak müzik alet ve cihazları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bilmeceler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.61.00.00",
+        "Unnamed: 1":" - - Ahşap olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.69.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.70.00.00",
+        "Unnamed: 1":" - Diğer oyuncaklar (takım veya set halinde olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer oyuncak ve modeller (motorlu olanlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.75.00.00",
+        "Unnamed: 1":" - - Plastik maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.79.00.00",
+        "Unnamed: 1":" - - Diğer maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.81.00.00",
+        "Unnamed: 1":" - - Oyuncak silahlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.85.00.00",
+        "Unnamed: 1":" - -  Kalıplanarak elde edilen minyatür metal modeller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.87.00.00",
+        "Unnamed: 1":" - - Esas olarak çocuklar için dizayn edilmiş taşınabilir interaktif elektronik eğitim cihazları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9503.00.95.00.00",
+        "Unnamed: 1":" - - - Plastik maddelerden olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9503.00.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"95.04",
+        "Unnamed: 1":"Video oyun konsolları ve makinaları, tilt makinası, bilardo, kumarhane ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"oyunları için özel masalar ve otomatik bowling ekipmanları dahil salon ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya masa oyunları, madeni para, banknot (kağıt para), banka kartları,",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"jeton veya benzeri ödeme araçları ile çalışan eğlence makinaları:  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9504.20",
+        "Unnamed: 1":" - Her çeşit bilardo eşyası ve aksesuarı:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9504.20.00.10.00",
+        "Unnamed: 1":"  - - Bilardo tebeşirleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"9504.20.00.90.00",
+        "Unnamed: 1":"  - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9504.30",
+        "Unnamed: 1":" - Madeni para, banknot (kağıt para), banka kartları,jeton veya benzeri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   ödeme araçları ile çalışan diğer oyunlar (otomatik bowling oyunu hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9504.30.10.00.00",
+        "Unnamed: 1":" - - Ekranlı olanlar",
+        "ÖLÇÜ\nBİRİMİ":"   Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9504.30.20.00.00",
+        "Unnamed: 1":" - - Diğer oyunlar",
+        "ÖLÇÜ\nBİRİMİ":"   Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9504.30.90.00.00",
+        "Unnamed: 1":" - -  Aksam ve parçalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9504.40.00.00.00",
+        "Unnamed: 1":" - Oyun kağıtları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9504.50.00.00.00",
+        "Unnamed: 1":" - Video oyun konsolları ve makineleri (9504.30 alt pozisyonundakiler hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9504.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9504.90.10.00.00",
+        "Unnamed: 1":" - - Takım halinde elektrikli yarış arabaları (yarış oyunları özelliğine sahip",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9504.90.80.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"95.05",
+        "Unnamed: 1":"Bayram, karnaval veya diğer eğlenceler için eşya (sihirbazlık",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"eşyası veya sürpriz eşyası dahil):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9505.10",
+        "Unnamed: 1":" - Noel eğlenceleri için eşya:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9505.10.10.00.00",
+        "Unnamed: 1":" - - Camdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9505.10.90.00.00",
+        "Unnamed: 1":" - - Diğer maddelerden olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"9505.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"95.06",
+        "Unnamed: 1":"Bu fasılın diğer pozisyonlarında belirtilmeyen veya yer almayan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kültür fizik, jimnastik, atletizm ve diğer sporlara (masa tenisi dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya açık hava oyunlarına mahsus eşya ve malzeme; yüzme ha -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"vuzları ve küçük oyun havuzları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kar kayakları ve kar kayağı yapmaya mahsus diğer malzemeler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.11",
+        "Unnamed: 1":" - - Kayaklar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.11.10.00.00",
+        "Unnamed: 1":" - - - Uzun mesafe kayağı",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Yokuş aşağı iniş için kayaklar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.11.21.00.00",
+        "Unnamed: 1":" - - - - Tek kayaklar ve snowboard'lar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.11.29.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.11.80.00.00",
+        "Unnamed: 1":" - - - Diğer kayaklar",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.12.00.00.00",
+        "Unnamed: 1":" - - Kayak bağlayıcıları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Su kayakları, sörf tahtaları, rüzgar sörfleri ve su sporları yapmak",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    için diğer malzeme:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.21.00.00.00",
+        "Unnamed: 1":" - - Rüzgar sörfleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Golf sopaları ve golf oyunlarına mahsus diğer malzeme:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.31.00.00.00",
+        "Unnamed: 1":" - - Sopalar (komple)",
+        "ÖLÇÜ\nBİRİMİ":"   Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.32.00.00.00",
+        "Unnamed: 1":" - - Toplar",
+        "ÖLÇÜ\nBİRİMİ":"   Adet",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.39",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.39.10.00.00",
+        "Unnamed: 1":" - - - Sopaların aksam ve parçaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.39.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.40",
+        "Unnamed: 1":" - Masa tenisi için eşya ve malzeme:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.40.00.00.11",
+        "Unnamed: 1":" - - Masalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.40.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Tenis, badminton veya benzeri sporlar için raketler (fileli olsun olmasın): ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.51.00.00.00",
+        "Unnamed: 1":" - - Tenis raketleri (fileli olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.59.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Küçük ve büyük toplar (golf ve masa tenis topları hariç):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.61.00.00.00",
+        "Unnamed: 1":" - - Tenis topları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.62.00.00.00",
+        "Unnamed: 1":" - - Şişirilebilen toplar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.69",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.69.10.00.00",
+        "Unnamed: 1":" - - - Kriket ve polo topları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.69.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.70",
+        "Unnamed: 1":" - Buz patenleri ve tekerlekli patenler (paten takılmış botlar dahil):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.70.10.00.00",
+        "Unnamed: 1":" - - Buz patenleri",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.70.30.00.00",
+        "Unnamed: 1":" - - Tekerlekli patenler",
+        "ÖLÇÜ\nBİRİMİ":" Çift",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.70.90.00.00",
+        "Unnamed: 1":" - - Aksam, parça ve aksesuar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.91",
+        "Unnamed: 1":" - - Kültür-fizik, jimnastik veya atletizm eşya ve malzemesi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.91.10.00.00",
+        "Unnamed: 1":" - - - Güç ayarlama mekanizmalı egzersiz aletleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.91.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9506.99.10.00.00",
+        "Unnamed: 1":" - - - Kriket veya polo malzemesi (toplar hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9506.99.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"95.07",
+        "Unnamed: 1":"Oltayla balık avlamaya mahsus olta kamışları, olta iğneleri ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"diğer balık takımları; balık yakalamaya mahsus el kepçeleri, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kelebek ağları ve benzeri diğer ağlar; kuş avcılığına mahsus ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yapma kuşlar (92.08 veya 97.05 pozisyonundakiler hariç) ve benze-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ri avcılık ve atıcılık levazımatı:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9507.10.00.00.00",
+        "Unnamed: 1":" - Olta değnekleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9507.20",
+        "Unnamed: 1":" - Olta iğneleri (misina takılı olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9507.20.10.00.00",
+        "Unnamed: 1":" - - Olta iğneleri (misina takılmamış)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9507.20.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9507.30.00.00.00",
+        "Unnamed: 1":" - Olta makaraları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":"9507.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"95.08",
+        "Unnamed: 1":"Gezici sirkler ve gezici hayvan sergileri; eğlence parkı gezinti eşyası ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"su parkı eğlence eşyası; atış standları dahil fuar ve panayır eğlencelerine",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mahsus eşya; gezici tiyatrolar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9508.10.00.00.00",
+        "Unnamed: 1":" - Gezici sirkler ve gezici hayvan sergileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Eğlence parkı gezinti eşyası ve su parkı eğlence eşyası",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"9508.21.00.00.00",
+        "Unnamed: 1":" - - Hızlı trenler (roller coaster)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.22.00.00.00",
+        "Unnamed: 1":" - - Atlı karıncalar, salıncaklar ve dönen platformlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.23.00.00.00",
+        "Unnamed: 1":" - - Çarpışan arabalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.24.00.00.00",
+        "Unnamed: 1":" - - Hareket simulatörleri ve hareketli sinemalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.25.00.00.00",
+        "Unnamed: 1":" - - Su gezinti eşyası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.26.00.00.00",
+        "Unnamed: 1":" - - Su parkı eğlence eşyası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.30.00.00.00",
+        "Unnamed: 1":" - Fuar ve panayır eğlencelerine mahsus eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    },
+    {
+        "Unnamed: 0":"9508.40.00.00.00",
+        "Unnamed: 1":" - Gezici tiyatrolar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50.0
+    }
+]

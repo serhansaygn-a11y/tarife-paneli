@@ -1,0 +1,1490 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"41.01",
+        "Unnamed: 1":"Sığırların (bufalo dahil) ve atların ham post ve derileri (yaş veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tuzlanmış, kurutulmuş, kireçlenmiş, pikle edilmiş veya başka şekilde  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"muhafaza edilmiş, fakat dabaklanmamış, parşömine edilmemiş veya  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"daha ileri bir işleme tabi tutulmamış) (kılları alınmış veya parçalara ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ayrılmış olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.20",
+        "Unnamed: 1":" - Bütün halindeki post ve deriler (deri ağırlığı basitçe kurutulduğunda ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   8 kg.ı, kuru tuzlandığında 10 kg.ı veya taze, yaş tuzlanmış veya diğer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    şekillerde muhafaza edildiğinde 16 kg.ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Taze:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.20.10.10.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 15 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"4101.20.10.20.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 15 kg.dan fazla fakat 16 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Yaş tuzlanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.20.30.10.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 15 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"4101.20.30.20.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 15 kg.dan fazla, fakat 16 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Kurutulmuş veya kuru tuzlanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.20.50.10.00",
+        "Unnamed: 1":" - - - Kuru ağırlığı 9 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"4101.20.50.20.00",
+        "Unnamed: 1":" - - - Kuru ağırlığı 9 kg.ı geçen, fakat 10 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.20.80.10.00",
+        "Unnamed: 1":" - - - Diğer şekillerde muhafaza edildiğinde ağırlığı 14 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"4101.20.80.20.00",
+        "Unnamed: 1":" - - - Diğer şekillerde muhafaza edildiğinde ağırlığı 14 kg.ı geçen, fakat 16 kg.ı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4101.50",
+        "Unnamed: 1":" - Ağırlığı 16 kg.ı geçen bütün halindeki post ve deriler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Taze:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.50.10.10.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 16 kg.ı geçen sığır derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4101.50.10.20.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 16 kg.ı geçen at derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Yaş tuzlanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.50.30.10.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 16 kg.ı geçen sığır derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4101.50.30.20.00",
+        "Unnamed: 1":" - - - Yaş ağırlığı 16 kg.ı geçen at derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Kurutulmuş veya kuru tuzlanmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.50.50.10.00",
+        "Unnamed: 1":" - - - Sığır derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4101.50.50.20.00",
+        "Unnamed: 1":" - - - Atların derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4101.50.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4101.90",
+        "Unnamed: 1":" - Diğerleri (krupon ve yarım krupon deriler dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4101.90.00.10.00",
+        "Unnamed: 1":" - - Krupon ve yarım krupon deriler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4101.90.00.20.00",
+        "Unnamed: 1":" - - Taze veya yaş tuzlanmış sığır derileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20.0
+    },
+    {
+        "Unnamed: 0":"4101.90.00.30.00",
+        "Unnamed: 1":" - - Kurutulmuş veya kuru tuzlanmış sığır derileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"4101.90.00.40.00",
+        "Unnamed: 1":" - - Diğer şekillerde muhafaza edilmiş sığır derileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4101.90.00.90.00",
+        "Unnamed: 1":" - - Atların derileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.02",
+        "Unnamed: 1":"Koyun ve kuzuların ham derileri ( yaş veya tuzlanmış, kurutulmuş,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kireçlenmiş, pikle edilmiş veya başka şekilde muhafaza edilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"fakat dabaklanmamış, parşömine edilmemiş veya daha ileri bir ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"şekilde hazırlanmamış) (yünü alınmış veya parçalara ayrılmış ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olsun olmasın) (bu fasılın 1 (c) notunda belirtilenler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4102.10",
+        "Unnamed: 1":" - Yünü alınmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4102.10.10.00.00",
+        "Unnamed: 1":" - - Kuzulara ait olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4102.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yünü alınmış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4102.21.00.00.00",
+        "Unnamed: 1":" - - Pikle deriler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4102.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.03",
+        "Unnamed: 1":"Diğer ham post ve deriler (yaş veya tuzlanmış, kurutulmuş, kireçlenmiş,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pikle edilmiş veya başka şekilde muhafaza edilmiş fakat dabak-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lanmamış, parşömine edilmemiş veya daha ileri bir şekilde hazırlan-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mamış) (kılları alınmış veya parçalara ayrılmış olsun olmasın) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(bu fasılın 1 (b) ve 1 (c) notlarında belirtilenler hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4103.20.00.00.00",
+        "Unnamed: 1":" - Sürüngenlerin ham derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4103.30.00.00.00",
+        "Unnamed: 1":" - Domuzların ham derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4103.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4103.90.00.00.11",
+        "Unnamed: 1":" - - Diğer hayvanların yaş derileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4103.90.00.00.12",
+        "Unnamed: 1":" - - Diğer hayvanların kuru derileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4103.90.00.00.13",
+        "Unnamed: 1":" - - Diğer hayvanların pikle derileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"4103.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":60.0
+    },
+    {
+        "Unnamed: 0":"41.04",
+        "Unnamed: 1":"Sığırların (bufalo dahil) veya atların dabaklanmış veya \"crust\" (ara ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kurutmalı) postları ve derileri (kılları alınmış) (parçalanmış ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olsun olmasın, fakat daha ileri bir işlem görmemiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yaş halde (wet-blue dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.11",
+        "Unnamed: 1":" - - Sırçalı deri (full grains), parçalanmamış; yarma deriler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        (birim yüzey alanı 2,6 m2.yi geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.11.10.00.11",
+        "Unnamed: 1":" - - - - Sırçalı deri (full grains)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4104.11.10.00.12",
+        "Unnamed: 1":" - - - - Yarma deri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Sığırların (bufalo dahil) deri ve köseleleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Bütün halindeki post ve derileri (birim yüzey alanı 2,6 m2.yi geçenler)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.11.51.00.11",
+        "Unnamed: 1":" - - - - - - Sırçalı deri (full grains)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.11.51.00.12",
+        "Unnamed: 1":" - - - - - - Yarma deri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.11.59.00.11",
+        "Unnamed: 1":" - - - - - - Sırçalı deri (full grains)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.11.59.00.12",
+        "Unnamed: 1":" - - - - - - Yarma deri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.11.90.00.11",
+        "Unnamed: 1":" - - - - - Sırçalı deri (full grains)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.11.90.00.12",
+        "Unnamed: 1":" - - - - - Yarma deri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.19.10.00.00",
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (birim yüzey alanı 2,6 m2.yi  geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Sığırların (bufalo dahil) deri ve köseleleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.19.51.00.00",
+        "Unnamed: 1":" - - - - - Bütün halindeki post ve derileri (birim yüzey alanı 2,6 m2.yi geçenler)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.19.59.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.19.90.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kuru halde (crust):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.41",
+        "Unnamed: 1":" - - Sırçalı deri (full grains), parçalanmamış; yarma deriler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       (birim yüzey alanı 2,6 m2.yi  geçmeyenler)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Hint danası derisi (bütün veya baş ve ayakları alınmış, her birinin net",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          ağırlığı 4,5 kg.ı geçmeyenler, bitkisel dabaklamadan daha ileri bir işlem",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          görmemiş, belirli işlemlerden geçmiş olsun olmasın, fakat bulunduğu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          halde deri eşyası imalatında kullanılacak hale gelmediği açıkça",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          belli olanlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.41.11.10.00",
+        "Unnamed: 1":" - - - - - Sadece dabaklanmış fakat belirli işlemlerden geçmemiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.41.11.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Sadece dabaklanmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.41.19.10.11",
+        "Unnamed: 1":" - - - - - - Dana derisi",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.41.19.10.19",
+        "Unnamed: 1":" - - - - - - Diğer sığırların derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.41.19.90.00",
+        "Unnamed: 1":" - - - - - Başka şekilde hazırlanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Sığırların (bufalo dahil) post ve derileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.41.51.00.00",
+        "Unnamed: 1":" - - - - - Bütün halindeki derileri (birim yüzey alanı 2,6 m2.yi geçenler)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.41.59.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.41.90.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.49",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (birim yüzey alanı 2,6 m2.yi geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Hint danası derisi (bütün veya baş ve ayakları alınmış, her",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     birinin net ağırlığı 4,5 kg. ı geçmeyenler, bitkisel dabaklamadan daha",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     ileri bir işlem görmemiş, belirli işlemlerden geçmiş olsun olmasın, fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     bulunduğu halde deri eşyası imalatında kullanılacak hale gelmediği",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      açıkça belli olanlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.49.11.10.00",
+        "Unnamed: 1":" - - - - - Sadece dabaklanmış fakat daha ileri bir işlem görmemiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.49.11.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Sadece dabaklanmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.49.19.10.11",
+        "Unnamed: 1":" - - - - - - Dana derisi ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.49.19.10.19",
+        "Unnamed: 1":" - - - - - - Diğer sığırların derileri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.49.19.90.00",
+        "Unnamed: 1":" - - - - - Başka şekilde hazırlanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Sığırların (bufalo dahil) deri ve köseleleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4104.49.51.00.00",
+        "Unnamed: 1":" - - - - - Bütün halindeki post ve derileri (birim yüzey alanı 2,6 m2.yi geçenler)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.49.59.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4104.49.90.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.05",
+        "Unnamed: 1":"Koyunların veya kuzuların dabaklanmış veya \"crust\" (ara kurutmalı) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"derileri (yünü alınmış), (parçalanmış olsun olmasın, fakat daha ileri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"bir şekilde hazırlanmamış):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4105.10.00.00.00",
+        "Unnamed: 1":" - Yaş halde (wet-blue dahil)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4105.30",
+        "Unnamed: 1":" - Kuru halde (crust):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4105.30.10.00.00",
+        "Unnamed: 1":" - - Bitkisel ön dabaklama yapılmış Hint melezi (bazı işlemlere tabi tutulmuş olsun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      olmasın,fakat deri eşya imalatında kullanılacak hale gelmediği açıkça belli",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4105.30.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.06",
+        "Unnamed: 1":" Diğer hayvanların dabaklanmış veya \"crust\" (ara kurutulmuş) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"post ve derileri (yünü veya kılı alınmış) (parçalanmış olsun olmasın ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" fakat daha ileri bir şekilde hazırlanmamış)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Keçi veya oğlakların derileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4106.21.00.00.00",
+        "Unnamed: 1":" - - Yaş halde (wet-blue dahil)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4106.22",
+        "Unnamed: 1":" - - Kuru halde (crust):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4106.22.10.00.00",
+        "Unnamed: 1":" - - - Bitkisel ön dabaklama yapılmış Hint keçisi veya oğlakları (bazı işlemlere tabi ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        tutulmuş olsun olmasın fakat deri eşya imalatında kullanılacak hale gelmediği",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        açıkça belli olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4106.22.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Domuzların derileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4106.31",
+        "Unnamed: 1":" - - Yaş halde (wet-blue dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4106.31.00.10.00",
+        "Unnamed: 1":" - - - Parçalara ayrılmamış",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4106.31.00.90.00",
+        "Unnamed: 1":" - - - Parçalara ayrılmış",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4106.32.00.00.00",
+        "Unnamed: 1":" - - Kuru halde (crust)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4106.40",
+        "Unnamed: 1":" - Sürüngenlerin derileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4106.40.10.00.00",
+        "Unnamed: 1":" - - Bitkisel ön dabaklama yapılmış",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4106.40.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4106.91.00.00.00",
+        "Unnamed: 1":" - - Yaş halde (wet-blue dahil):",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":"4106.92.00.00.00",
+        "Unnamed: 1":" - - Kuru halde (crust):",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":90.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.07",
+        "Unnamed: 1":"Sığırların (bufalo dahil) veya atların dabaklama veya ara kurutmadan",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sonra ileri derecede hazırlanmış deri ve köseleleri (parşömine",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edilmiş deri dahil) (kılları alınmış) (parçalanmış olsun olmasın, 41.14",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pozisyonunda yer alan deri ve köseleler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Bütün halindeki post ve deriler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.11",
+        "Unnamed: 1":" - - Sırçalı deri (full grains), parçalanmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) bütün haldeki derileri (birim  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        yüzey alanı  2,6 m2 yi geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.11.11.00.00",
+        "Unnamed: 1":" - - - - Vidala",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.11.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.11.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.12",
+        "Unnamed: 1":" - - Yarma deriler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) bütün haldeki derileri ( birim  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        yüzey alanı  2,6 m2 yi geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.12.11.00.00",
+        "Unnamed: 1":" - - - - Vidala",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.12.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.12.91.00.00",
+        "Unnamed: 1":" - - - - Sığırların (bufalo dahil) deri ve köseleleri ",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.12.99.00.00",
+        "Unnamed: 1":" - - - - Atların deri ve köseleleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.19.10.00.00",
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) deri ve köseleleri ( birim yüzey alanı  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"         2,6 m2 yi geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.19.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri, kenarlar dahil:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.91",
+        "Unnamed: 1":" - - Sırçalı deri (full grains), parçalanmamış:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.91.10.00.00",
+        "Unnamed: 1":" - - - Taban köselesi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.91.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.92",
+        "Unnamed: 1":" - - Yarma deriler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.92.10.00.00",
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) deri ve köseleleri ",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.92.90.00.00",
+        "Unnamed: 1":" - - - Atların deri ve köseleleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4107.99.10.00.00",
+        "Unnamed: 1":" - - - Sığırların (bufalo dahil) deri ve köseleleri ",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4107.99.90.00.00",
+        "Unnamed: 1":" - - - Atların deri ve köseleleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[41.08]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[41.09]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[41.10]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[41.11]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4112.00.00.00.00",
+        "Unnamed: 1":"Koyun veya kuzuların dabaklama veya ara kurutmadan sonra ileri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"derecede hazırlanmış deri ve köseleleri (parşömine edilmiş deri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dahil) (yünü alınmış) (parçalanmış olsun olmasın, 41.14 ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"pozisyonunda yer alan deri ve köseleler hariç)",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.13",
+        "Unnamed: 1":"Diğer hayvanların dabaklama veya ara kurutmadan sonra ileri derecede ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hazırlanmış deri ve köseleleri (parşömine edilmiş deri dahil) (yünü veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kılları alınmış) (parçalanmış olsun olmasın, 41.14 pozisyonunda yer alan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"deri ve köseleler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4113.10.00.00.00",
+        "Unnamed: 1":" - Keçi veya oğlakların deri ve köseleleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4113.20.00.00.00",
+        "Unnamed: 1":" - Domuzların deri ve köseleleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4113.30.00.00.00",
+        "Unnamed: 1":" - Sürüngenlerin deri ve köseleleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4113.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.14",
+        "Unnamed: 1":" Güderi (kombine deri dahil); rugan ve ruganla kaplanmış deri ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" köseleler; metalize deri ve köseleler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4114.10",
+        "Unnamed: 1":" - Güderi (kombine deri dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4114.10.10.00.00",
+        "Unnamed: 1":" - - Koyun ve kuzulardan elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4114.10.90.00.00",
+        "Unnamed: 1":" - - Diğer hayvanlardan elde edilenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"- Rugan ve ruganla kaplanmış deri ve köseleler; metalize deri ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   köseleler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4114.20.00.00.11",
+        "Unnamed: 1":"- - Rugan deri ve köseleler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4114.20.00.00.12",
+        "Unnamed: 1":"- - Ruganla kaplanmış deri ve köseleler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4114.20.00.00.13",
+        "Unnamed: 1":"- - Metalize deri ve köseleler",
+        "ÖLÇÜ\nBİRİMİ":"m2",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"41.15",
+        "Unnamed: 1":"Esası deri ve kösele veya deri veya kösele lifleri olan terkip",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yoluyla elde edilen levha, yaprak ve şerit halindeki deri ve köse-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"leler (rulo halinde olsun olmasın); deri ve köselelerin, terkip",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yoluyla elde edilen deri ve köselelerin,deri ve köseleden eşya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" imaline uygun olmayan kırpıntı ve diğer döküntüleri; ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" deri ve kösele talaşı, tozu ve unu:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"4115.10.00.00.00",
+        "Unnamed: 1":"- Esası deri ve kösele veya deri veya kösele lifleri olan terkip",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yoluyla elde edilen levha, yaprak ve şerit halindeki deri ve köse-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"leler (rulo halinde olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    },
+    {
+        "Unnamed: 0":"4115.20.00.00.00",
+        "Unnamed: 1":"- Deri ve köselelerin, terkip yoluyla elde edilen deri ve köselelerin, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"deri ve köseleden eşya  imaline uygun olmayan kırpıntı ve diğer  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"döküntüleri; deri ve kösele talaşı, tozu ve unu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100.0
+    }
+]

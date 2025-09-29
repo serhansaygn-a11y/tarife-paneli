@@ -1,0 +1,1886 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"2501.00",
+        "Unnamed: 1":" Tuz (sofra tuzu ve denature tuz dahil) ve saf sodyum klorür",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" (sulu çözelti halinde veya kalıplaşmaya karşı maddeler veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" serbestçe akmayı sağlayan maddeler içersin içermesin); ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" deniz suyu:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2501.00.10.00.00",
+        "Unnamed: 1":" - Denizsuyu ve tuzla ana suları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Tuz (sofra tuzu ve denature tuz dahil), saf sodyum klorür (sulu çözelti",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    halinde veya kalıplaşmaya karşı maddeler veya serbestçe akmayı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    sağlayan maddeler içersin içermesin):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2501.00.31.00.00",
+        "Unnamed: 1":" - - Diğer maddelerin imali için kimyasal değişimlere mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      (CI 'den Na 'yı ayırmak gibi)                           ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2501.00.51.00.00",
+        "Unnamed: 1":" - - - Denature veya sınai amaçlara mahsus olanlar (rafine edilecekler dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        (insanlar veya hayvanlar tarafından tüketilen gıdaların hazırlanmasında",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        veya korunmasında kullanılanlar hariç)          ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2501.00.91.00.00",
+        "Unnamed: 1":" - - - - İnsanların tüketimine mahsus tuz             ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri :                                                  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2501.00.99.10.00",
+        "Unnamed: 1":" - - - - - Saf sodyum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2501.00.99.90.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":100
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2502.00",
+        "Unnamed: 1":" Kavrulmamış demir piritleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2502.00.00.00.11",
+        "Unnamed: 1":" - Bakırlı demir piritleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":"2502.00.00.00.19",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2503.00",
+        "Unnamed: 1":"Her nevi kükürt (süblime kükürt, presipite kükürt ve kolloidal ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kükürt hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2503.00.10.00.00",
+        "Unnamed: 1":" - Ham veya rafine edilmemiş kükürt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2503.00.90.00.13",
+        "Unnamed: 1":" - - Rafine edilmiş kükürt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":"2503.00.90.00.18",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":75
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.04",
+        "Unnamed: 1":"Tabii grafit:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2504.10.00.00.00",
+        "Unnamed: 1":" - Toz veya flokon halinde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2504.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.05",
+        "Unnamed: 1":"Her nevi tabii kum (boyanmış olsun olmasın, 26. fasıldaki",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"metal içeren kumlar hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2505.10.00.00.00",
+        "Unnamed: 1":" - Silisli kumlar ve kuvarslı kumlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2505.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2505.90.00.00.11",
+        "Unnamed: 1":" - - Killi ve beyaz killi (kaolinli) kumlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2505.90.00.00.12",
+        "Unnamed: 1":" - - Feldispatlı kumlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2505.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.06",
+        "Unnamed: 1":"Kuvars (tabii kumlar hariç); kuvarzit, kabaca yontulmuş veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"testere ile yahut başka surette [dikdörtgen şeklindeki (kare dahil),",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"bloklar veya kalın dilimler halinde] sadece kesilmiş olsun olmasın:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2506.10",
+        "Unnamed: 1":" - Kuvars",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2506.10.00.00.11",
+        "Unnamed: 1":" - - Ham kuvars",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2506.10.00.00.14",
+        "Unnamed: 1":" - - Mikromize kuvars (10-20- mikron çaplı)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2506.10.00.00.18",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kuvarzit",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2506.20.00.00.11",
+        "Unnamed: 1":" - -  Ham veya kabaca yontulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2506.20.00.00.19",
+        "Unnamed: 1":" - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2507.00",
+        "Unnamed: 1":"Kaolin ve diğer kaolinli killer (kalsine edilmiş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kaolin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2507.00.20.00.11",
+        "Unnamed: 1":" - - Ham kaolin",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2507.00.20.00.18",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer kaolinli killer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"2507.00.80.00.11",
+        "Unnamed: 1":" - - Ham kaolinli killer",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2507.00.80.00.12",
+        "Unnamed: 1":" - - Öğütülmüş kaolinli killer",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.08",
+        "Unnamed: 1":"Diğer killer (68.06 Pozisyonundaki genleştirilmiş killer hariç), ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"andaluzit, siyanit ve silimanit (kalsine edilmiş olsun olmasın); ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mülit; şamot veya dinas toprakları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2508.10",
+        "Unnamed: 1":" - Bentonit",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"2508.10.00.00.11",
+        "Unnamed: 1":" - - Öğütülmüş bentonit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.10.00.00.12",
+        "Unnamed: 1":" - - Öğütülmemiş bentonit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.30.00.00.00",
+        "Unnamed: 1":" - Ateş kili",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.40.00.00.00",
+        "Unnamed: 1":" - Diğer killer",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.50",
+        "Unnamed: 1":" - Andaluzit, siyanit ve silimanit",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2508.50.00.00.11",
+        "Unnamed: 1":" - - Andaluzit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.50.00.00.12",
+        "Unnamed: 1":" - - Siyanit (disten)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.50.00.00.13",
+        "Unnamed: 1":" - - Silimanit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.60",
+        "Unnamed: 1":" - Mülit :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2508.60.00.10.00",
+        "Unnamed: 1":" - - Siliko-alumin ve silisli ateş toprağı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.60.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2508.70.00.00.00",
+        "Unnamed: 1":" - Şamot ve dinas toprakları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2509.00",
+        "Unnamed: 1":"Tebeşir",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2509.00.00.00.11",
+        "Unnamed: 1":"- Saf tebeşir",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2509.00.00.00.19",
+        "Unnamed: 1":"- Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.10",
+        "Unnamed: 1":"Tabii kalsiyum fosfatlar; tabii aluminyum -kalsiyum fosfatlar ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"fosfatlı tebeşirler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2510.10",
+        "Unnamed: 1":" - Öğütülmemiş :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2510.10.00.10.00",
+        "Unnamed: 1":" - - Tabii aluminyum-kalsiyum fosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        "Unnamed: 0":"2510.10.00.90.11",
+        "Unnamed: 1":" - - - Tabii kalsiyum fosfatlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"2510.10.00.90.12",
+        "Unnamed: 1":" - - - Apatit ve fosfatlı tebeşirler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":"2510.20",
+        "Unnamed: 1":" - Öğütülmüş :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Tabii kalsiyum fosfatlar; tabii aluminyum -kalsiyum fosfatlar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2510.20.00.10.11",
+        "Unnamed: 1":" - - - Tabii kalsiyum fosfatlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2510.20.00.10.12",
+        "Unnamed: 1":" - - - Tabii aluminyum -kalsiyum fosfatlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        "Unnamed: 0":"2510.20.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.11",
+        "Unnamed: 1":" Tabii baryum sülfat (barit) ; tabii baryum karbonat (witherithe)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" (kalsine edilmiş olsun olmasın) (28.16 pozisyonundaki baryum ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" oksit hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2511.10",
+        "Unnamed: 1":" - Tabii baryum sülfat (barit)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2511.10.00.00.11",
+        "Unnamed: 1":" - - Ham baryum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"2511.10.00.00.12",
+        "Unnamed: 1":" - - Öğütülmüş baryum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"2511.10.00.00.13",
+        "Unnamed: 1":" - - Mikronize edilmiş baryum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"2511.20.00.00.00",
+        "Unnamed: 1":" - Tabii baryum karbonat (witherithe)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2512.00",
+        "Unnamed: 1":" Belirgin yoğunluğu bir veya daha az olan silisli fosil unları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" (kiselgur, tripolit, diatomit gibi) ve benzeri silisli topraklar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" (kalsine edilmiş olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2512.00.00.00.11",
+        "Unnamed: 1":" - Tripolit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2512.00.00.00.12",
+        "Unnamed: 1":" - Diatomit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2512.00.00.00.13",
+        "Unnamed: 1":" - Kiselgur",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2512.00.00.00.19",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.13",
+        "Unnamed: 1":"Sünger taşı; zımpara taşı; tabii korindon, tabii Süleyman taşı (garnet) ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"diğer tabii aşındırıcılar (termik işlem görmüş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2513.10.00.00.00",
+        "Unnamed: 1":" - Sünger taşı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2513.20",
+        "Unnamed: 1":" - Zımpara taşı, tabii korindon, tabii Süleyman taşı ve diğer aşındırı-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   cılar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2513.20.00.00.11",
+        "Unnamed: 1":" - - Zımpara taşı (toz veya çaplı taneler halinde)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2513.20.00.00.12",
+        "Unnamed: 1":" - - Tabii korindon",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2513.20.00.00.13",
+        "Unnamed: 1":" - - Süleyman taşı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2513.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2514.00.00.00.00",
+        "Unnamed: 1":"Kayagan taşı (arduvaz), [kabaca yontulmuş veya testere ile",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yahut başka surette dikdörtgen şeklinde (kare dahil) bloklar ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya kalın dilimler halinde sadece kesilmiş olsun olmasın]",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.15",
+        "Unnamed: 1":"Mermer, traverten, ekosin ve belirgin yoğunluğu 2,5 veya daha",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"fazla olan yontulmaya veya inşaata elverişli kireçli taşlar, su",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mermeri [kabaca yontulmuş veya testere ile yahut başka surette",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dikdörtgen şeklinde (kare dahil) bloklar veya kalın dilimler halinde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sadece kesilmiş olsun olmasın]:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Mermer ve traverten:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2515.11.00.00.00",
+        "Unnamed: 1":" - - Ham veya kabaca yontulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2515.12.00.00.00",
+        "Unnamed: 1":" - - Testere ile yahut başka surette dikdörtgen şeklinde (kare dahil) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      bloklar veya kalın dilimler halinde sadece kesilmiş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2515.20",
+        "Unnamed: 1":" - Ekosin ve yontulmaya veya inşaata elverişli diğer kireçli taşlar;  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   su mermeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2515.20.00.00.11",
+        "Unnamed: 1":" - - Ekosin",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2515.20.00.00.12",
+        "Unnamed: 1":" - - Su mermeri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2515.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.16",
+        "Unnamed: 1":"Granit, porfir, bazalt, gre ve yontulmaya veya inşaata elverişli diğer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"taşlar [kabaca yontulmuş veya testere ile yahut başka surette ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dikdörtgen şeklinde (kare dahil) bloklar veya kalın dilimler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"halinde sadece kesilmiş olsun olmasın] :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Granit:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2516.11.00.00.00",
+        "Unnamed: 1":" - - Ham veya kabaca yontulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2516.12.00.00.00",
+        "Unnamed: 1":" - - Testere ile yahut başka surette dikdörtgen şeklinde (kare dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      bloklar veya kalın dilimler halinde sadece kesilmiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2516.20.00.00.00",
+        "Unnamed: 1":" - Gre",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2516.90.00.00.00",
+        "Unnamed: 1":" - Yontulmaya veya inşaata elverişli diğer taşlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.17",
+        "Unnamed: 1":"Çakıl taşı, kırılmış veya ezilmiş taşlar (genellikle yolların veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"demir yollarının betonaj ve döşemesinde veya diğer balastlama",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"işlerinde kullanılan türden), çakmak taşı ve yassı iri çakıl taşı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(termik işlem görmüş olsun olmasın); cüruf, moloz veya benzeri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sanayi artıkları makadamı (bu pozisyonun ilk kısmında belirtilen ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"maddelerle birlikte olsun olmasın); katranlı makadam; 25.15 ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"25.16 pozisyonlarındaki taşların granül, parçacık ve tozları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" (termik işlem görmüş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2517.10",
+        "Unnamed: 1":" - Çakıl taşı, kırılmış veya ezilmiş taşlar (genellikle yolların veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    veya demiryollarının betonaj ve döşemesinde veya diğer balast-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    lama işlerinde kullanılan türden),çakmak taşı ve yassı iri çakıl ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    taşı (termik işlem görmüş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Çakıl taşı, çakmak taşı ve yassı iri çakıl taşı :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2517.10.10.10.00",
+        "Unnamed: 1":" - - - Çakmak taşı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2517.10.10.90.11",
+        "Unnamed: 1":" - - - - Çakıl taşı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2517.10.10.90.12",
+        "Unnamed: 1":" - - - - Yassı iri çakıl taşı ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2517.10.20.00.00",
+        "Unnamed: 1":" - - Kireç taşı , dolomit ve diğer kalkerli taşlar (kırılmış veya ezilmiş)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2517.10.80.00.11",
+        "Unnamed: 1":" - - - Mıcır",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2517.10.80.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2517.20",
+        "Unnamed: 1":" - Cüruf, moloz veya diğer sanayi artıkları makadamı (2517.10 alt",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   pozisyonunda belirtilen maddelerle birlikte olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2517.20.00.00.11",
+        "Unnamed: 1":" - - Moloz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2517.20.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2517.30.00.00.00",
+        "Unnamed: 1":" - Katranlı makadam",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - 25. 15 veya 25.16 Pozisyonlarındaki taşların granül, parçacık ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   tozları (termik işlem görmüş olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2517.41.00.00.00",
+        "Unnamed: 1":" - - Mermerin granül, parçacık ve tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2517.49.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.18",
+        "Unnamed: 1":"Dolomit (kalsine edilmiş veya sinterlenmiş olsun olmasın); ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"[kabaca yontulmuş veya testere ile yahut başka surette ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dikdörtgen şeklindeki (kare dahil) bloklar veya kalın dilimler ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"halinde sadece kesilmiş dolomit dahil]",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2518.10",
+        "Unnamed: 1":" - Kalsine edilmemiş veya sinterlenmemiş dolomit",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2518.10.00.00.11",
+        "Unnamed: 1":" - - Öğütülmüş ham dolomit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2518.10.00.00.19",
+        "Unnamed: 1":" - - Diğer ham dolomitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2518.20",
+        "Unnamed: 1":" - Kalsine edilmiş veya sinterlenmiş dolomit",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2518.20.00.00.11",
+        "Unnamed: 1":" - - Öğütülmüş kalsine dolomit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2518.20.00.00.19",
+        "Unnamed: 1":" - - Diğer kalsine dolomitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.19",
+        "Unnamed: 1":"Tabii magnezyum karbonat (magnezit) ;erimiş manyezi; tamamen ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yanmış (sinterlenmiş) manyezi (sinterleme işleminden evvel ilave ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edilmiş az miktarda diğer oksitleri içersin içermesin); diğer ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"magnezyum oksit (saf olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2519.10.00.00.00",
+        "Unnamed: 1":" - Tabii magnezyum karbonat (magnezit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2519.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Magnezyum oksit (kalsine edilmiş tabii magnezyum karbonat hariç)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2519.90.10.00.11",
+        "Unnamed: 1":" - - - Saf magnezyum oksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2519.90.10.00.12",
+        "Unnamed: 1":" - - - Saf olmayan magnezyum oksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - -Tamamen yanmış (sinterlenmiş) manyezi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2519.90.30.00.11",
+        "Unnamed: 1":" - - - Deniz suyu sinter manyezi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2519.90.30.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2519.90.90.00.11",
+        "Unnamed: 1":" - - - Kalsine edilmiş manyezi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2519.90.90.00.12",
+        "Unnamed: 1":" - - - Elektro fused (elektro erğitilmiş ) manyezi",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2519.90.90.00.13",
+        "Unnamed: 1":" - - - Magnezit krom speneli",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2519.90.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.20",
+        "Unnamed: 1":"Alçı taşı; anhidrit; alçılar (kalsine alçı taşı veya kalsiyum sülfattan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ibaret olanlar) (boyanmış veya az miktarda donmayı hızlandırıcı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya yavaşlatıcılar ilave edilmiş olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2520.10.00.00.00",
+        "Unnamed: 1":" - Alçı taşı; anhidrit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2520.20",
+        "Unnamed: 1":" - Alçılar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2520.20.00.10.00",
+        "Unnamed: 1":" - - Dişçilikte kullanılan alçılar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2520.20.00.90.11",
+        "Unnamed: 1":" - - - Tıpta kullanılan alçılar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2520.20.00.90.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2521.00.00.00.00",
+        "Unnamed: 1":"Kastin; kireç taşı ve diğer kireçli taşlar (kireç ve çimento",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"imalinde kullanılan türde olanlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.22",
+        "Unnamed: 1":"Sönmemiş kireç, sönmüş kireç ve su aItında sertleşen kireç",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(28.25 pozisyonundaki kalsiyum oksit ve hidroksit hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2522.10.00.00.00",
+        "Unnamed: 1":" - Sönmemiş kireç",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2522.20.00.00.00",
+        "Unnamed: 1":" - Sönmüş kireç",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2522.30.00.00.00",
+        "Unnamed: 1":" - Su altında sertleşen kireç",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.23",
+        "Unnamed: 1":"Portland çimentosu, şaplı çimento (\"ciment fondu\"), cüruf",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"çimentosu, süper sülfat çimentosu ve benzeri su altında sertleşen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"çimentolar (boyanmış veya klinker şeklinde olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2523.10.00.00.00",
+        "Unnamed: 1":" - Klinker",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Portland çimentosu:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2523.21",
+        "Unnamed: 1":" - - Beyaz çimento (suni olarak renklendirilmiş olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2523.21.00.00.11",
+        "Unnamed: 1":" - - - Ambalajlanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"2523.21.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        "Unnamed: 0":"2523.29",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2523.29.00.00.11",
+        "Unnamed: 1":" - - - Ambalajlanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2523.29.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2523.30",
+        "Unnamed: 1":" - Şaplı çimento",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2523.30.00.00.11",
+        "Unnamed: 1":" - - Ambalajlanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2523.30.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2523.90",
+        "Unnamed: 1":" - Su altında sertleşen diğer çimentolar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2523.90.00.00.11",
+        "Unnamed: 1":" - - Ambalajlanmış olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2523.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.24",
+        "Unnamed: 1":"Amyant (asbest) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2524.10.00.00.00",
+        "Unnamed: 1":" - Krosidolit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2524.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2524.90.00.00.11",
+        "Unnamed: 1":" - - Amosite",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2524.90.00.00.12",
+        "Unnamed: 1":" - - Antophylite",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2524.90.00.00.13",
+        "Unnamed: 1":" - - Actinolite",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2524.90.00.00.14",
+        "Unnamed: 1":" - - Tremolite",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2524.90.00.00.15",
+        "Unnamed: 1":" - - Chrysotile",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":"2524.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.25",
+        "Unnamed: 1":"Mika (düzensiz ince tabakalar halinde yarılmış olanlar dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mika döküntüleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2525.10.00.00.00",
+        "Unnamed: 1":" - Ham mika ve düzensiz yaprak veya ince tabakalar halinde ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   yarılmış mika",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2525.20.00.00.00",
+        "Unnamed: 1":" - Mika tozu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":"2525.30.00.00.00",
+        "Unnamed: 1":" - Mika döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.26",
+        "Unnamed: 1":"Tabii steatit (sabun taşı) [kabaca yontulmuş veya testere ile yahut",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"başka surette dikdörtgen şeklindeki (kare dahil) bloklar veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kalın dilimler halinde sadece kesilmiş olsun olmasın]; talk:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2526.10.00.00.00",
+        "Unnamed: 1":" - Ezilmemiş, toz haline getirilmemiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"2526.20.00.00.00",
+        "Unnamed: 1":" - Ezilmiş veya toz haline getirilmiş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[25.27]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2528.00.00.00.00",
+        "Unnamed: 1":"Tabii boratlar ve bunların konsantreleri (kalsine edilmiş olsun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olmasın) (tabii tuzlu sulardan çıkarılan boratlar hariç); tabii borik",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"asit (kuru ağırlık üzerinden hesaplandığında H3BO3 oranı % 85 'ten ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"fazla olmayan)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.29",
+        "Unnamed: 1":"Feldispat; lösit; nefelin ve nefelin siyenit ; florspat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2529.10",
+        "Unnamed: 1":" - Feldispat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2529.10.00.00.11",
+        "Unnamed: 1":" - - Ham feldispat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2529.10.00.00.12",
+        "Unnamed: 1":" - - Öğütülmüş feldispat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2529.10.00.00.13",
+        "Unnamed: 1":" - - Flote edilmiş feldispat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2529.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Florspat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2529.21.00.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 97 veya daha az kalsiyum florür içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2529.22.00.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 97 'den fazla kalsiyum fIorür içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2529.30.00.00.00",
+        "Unnamed: 1":" - Lösit; nefelin ve nefelin siyenit ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"25.30",
+        "Unnamed: 1":"Tarifenin başka yerinde belirtilmeyen veya yer almayan mineral",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" maddeler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2530.10",
+        "Unnamed: 1":" - Vermikülit, perlit ve kloritler (genleştirilmemiş) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Vermikülit",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2530.10.00.00.12",
+        "Unnamed: 1":" - - - Tane boyu 1mm'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.10.00.00.13",
+        "Unnamed: 1":" - - - Tane boyu 1mm'yi geçen 2 mm'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.10.00.00.14",
+        "Unnamed: 1":" - - - Tane boyu 2,8 mm'yi geçen 4 mm'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.10.00.00.15",
+        "Unnamed: 1":" - - - Tane boyu 4 mm'yi geçen 12 mm'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.10.00.00.16",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.10.00.00.19",
+        "Unnamed: 1":"- - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.20",
+        "Unnamed: 1":" - Kieserit, epsomit (tabii magnezyum sülfatlar)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"2530.20.00.00.11",
+        "Unnamed: 1":" - - Kieserit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.20.00.00.12",
+        "Unnamed: 1":" - - Epsomit ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"2530.90.30.00.00",
+        "Unnamed: 1":" - - Selestin ve Strontianit ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.90.40.00.00",
+        "Unnamed: 1":" - -  Lityum ekstraksiyonuna uygun spodumen, petalit, lepidolit, ambligonit, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      hektorit, jadarit ve benzeri mineraller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.90.50.00.00",
+        "Unnamed: 1":" - - Nadir toprak metalleri, skandiyum veya itriyum ekstraksiyonuna uygun ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      bastnaezit, ksenotim ve benzeri mineraller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        "Unnamed: 0":"2530.90.70.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    }
+]

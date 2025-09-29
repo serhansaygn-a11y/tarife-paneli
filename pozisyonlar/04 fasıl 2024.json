@@ -1,0 +1,2600 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"04.01",
+        "Unnamed: 1":"Süt ve krema (konsantre edilmemiş, ilave şeker veya diğer ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tatlandırıcı maddeleri içermeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.10",
+        "Unnamed: 1":" - Ağırlık itibariyle içerdiği katı yağ oranı % 1'i geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.10.10.00.00",
+        "Unnamed: 1":" - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.20",
+        "Unnamed: 1":" - Ağırlık itibariyle içerdiği katı yağ oranı % 1 'i geçen, fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   % 6' yı geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.20.11.00.00",
+        "Unnamed: 1":" - - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.20.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.20.91.00.00",
+        "Unnamed: 1":" - - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.20.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.40",
+        "Unnamed: 1":" - İçerdiği katı yağ oranı, ağırlık itibariyle, % 6' yı geçen fakat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   %10'u geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.40.10.00.11",
+        "Unnamed: 1":" - - - Süt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.40.10.00.12",
+        "Unnamed: 1":" - - - Krema",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.40.90.00.11",
+        "Unnamed: 1":" - - - Süt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.40.90.00.12",
+        "Unnamed: 1":" - - - Krema",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.50",
+        "Unnamed: 1":" - İçerdiği katı yağ oranı, ağırlık itibariyle, % 10'u geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - İçerdiği katı yağ oranı, ağırlık itibariyle, % 21'i geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.50.11.00.00",
+        "Unnamed: 1":" - - - Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.50.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağırlık itibariyle içerdiği katı yağ oranı % 21'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      % 45 'i geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.50.31.00.00",
+        "Unnamed: 1":" - - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.50.39.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağırlık itibariyle içerdiği katı yağ oranı % 45 'i geçenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0401.50.91.00.00",
+        "Unnamed: 1":" - - - Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0401.50.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"04.02",
+        "Unnamed: 1":"Süt ve krema (konsantre edilmiş veya ilave şeker ya da diğer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tatlandırıcı maddeleri içerenler) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.10",
+        "Unnamed: 1":" - Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    içerdiği katı yağ oranı, % 1,5 'i geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.10.11.00.00",
+        "Unnamed: 1":" - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.10.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.10.91.00.00",
+        "Unnamed: 1":" - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.10.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    içerdiği katı yağ oranı, %1,5' i geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.21",
+        "Unnamed: 1":" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle, içerdiği katı yağ oranı, % 27'yi geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.21.11.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.21.18.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - -  İçerdiği katı yağ oranı, ağırlık itibariyle, % 27'yi geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.21.91.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.21.99.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.29.11.00.00",
+        "Unnamed: 1":" - - - - Süt çocukları için net muhteviyatı 500 gr.ı geçmeyen hava ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          almayacak şekilde kapatılmış kaplarda bulunan ve ağırlık",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          itibariyle içerdiği katı yağ oranı, % 10 'u geçen özel sütler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.29.15.00.00",
+        "Unnamed: 1":" - - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.29.19.00.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27 'yi geçenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.29.91.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.29.99.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.91",
+        "Unnamed: 1":" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.91.10.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.91.30.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçen fakat % 10'u",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Ağırlık itibariyle içerdiği katı yağ oranı %10 'u geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        % 45'i geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.91.51.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.91.59.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 45 'i geçenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.91.91.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.91.99.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.99.10.00.00",
+        "Unnamed: 1":" - - -  İçerdiği katı yağ oranı ağırlık itibariyle % 9,5' i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 9,5 'i geçen fakat % 45'i",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.99.31.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.99.39.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 45'i geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0402.99.91.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0402.99.99.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"04.03",
+        "Unnamed: 1":"Yoğurt; yayıkaItı, pıhtılaştırılmış süt ve krema, kefir ve diğer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" fermente ediImiş veya asitIiği artırıImış süt ve krema (konsantre",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" edilmiş veya iIave şeker veya diğer tatlandırıcı maddeIer ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" katılmış oIsun olmasın veya aroma veya ilave meyva, sert ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" kabukIu meyva veya kakao içersin içermesin):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.20",
+        "Unnamed: 1":" - Yoğurt:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar, kakao, çikolata,  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     baharat, kahve veya kahve hülasası, biltki, bitki parçaları, hububat veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     ekmekçi mamulleri içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İlave şeker veya diğer tatlandırıcı maddeler içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.20.11.00.11",
+        "Unnamed: 1":" - - - - - Yoğurt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.11.00.12",
+        "Unnamed: 1":" - - - - - Ayran",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.13.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"           % 6'yı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.19.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.20.31.00.11",
+        "Unnamed: 1":" - - - - - Yoğurt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.31.00.12",
+        "Unnamed: 1":" - - - - - Ayran",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.33.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          % 6'yı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.39.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı yağ oranı ağırlık itibariyle %  6 'yı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - İlave çikolata, baharat, kahve veya kahve hülasası, bitki, bitki parçaları,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     hububat veya ekmekçilik mamulü içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.20.41.00.00",
+        "Unnamed: 1":" - - - Ağırlıkça % 1,5'dan az katı süt yağı, % 5 sukroz (invert şeker dahil) veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      izoglikoz, % 5 glikoz veya nişasta içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.49.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri, aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      kakao içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Toz, granül veya diğer katı şekillerde olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.20.51.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle %  1,5'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.53.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5' i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"          % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.59.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.20.91.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.93.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"          % 6'yı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.20.99.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      kakao içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Toz, granül veya diğer katı şekillerde olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.90.11.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.13.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.19.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.90.31.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.33.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.39.00.00",
+        "Unnamed: 1":" - - - - -  İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.90.51.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.53.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 6' yı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.59.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.90.61.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.63.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 6' yı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.69.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      kakao içerenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Toz, granül veya diğer katı şekillerde olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.90.71.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.73.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.79.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0403.90.91.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.93.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          % 6'yı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0403.90.99.00.00",
+        "Unnamed: 1":" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"04.04",
+        "Unnamed: 1":"Peyniraltı suyu (konsantre edilmiş olsun olmasın veya ilave şeker ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veya diğer tatlandırıcı maddeleri içersin içermesin) ; tarifenin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"başka yerinde belirtilmeyen veya yer almayan tabii süt ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"bileşenlerinden ibaret olan ürünler (ilave şeker veya diğer ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"tatlandırıcı maddeleri içersin içermesin) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10",
+        "Unnamed: 1":" - Peyniraltı suyu ve modifiye peyniraltı suyu (konsantre ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   edilmiş olsun olmasın veya ilave şeker veya diğer tatlandırıcı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   maddeleri içersin içermesin); ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Toz, granül veya diğer katı şekillerde olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.02.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.04.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.06.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - -  Protein oranı (azot oranı x 6,38),ağırlık itibariyle % 15' i geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.12.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.14.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.16.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.26.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.28.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.32.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.34.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.36.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.38.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.48.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.52.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.54.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.56.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.58.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.62.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"           geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.72.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.74.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.76.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.10.78.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.82.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.10.84.00.00",
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.90.21.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.90.23.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        % 27' yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.90.29.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27' yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - -  Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0404.90.81.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.90.83.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        % 27'yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0404.90.89.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"04.05",
+        "Unnamed: 1":"Sütten elde ediIen tereyağı ve diğer katı ve sıvı yağIar; sürülerek",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yenilen süt ürünleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0405.10",
+        "Unnamed: 1":" - Tereyağı :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - İçerdiği katı yağ oranı ağırlık itibariyle % 85'i geçmeyenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Tabii tereyağ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0405.10.11.00.00",
+        "Unnamed: 1":" - - - - Net muhteviyatı 1 kg.'ı geçmeyen hazır ambalajlarda olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.10.19.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.10.30.00.00",
+        "Unnamed: 1":" - - - Rekombine tereyağı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.10.50.00.00",
+        "Unnamed: 1":" - - - Peynir altı suyundan elde edilen tereyağı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.20",
+        "Unnamed: 1":" - Sürülerek yenilen süt ürünleri: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0405.20.10.00.00",
+        "Unnamed: 1":" - - İçerdiği katı yağ oranı ağırlık itibariyle %39 veya daha fazla fakat %60'dan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"      az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.20.30.00.00",
+        "Unnamed: 1":" - - İçerdiği katı yağ oranı ağırlık itibariyle %60 veya daha fazla fakat %75' den",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"      az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.20.90.00.00",
+        "Unnamed: 1":" - - İçerdiği katı yağ oranı ağırlık itibariyle %75' den fazla fakat %80' den  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"      az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0405.90.10.00.00",
+        "Unnamed: 1":" - - İçerdiği katı yağ oranı ağırlık itibariyle %99,3 veya daha fazla ve içerdiği su ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":"     miktarı ağırlık itibariyle %0,5'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0405.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"04.06",
+        "Unnamed: 1":"Peynir ve pıhtılaştırılmış ürünler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.10",
+        "Unnamed: 1":" - Taze peynir (olgunlaştırılmamış veya preslenmemiş) (peyniraltı ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   suyundan yapılmış peynirler dahil)  ve pıhtılaştırılmış ürünler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - İçerdiği katı yağ oranı, ağırlık itibariyle % 40'ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.10.30.00.00",
+        "Unnamed: 1":" - - - Mozerella (sıvı içinde olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.10.50.00.11",
+        "Unnamed: 1":" - - - - Taze peynir",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.10.50.00.12",
+        "Unnamed: 1":" - - - - Çökelek",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.10.50.00.13",
+        "Unnamed: 1":" - - - - Lor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.10.50.00.18",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.10.80.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.20",
+        "Unnamed: 1":" - Rendelenmiş veya toz haline getirilmiş her cins peynir:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.20.00.10.00",
+        "Unnamed: 1":" - - Gravyer",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.20.00.20.00",
+        "Unnamed: 1":" - - Çester, Parmezan, Dutch (Felemenk) ve benzeri peynirler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.20.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.30",
+        "Unnamed: 1":" - Eritme peynirler (rendelenmemiş veya toz haline getirilmemiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.30.10.00.00",
+        "Unnamed: 1":" - - Üretiminde sadece Emmentaler, Gravyer ve Appenzell peynirlerinin ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      kullanıldığı ve   Glarus otlu peynirinin (Schabziger) katkı maddesi olarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      kullanılabildiği; kuru maddedeki katı yağ oranı ağırlık itibariyle",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      % 56' yı geçmeyen, perakende satılacak hale getirilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 36' yı geçmeyenlerden:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.30.31.00.00",
+        "Unnamed: 1":" - - - - Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.30.39.00.00",
+        "Unnamed: 1":" - - - - Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.30.90.00.00",
+        "Unnamed: 1":" - - - İçerdiği katı yağ oranı, ağırlık itibariyle, % 36' yı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.40",
+        "Unnamed: 1":" - Mavi küflü peynirler ve Penicillium roqueforti ile elde edilen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"küf içeren diğer peynirler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.40.10.00.00",
+        "Unnamed: 1":" - - Rokfor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.40.50.00.00",
+        "Unnamed: 1":" - - Gorgonzola",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.40.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.90",
+        "Unnamed: 1":" - Diğer peynirler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.01.00.00",
+        "Unnamed: 1":" - - İşleme tabi tutulacak olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.13.00.00",
+        "Unnamed: 1":" - - -  Emmentaler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - -  Gravyer, Sbrinz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0406.90.15.00.11",
+        "Unnamed: 1":" - - - - Gravyer",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.90.15.00.12",
+        "Unnamed: 1":" - - - - Sbrinz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.90.17.00.00",
+        "Unnamed: 1":" - - - Bergkaese, Appenzell",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.18.00.00",
+        "Unnamed: 1":" - - - Fromage Fribourgeois (fribourg peyniri), Vacherin Mont d'or ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        téte de Moine",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.21.00.00",
+        "Unnamed: 1":" - - - Çedar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.90.23.00.00",
+        "Unnamed: 1":" - - - Edam",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.25.00.00",
+        "Unnamed: 1":" - - - Tilsit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.29.00.00",
+        "Unnamed: 1":" - - - Kaşkaval ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Feta",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Koyun veya manda sütünden olanlar (salamura içeren kaplarda veya koyun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve keçi derisinden tulumlarda)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.32.00.11",
+        "Unnamed: 1":" - - - - - Tulum peyniri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.32.00.12",
+        "Unnamed: 1":" - - - - - Beyaz peynir",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.32.00.91",
+        "Unnamed: 1":" - - - - - Tulum peyniri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.32.00.92",
+        "Unnamed: 1":" - - - - - Beyaz peynir",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.35.00.00",
+        "Unnamed: 1":" - - - Kefalo -Tyri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.37.00.00",
+        "Unnamed: 1":" - - - Finlandiya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.39.00.00",
+        "Unnamed: 1":" - - - Jarlsberg",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.50.00.00",
+        "Unnamed: 1":" - - - - Koyun veya manda sütünden yapılan ve salamura içeren kaplarda",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"         veya koyun veya keçi derisinden yapılan tulumlar içerisinde bulunanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 40' ı geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"               oranı % 47'yi geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.61.00.00",
+        "Unnamed: 1":" - - - - - - - Grana Padano, Parmigiano Reggiano",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.90.63.00.00",
+        "Unnamed: 1":" - - - - - - - Fiore sardo, pecorino",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.69.00.00",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"               oranı % 47'yi geçen fakat % 72'yi geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.73.00.00",
+        "Unnamed: 1":" - - - - - - - Provolone",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.74.00.00",
+        "Unnamed: 1":" - - - - - - - Maasdam",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.75.00.00",
+        "Unnamed: 1":" - - - - - - - Asiago, Caciocavallo, Montasio, Ragusano",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.76.00.00",
+        "Unnamed: 1":" - - - - - - - Danbo, Fontal, Fontina, Fynbo, Havarti, Maribo, Samsö",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.78.00.00",
+        "Unnamed: 1":" - - - - - - - Gouda",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0406.90.79.00.00",
+        "Unnamed: 1":" - - - - - - - Esrom, İtalıco, Kernhem, Saint Nectaire, Saint Paulin, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"                 Taleggio",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.81.00.00",
+        "Unnamed: 1":" - - - - - - - Cantal, Cheshire, Wensleydale, Lancashire, Double ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"                 Gloucester, Blarney, Colby, Monterey",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.82.00.00",
+        "Unnamed: 1":" - - - - - - - Camembert",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.84.00.00",
+        "Unnamed: 1":" - - - - - - - Brie",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.85.00.00",
+        "Unnamed: 1":" - - - - - - - Kefalograviera,Kasseri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - - Diğer peynirler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.86.00.00",
+        "Unnamed: 1":" - - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"                   su oranı % 47'yi geçen fakat % 52'yi geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.89.00.00",
+        "Unnamed: 1":" - - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"                   su oranı % 52'yi geçen  fakat % 62 ' yi geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.92.00.00",
+        "Unnamed: 1":" - - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"                    su oranı % 62'yi geçen fakat % 72'yi geçmeyenler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.93.00.00",
+        "Unnamed: 1":" - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"               su oranı % 72'yi geçenler   ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0406.90.99.00.11",
+        "Unnamed: 1":" - - - - - - Cester, Parmezan, Felemenk ve benzeri peynirler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.99.00.12",
+        "Unnamed: 1":" - - - - - - Dil peyniri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":"0406.90.99.00.19",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":200
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.00",
+        "Unnamed: 1":"Kuş ve kümes hayvanlarının yumurtaları (kabuklu,taze,dayanıklı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hale getirilmiş veya pişirilmiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kuluçkalık yumurtalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.11",
+        "Unnamed: 1":" - - Tavuk yumurtaları (Gallus domesticus türü):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Damızlık olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.11.00.10.11",
+        "Unnamed: 1":" - - - - Yumurtalık ebeveyn yumurtalar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0407.11.00.10.12",
+        "Unnamed: 1":" - - - - Etlik ebeveyn yumurtalar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0407.11.00.10.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Damızlık olmayanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.11.00.90.11",
+        "Unnamed: 1":" - - - - Yumurtalık yumurtalar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":"0407.11.00.90.12",
+        "Unnamed: 1":" - - - - Etlik yumurtalar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":"0407.11.00.90.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":"0407.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Tavuk (Gallus domesticus türü) haricinde kalan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        kümes hayvanlarının yumurtaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Hindi veya kazlara ait olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Damızlık olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.19.11.10.11",
+        "Unnamed: 1":" - - - - - - Hindi yumurtası",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0407.19.11.10.19",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Damızlık olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.19.11.90.11",
+        "Unnamed: 1":" - - - - - - Hindi yumurtası",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0407.19.11.90.19",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.19.19.00.11",
+        "Unnamed: 1":" - - - - - Damızlık olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0407.19.19.00.19",
+        "Unnamed: 1":" - - - - - Damızlık olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Damızlk olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.19.90.10.11",
+        "Unnamed: 1":" - - - - - Devekuşu yumurtaları",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0407.19.90.10.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" Adet",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Damızlk olmayanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.19.90.90.11",
+        "Unnamed: 1":" - - - - - Devekuşu yumurtaları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":"0407.19.90.90.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer taze yumurtalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.21.00.00.00",
+        "Unnamed: 1":" - - Tavuk yumurtaları (Gallus domesticus türü)",
+        "ÖLÇÜ\nBİRİMİ":"1000 Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.29.10.00.00",
+        "Unnamed: 1":" - - - Tavuk (Gallus domesticus türü) haricinde kalan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        kümes hayvanlarının yumurtaları:",
+        "ÖLÇÜ\nBİRİMİ":"1000 Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":"0407.29.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":"0407.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0407.90.10.00.00",
+        "Unnamed: 1":" - - Kümes hayvanlarının yumurtaları",
+        "ÖLÇÜ\nBİRİMİ":"1000 Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":"0407.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":85
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"04.08",
+        "Unnamed: 1":"Kuş ve kümes hayvanlarının kabuksuz yumurtaları ve yumurta ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"sarıları (taze,kurutulmuş,buharla veya kaynar su ile pişirilmiş,ka-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lıplanmış,dondurulmuş veya diğer bir şekilde dayanıklılığı artırıl-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"mış) (ilave şeker veya diğer tatlandırıcı maddeler içersin içermesin):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yumurta sarıları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0408.11",
+        "Unnamed: 1":" - - Kurutulmuş:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0408.11.20.00.00",
+        "Unnamed: 1":" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":"0408.11.80.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":"0408.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0408.19.20.00.00",
+        "Unnamed: 1":" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0408.19.81.00.00",
+        "Unnamed: 1":" - - - - Sıvı halde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":"0408.19.89.00.00",
+        "Unnamed: 1":" - - - - Dondurulmuş",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0408.91",
+        "Unnamed: 1":" - - Kurutulmuş:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0408.91.20.00.00",
+        "Unnamed: 1":" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":"0408.91.80.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":"0408.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0408.99.20.00.00",
+        "Unnamed: 1":" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":"0408.99.80.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":59
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0409.00",
+        "Unnamed: 1":"Tabii bal :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0409.00.00.00.11",
+        "Unnamed: 1":"- Petek bal",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":"0409.00.00.00.12",
+        "Unnamed: 1":"- Süzme bal",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"04.10",
+        "Unnamed: 1":"Böcekler ve tarifenin başka yerinde belirtilmeyen veya yer almayan ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"hayvansal menşeli yenilen diğer ürünler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"0410.10",
+        "Unnamed: 1":" - Böcekler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0410.10.10.00.00",
+        "Unnamed: 1":" - - Taze, soğutulmuş veya dondurulmuş (un ve kaba un hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0410.10.91.00.00",
+        "Unnamed: 1":" - - - Un ve kaba unlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0410.10.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0410.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"0410.90.00.00.11",
+        "Unnamed: 1":"- - Kablumbağa yumurtaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0410.90.00.00.12",
+        "Unnamed: 1":"- - Salyangoz kabuğu unu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0410.90.00.00.13",
+        "Unnamed: 1":"- - Arı sütü",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        "Unnamed: 0":"0410.90.00.00.19",
+        "Unnamed: 1":"- - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"37.01",
+        "Unnamed: 1":"Fotoğrafçılıkta kullanılan hassas hale getirilmiş boş fotoğraf",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"levhaları ve boş düz filmler (kağıt, karton veya mensucat hariç",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olmak üzere herhangi bir maddeden); anında develope olarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"fotoğraf veren boş, düz, hassas hale getirilmiş filmler (seri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"halinde olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3701.10.00.00.00",
+        "Unnamed: 1":" - X  - ışınları için filmler",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"3701.20.00.00.00",
+        "Unnamed: 1":" - Anında develope olarak fotoğraf veren filmler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3701.30",
+        "Unnamed: 1":" - Diğer levha ve filmler (herhangi bir kenarı 255 mm.yi geçenler)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3701.30.00.00.21",
+        "Unnamed: 1":" - - Klişe yapımı için hassas hale getirilmiş magnezyum plakalar",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3701.30.00.00.29",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3701.91.00.00.00",
+        "Unnamed: 1":" - - Renkli fotoğraf (polikrom) için kullanılan filmler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3701.99.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"37.02",
+        "Unnamed: 1":"Fotoğrafçılıkta kullanılan rulo halinde hassas hale getirilmiş boş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"fotoğraf filmleri (kağıt, karton veya mensucat dışındaki herhangi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"bir maddeden); rulo halinde anında develope olarak fotoğraf",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"veren filmler (hassas, boş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.10.00.00.00",
+        "Unnamed: 1":" - X  ışınları için filmler",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer filmler, perfore edilmemiş eni 105 mm.yi geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.31",
+        "Unnamed: 1":" - - Renkli fotoğraf (polikrom) için filmler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.31.91.00.00",
+        "Unnamed: 1":" - - -  Renkli negatif film ;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"         ( - Eni 75 mm veya daha fazla fakat 105 mm.yi geçmeyen,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          - Uzunluğu 100 m. veya daha fazla,anında develope olarak fotoğraf ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"            veren film kutularında kullanılan filmlerin imaline mahsus olan)",
+        "ÖLÇÜ\nBİRİMİ":"m",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.31.97.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.32",
+        "Unnamed: 1":" - - Diğerleri (gümüş halojenür emülsiyonlu) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Eni 35 mm. yi geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.32.10.00.00",
+        "Unnamed: 1":" - - - - Mikrofilmler; grafik sanatları için filmler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.32.20.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.32.85.00.00",
+        "Unnamed: 1":" - - - Eni 35 mm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer filmler, perfore edilmemiş eni 105 mm. yi geçenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.41.00.00.00",
+        "Unnamed: 1":" - - Eni 610 mm. yi ve uzunluğu 200 m. yi geçen renkli fotoğraf",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     (polikrom) filmleri",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.42.00.00.00",
+        "Unnamed: 1":" - - Eni 610 mm. yi ve uzunluğu 200 m. yi geçen filmler (renkli ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     fotoğraf filmleri hariç)",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.43.00.00.00",
+        "Unnamed: 1":" - - Eni 610 mm. yi geçen, uzunluğu 200 m. yi geçmeyen filmler",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.44.00.00.00",
+        "Unnamed: 1":" - - Eni 105 mm. yi geçen, fakat 610 mm. yi geçmeyen filmler",
+        "ÖLÇÜ\nBİRİMİ":"    m2",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğer filmler, renkli fotoğraf (polikrom) için:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.52.00.00.00",
+        "Unnamed: 1":" - - Eni 16 mm. yi geçmeyen filmler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.53.00.00.00",
+        "Unnamed: 1":" - - Eni 16 mm. yi geçen, fakat 35 mm. yi geçmeyen ve uzunluğu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     30 m. yi geçmeyen filmler (slaytlar için)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.54.00.00.00",
+        "Unnamed: 1":" - - Eni 16 mm. yi geçen fakat 35 mm. yi geçmeyen ve uzunluğu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     30 m.yi geçmeyen filmler (slaytlar için olanlar hariç)",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.55.00.00.00",
+        "Unnamed: 1":" - - Eni 16 mm. yi geçen fakat 35 mm. yi geçmeyen ve uzunluğu ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     30 m.yi geçen filmler",
+        "ÖLÇÜ\nBİRİMİ":"    m",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.56.00.00.00",
+        "Unnamed: 1":" - - Eni 35 mm. yi geçen filmler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.96",
+        "Unnamed: 1":" - - Eni 35 mm. yi geçmeyen ve uzunluğu 30 m.yi geçmeyen filmler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.96.10.00.00",
+        "Unnamed: 1":" - - - Mikro filmler; grafik sanatları için filmler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.96.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.97",
+        "Unnamed: 1":" - - Eni 35 mm. yi geçmeyen ve uzunluğu 30 m.yi geçen filmler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.97.10.00.00",
+        "Unnamed: 1":" - - - Mikro filmler; grafik sanatları için filmler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.97.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"m",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.98",
+        "Unnamed: 1":" - - Eni 35 mm. yi geçen filmler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3702.98.00.00.11",
+        "Unnamed: 1":" - - - Uzunluğu 30 m. veya daha az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3702.98.00.00.12",
+        "Unnamed: 1":" - - - Uzunluğu 30 m. den fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"37.03",
+        "Unnamed: 1":"Fotoğrafçılıkta kullanılan hassas hale getirilmiş boş kağıt, karton",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve mensucat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3703.10",
+        "Unnamed: 1":" - Rulo halinde olup eni 610 mm. yi geçenler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3703.10.00.00.11",
+        "Unnamed: 1":" - - Büro makinalarında kullanılan kağıtlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3703.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3703.20.00.00.00",
+        "Unnamed: 1":" - Diğerleri (renkli fotoğraf \"polikrom\" için)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3703.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3704.00",
+        "Unnamed: 1":"Fotoğrafçılıkta kullanılan levha, film, kağıt, karton ve mensucat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(dolu, fakat develope edilmemiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3704.00.10.00.00",
+        "Unnamed: 1":" - Levhalar ve filmler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3704.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3705.00",
+        "Unnamed: 1":"Fotoğrafçılıkta kullanılan levha ve filmler (dolu ve develope ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"edilmiş) (sinemacılıkta kullanılan filmler hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3705.00.10.00.00",
+        "Unnamed: 1":" - Ofset baskı için olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":"3705.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"37.06",
+        "Unnamed: 1":"Sinemacılıkta kullanılan filmler (dolu ve develope edilmiş) (ses-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lendirme iziyle birlikte veya sadece seslendirme izinden meyda-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"na gelmiş olsun olmasın ) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3706.10",
+        "Unnamed: 1":" - Eni 35 mm. veya daha fazla olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3706.10.20.00.00",
+        "Unnamed: 1":" - - Sadece seslendirme izinden; negatiflerden; ara pozitiflerden ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     meydana gelmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"    m",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3706.10.99.00.00",
+        "Unnamed: 1":" - - Diğer pozitifter",
+        "ÖLÇÜ\nBİRİMİ":"    m",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3706.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3706.90.52.00.00",
+        "Unnamed: 1":" - - Sadece seslendirme izinden; negatiflerden; ara pozitiflerden; aktüalite",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      filmlerinden meydana gelmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"    m",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3706.90.91.00.00",
+        "Unnamed: 1":" - - - Eni 10 mm. den az olanlar",
+        "ÖLÇÜ\nBİRİMİ":"    m",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3706.90.99.00.00",
+        "Unnamed: 1":" - - - Eni 10 mm. veya daha fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"    m",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"37.07",
+        "Unnamed: 1":"Fotoğrafçılıkta kullanılan kimyasal müstahzarlar (vernikler, tutkal-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"lar, yapıştırıcılar ve benzeri müstahzarlar hariç); fotoğrafçılıkta",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"kullanılmak üzere hazır hale getirilmiş ve karıştırılmamış ürünler ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"(dozlandırılmış veya kullanıma hazır bir şekilde perakende satıla-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"cak hale getirilmiş):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3707.10.00.00.00",
+        "Unnamed: 1":" - Yüzeyleri hassas hale getirmeye mahsus emülsiyonlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3707.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"3707.90.20.00.00",
+        "Unnamed: 1":" - - Develope ediciler ve sabitleştiriciler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"3707.90.90.00.00",
+        "Unnamed: 1":" - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    }
+]

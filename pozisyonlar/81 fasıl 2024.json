@@ -1,0 +1,1052 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"81.01",
+        "Unnamed: 1":"Tungsten (volfram) ve tungstenden eşya (döküntü ve hurdalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8101.10.00.00.00",
+        "Unnamed: 1":" - Tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8101.94.00.00.00",
+        "Unnamed: 1":" - - İşlenmemiş tungsten (sadece sinterleme yoluyla elde edilen",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     çubuklar dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8101.96.00.00.00",
+        "Unnamed: 1":" - - Teller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"8101.97.00.00.00",
+        "Unnamed: 1":" - -  Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"8101.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8101.99.10.00.00",
+        "Unnamed: 1":" - - - Çubuklar ve miller  (sadece sinterlenme yoluyla elde edilenler hariç), profiller,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"       saclar, şeritler ve yapraklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8101.99.90.10.00",
+        "Unnamed: 1":" - - - - Tungstenden mamul eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8101.99.90.90.11",
+        "Unnamed: 1":" - - - - - Tungstenden mamul flamanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"8101.99.90.90.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.02",
+        "Unnamed: 1":"Molibden ve molibdenden eşya (döküntü ve hurdalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8102.10.00.00.00",
+        "Unnamed: 1":" - Tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8102.94.00.00.00",
+        "Unnamed: 1":" - - İşlenmemiş molibden (sadece sinterleme yoluyla elde edilen çu-",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     buklar dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8102.95.00.00.00",
+        "Unnamed: 1":" - - Çubuklar (sadece sinterleme yoluyla elde edilenler hariç), profil-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ler, saclar, şeritler ve yapraklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8102.96.00.00.00",
+        "Unnamed: 1":" - - Teller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8102.97.00.00.00",
+        "Unnamed: 1":" - - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"8102.99.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.03",
+        "Unnamed: 1":"Tantal ve tantaldan eşya (döküntü ve hurdalar dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8103.20.00.00.00",
+        "Unnamed: 1":" - İşlenmemiş tantal (sadece sinterleme yoluyla elde edilen çubuk-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   lar dahil); tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"8103.30.00.00.00",
+        "Unnamed: 1":" - Döküntü ve hurdalar  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8103.91.00.00.00",
+        "Unnamed: 1":" - - Potalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"8103.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8103.99.10.00.00",
+        "Unnamed: 1":" - - - Çubuklar (sadece sinterleme yoluyla elde edilen çubuklar hariç),",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      profiller, teller, saclar, şeritler ve yapraklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":"8103.99.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.04",
+        "Unnamed: 1":"Magnezyum ve magnezyumdan eşya (döküntü ve hurdalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İşlenmemiş magnezyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8104.11.00.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle en az % 99,8 magnezyum içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8104.19.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8104.20.00.00.00",
+        "Unnamed: 1":" - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8104.30.00.00.00",
+        "Unnamed: 1":" - Kalibrelenmiş torna döküntüleri ve granüller; tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8104.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8104.90.00.00.11",
+        "Unnamed: 1":" - - Çubuklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8104.90.00.00.12",
+        "Unnamed: 1":" - - Profiller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8104.90.00.00.13",
+        "Unnamed: 1":" - - Teller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8104.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.05",
+        "Unnamed: 1":"Kobalt matları ve kobalt metalurjisinin diğer ara ürünleri; kobalt",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"ve kobalttan eşya (döküntü ve hurdalar dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8105.20.00.00.00",
+        "Unnamed: 1":" - Kobalt matları ve kobalt metalurjisinin diğer ara ürünleri; işlen-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   memiş kobalt; tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8105.30.00.00.00",
+        "Unnamed: 1":" - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8105.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.06",
+        "Unnamed: 1":"Bizmut ve bizmuttan eşya (döküntü ve hurdalar dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8106.10",
+        "Unnamed: 1":" - Ağırlıkça %99,99' dan fazla bizmut içerenler: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - İşlenmemiş bizmut; döküntü ve hurdalar; tozlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8106.10.10.00.11",
+        "Unnamed: 1":" - - - İşlenmemiş bizmut",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.10.10.00.12",
+        "Unnamed: 1":" - - - Bizmut döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.10.10.00.13",
+        "Unnamed: 1":" - - - Bizmut hurdaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.10.10.00.14",
+        "Unnamed: 1":" - - - Bizmut tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - İşlenmemiş bizmut; döküntü ve hurdalar; tozlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8106.90.10.00.11",
+        "Unnamed: 1":" - - - İşlenmemiş bizmut",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.90.10.00.12",
+        "Unnamed: 1":" - - - Bizmut döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.90.10.00.13",
+        "Unnamed: 1":" - - - Bizmut hurdaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.90.10.00.14",
+        "Unnamed: 1":" - - - Bizmut tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8106.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[81.07]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.08",
+        "Unnamed: 1":"Titanyum ve titanyumdan eşya (döküntü ve hurdalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8108.20.00.00.00",
+        "Unnamed: 1":" - İşlenmemiş titanyum; tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8108.30.00.00.00",
+        "Unnamed: 1":" - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8108.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8108.90.30.00.00",
+        "Unnamed: 1":" - - Çubuklar, profiller ve teller",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8108.90.50.00.00",
+        "Unnamed: 1":" - - Saclar, şeritler ve yapraklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8108.90.60.00.00",
+        "Unnamed: 1":" - - İnce ve kalın borular",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8108.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.09",
+        "Unnamed: 1":"Zirkonyum ve zirkonyumdan eşya (döküntü ve hurdalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İşlenmemiş zirkonyum; tozlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8109.21.00.00.00",
+        "Unnamed: 1":" - - Ağırlıkça 1 parça hafniyuma 500 parça zirkonyumdan az içeriğe sahip olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8109.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Döküntü ve hurdalar :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8109.31.00.00.00",
+        "Unnamed: 1":" - - Ağırlıkça 1 parça hafniyuma 500 parça zirkonyumdan az içeriğe sahip olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8109.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8109.91.00.00.00",
+        "Unnamed: 1":" - - Ağırlıkça 1 parça hafniyuma 500 parça zirkonyumdan az içeriğe sahip olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8109.99.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.10",
+        "Unnamed: 1":"Antimon ve antimondan eşya (döküntü ve hurdalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8110.10.00.00.00",
+        "Unnamed: 1":" - İşlenmemiş antimon; tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8110.20.00.00.00",
+        "Unnamed: 1":" - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8110.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8111.00",
+        "Unnamed: 1":"Manganez ve manganezden eşya (döküntü ve hurdalar dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İşlenmemiş manganez; döküntü ve hurdalar; tozlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8111.00.11.00.00",
+        "Unnamed: 1":" - - İşlenmemiş manganez; tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8111.00.19.00.00",
+        "Unnamed: 1":" - - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8111.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"81.12",
+        "Unnamed: 1":"Berilyum, krom, hafniyum (seltiyum), renyum, talyum, kadmiyum,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" germanyum, vanadyum, galliyum, indiyum ve niobyum (kolombiyum), ve bu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"metallerden eşya (döküntü ve hurdalar dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Berilyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.12",
+        "Unnamed: 1":" - - İşlenmemiş berilyum; tozlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.12.00.00.11",
+        "Unnamed: 1":" - - - İşlenmemiş berilyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8112.12.00.00.12",
+        "Unnamed: 1":" - - - Berilyum tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8112.13",
+        "Unnamed: 1":" - - Döküntü ve hurdalar :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.13.00.00.11",
+        "Unnamed: 1":" - - - Berilyum döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8112.13.00.00.12",
+        "Unnamed: 1":" - - - Berilyum hurdaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8112.19",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.19.00.00.11",
+        "Unnamed: 1":" - - - İşlenmiş berilyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8112.19.00.00.12",
+        "Unnamed: 1":" - - - Berilyumdan eşya",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":"8112.19.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Krom:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.21",
+        "Unnamed: 1":" - - İşlenmemiş krom; tozlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.21.10.00.00",
+        "Unnamed: 1":" - - - Ağırlık itibariyle % 10'dan fazla nikel içeren krom alaşımları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.21.90.00.11",
+        "Unnamed: 1":" - - - - İşlenmemiş krom",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.21.90.00.12",
+        "Unnamed: 1":" - - - - Krom tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.22",
+        "Unnamed: 1":" - - Döküntü ve hurdalar :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.22.00.00.11",
+        "Unnamed: 1":" - - - Krom döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.22.00.00.12",
+        "Unnamed: 1":" - - - Krom hurdaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Hafniyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.31",
+        "Unnamed: 1":" - - İşlenmemiş; döküntü ve hurdalar; tozlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.31.00.00.11",
+        "Unnamed: 1":" - - - İşlenmemiş; tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.31.00.00.12",
+        "Unnamed: 1":" - - - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.39.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Renyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.41",
+        "Unnamed: 1":" - - İşlenmemiş; döküntü ve hurdalar; tozlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.41.10.00.00",
+        "Unnamed: 1":" - - - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.41.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.49.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Talyum",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.51",
+        "Unnamed: 1":" - - İşlenmemiş ; tozlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.51.00.00.11",
+        "Unnamed: 1":" - - - İşlenmemiş talyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.51.00.00.12",
+        "Unnamed: 1":" - - - Talyum tozları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.52",
+        "Unnamed: 1":" - - Döküntü ve hurdalar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.52.00.00.11",
+        "Unnamed: 1":" - - - Talyum döküntüleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.52.00.00.12",
+        "Unnamed: 1":" - - - Talyum hurdaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.59.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Kadmiyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.61.00.00.00",
+        "Unnamed: 1":" - - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.69",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.69.10.00.00",
+        "Unnamed: 1":" - - - İşlenmemiş kadmiyum; tozlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.69.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.92",
+        "Unnamed: 1":" - - İşlenmemiş; döküntü ve hurdalar; tozlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.92.21.00.00",
+        "Unnamed: 1":" - - - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.92.40.00.00",
+        "Unnamed: 1":" - - - - Niobyum (kolombiyum)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.92.81.00.00",
+        "Unnamed: 1":" - - - - İndiyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.92.89.00.00",
+        "Unnamed: 1":" - - - - Galyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.92.91.00.00",
+        "Unnamed: 1":" - - - - Vanadyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.92.95.00.00",
+        "Unnamed: 1":" - - - - Germanyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8112.99.40.00.00",
+        "Unnamed: 1":" - - - Germanyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.99.50.00.00",
+        "Unnamed: 1":" - - - Niobyum (kolombiyum)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8112.99.70.00.00",
+        "Unnamed: 1":" - - - Galyum, indiyum;vanadyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8113.00",
+        "Unnamed: 1":"Sermet ve sermetten eşya (döküntü ve hurdalar dahil):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8113.00.20.00.00",
+        "Unnamed: 1":" - İşlenmemiş ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8113.00.40.00.00",
+        "Unnamed: 1":" - Döküntü ve hurdalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    },
+    {
+        "Unnamed: 0":"8113.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10.0
+    }
+]

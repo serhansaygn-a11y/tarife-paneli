@@ -1,0 +1,728 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        "Unnamed: 0":"17.01",
+        "Unnamed: 1":"Kamış veya pancar şekeri ve kimyaca saf sakaroz (katı halde) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - İlave aroma veya renk verici madde içermeyen ham şeker:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1701.12",
+        "Unnamed: 1":" - - Pancar şekeri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1701.12.10.00.00",
+        "Unnamed: 1":" - - - Rafine edilecek olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.12.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.13",
+        "Unnamed: 1":" - - Bu faslın 2 nolu alt pozisyon notunda belirtilen kamış şekeri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1701.13.10.00.00",
+        "Unnamed: 1":" - - - Rafine edilecek olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.13.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.14",
+        "Unnamed: 1":" - - Diğer kamış şekeri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1701.14.10.00.00",
+        "Unnamed: 1":" - - - Rafine edilecek olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.14.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1701.91.00.00.00",
+        "Unnamed: 1":" - - İlave aroma veya renk verici maddeler içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - -  Beyaz şeker",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1701.99.10.00.11",
+        "Unnamed: 1":" - - - - Kristal şeker",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.99.10.00.12",
+        "Unnamed: 1":" - - - - Küp ve kesme şeker",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.99.10.00.13",
+        "Unnamed: 1":" - - - - Kimyaca saf sakkaroz (katı halde) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.99.10.00.15",
+        "Unnamed: 1":" - - - - Pudra şekeri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.99.10.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1701.99.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"17.02",
+        "Unnamed: 1":"Diğer şekerler (kimyaca saf laktoz, maltoz, glikoz ve fruktoz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"dahil) (katı halde); ilave aroma veya renk verici maddeler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"katılmamış şeker şurupları, suni bal (tabii bal iIe karıştırılmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"olsun olmasın); karamel:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Laktoz ve laktoz şurubu:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.11",
+        "Unnamed: 1":" - - Kuru madde üzerinden hesaplandığında ağırlık itibariyle %99",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     veya daha fazla laktoz (anhidrit laktoz olarak ifade edilen) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     içerenler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.11.00.10.00",
+        "Unnamed: 1":" - - - Laktoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":"1702.11.00.20.00",
+        "Unnamed: 1":" - - - Laktoz şurubu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.19",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.19.00.10.00",
+        "Unnamed: 1":" - - - Laktoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":"1702.19.00.20.00",
+        "Unnamed: 1":" - - - Laktoz şurubu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.20",
+        "Unnamed: 1":" - Akçaağaç şekeri ve şurubu :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.20.10.00.00",
+        "Unnamed: 1":" - - İlave aroma veya renk verici maddeler içeren katı haldeki akça -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     ağaç şekeri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.20.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.30",
+        "Unnamed: 1":" - Glikoz ve glikoz şurubu (fruktoz içermeyenler veya kuru halde",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   ağırlık itibariyle % 20 den az fruktoz içerenler) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.30.10.00.00",
+        "Unnamed: 1":" - - İzoglikoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.30.50.00.00",
+        "Unnamed: 1":" - - - Beyaz kristal toz halinde (aglomere edilmiş  olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.30.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.40",
+        "Unnamed: 1":" - Glikoz ve glikoz şurubu (kuru halde ağırlık itibariyle en az",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   % 20 veya daha fazla, fakat % 50'den az fruktoz içerenler ) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"  (invert şeker hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.40.10.00.00",
+        "Unnamed: 1":" - - İzoglikoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.40.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.50.00.00.00",
+        "Unnamed: 1":" - Kimyaca saf fruktoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":"1702.60",
+        "Unnamed: 1":" - Diğer fruktoz ve fruktoz şurubu (kuru halde ağırlık itibariyle",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   % 50'den fazla fruktoz içerenler) (invert şeker hariç) ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.60.10.00.00",
+        "Unnamed: 1":" - - İzoglikoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.60.80.00.00",
+        "Unnamed: 1":" - - İnülin şurubu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.60.95.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.90",
+        "Unnamed: 1":" - Diğerleri (invert şeker ve kuru halde ağırlık itibariyle %50",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   fruktoz içeren diğer şeker ve şeker şurubu karışımları dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.90.10.00.00",
+        "Unnamed: 1":" - - Kimyaca saf maltoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":"1702.90.30.00.00",
+        "Unnamed: 1":" - - İzoglikoz",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Malto dekstrin ve malto dekstrin şurubu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        "Unnamed: 0":"1702.90.50.00.11",
+        "Unnamed: 1":" - - - Diyet mamaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.90.50.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Karamel:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.90.71.00.00",
+        "Unnamed: 1":" - - - Kuru halde ağırlık itibariyle % 50 veya daha fazla sakkaroz içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.90.75.00.00",
+        "Unnamed: 1":" - - - - Toz halinde (aglomere edilmiş olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.90.79.00.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.90.80.00.00",
+        "Unnamed: 1":" - - İnülin şurubu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Suni bal",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1702.90.95.00.11",
+        "Unnamed: 1":" - - - - Diabetik olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.90.95.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1702.90.95.00.90",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"17.03",
+        "Unnamed: 1":"Şeker ekstraksiyonundan veya rafinajından elde edilen melaslar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1703.10.00.00.00",
+        "Unnamed: 1":" - Kamış melasları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":"1703.90.00.00.00 ",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"17.04",
+        "Unnamed: 1":"Kakao içermeyen şeker mamulleri (beyaz çikolata dahil) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.10",
+        "Unnamed: 1":" - Ciklet (şekerle kaplanmış olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağırlık itibariyle % 60'tan az sakaroz içerenler (sakaroz olarak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      ifade edilen invert şeker dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.10.10.00.11",
+        "Unnamed: 1":" - - - Şerit şeklinde olan cikletler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.10.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Ağırlık itibariyle % 60 veya daha fazla sakaroz içerenler (sakaroz",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"     olarak ifade edilen invert şeker dahil)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.10.90.00.11",
+        "Unnamed: 1":" - - - Şerit şeklinde olan cikletler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.10.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.90.10.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle %10' dan fazla sakaroz içeren fakat diğer katı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      maddeleri içermeyen meyan kökü hülasaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.30.00.00",
+        "Unnamed: 1":" - - Beyaz çikolata",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.90.51.00.00",
+        "Unnamed: 1":" - - - Net muhtevası 1 kg. veya daha fazla ambalajlarda ezmeler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        (badem ezmesi dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.55.00.00",
+        "Unnamed: 1":" - - - Boğaz pastilleri ve öksürük için şekerler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Drajeler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.90.61.00.11",
+        "Unnamed: 1":" - - - - Sadece fındık ihtiva edenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.61.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.90.65.00.00",
+        "Unnamed: 1":" - - - - Sakızlı ve jöleli şekercilik mamulleri (şekercilik mamulü haline",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"          getirilmiş meyva ezmeleri dahil)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.71.00.00",
+        "Unnamed: 1":" - - - - Kaynatılmış tatlılar (doldurulmuş olsun olmasın)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.75.00.00",
+        "Unnamed: 1":" - - - - Karameller ve benzeri tatlılar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.90.81.00.00",
+        "Unnamed: 1":" - - - - - Basınçla elde edilen tabletler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Helva",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.90.99.10.11",
+        "Unnamed: 1":" - - - - - - - Tahin helvası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.99.10.19",
+        "Unnamed: 1":" - - - - - - - Diğer helvalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.99.20.00",
+        "Unnamed: 1":" - - - - - - Sade lokum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.99.30.00",
+        "Unnamed: 1":" - - - - - - Kaymaklı lokum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1704.90.99.90.11",
+        "Unnamed: 1":" - - - - - - - Fondan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.99.90.12",
+        "Unnamed: 1":" - - - - - - - Diğer lokumlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    },
+    {
+        "Unnamed: 0":"1704.90.99.90.19",
+        "Unnamed: 1":" - - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":150
+    }
+]

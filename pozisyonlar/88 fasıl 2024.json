@@ -1,0 +1,596 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"1",
+        "Unnamed: 1":"2",
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4.0
+    },
+    {
+        "Unnamed: 0":"8801.00",
+        "Unnamed: 1":"Balonlar ve hava gemileri; planörler, delta kanatlı planörler ve ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"motorsuz diğer hava taşıtları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8801.00.10.00.00",
+        "Unnamed: 1":" - Balonlar ve hava gemileri; planörler ve delta kanatlı planörler ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8801.00.90.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"88.02",
+        "Unnamed: 1":"Diğer hava taşıtları (helikopterler, uçaklar gibi) (88.06 pozisyonundaki",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" insansız hava taşıtları hariç); uzay araçları (uydular dahil), uzay ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"araçlarını fırlatıcı araçlar ve yörünge-altı araçları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Helikopterler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8802.11.00.00.00",
+        "Unnamed: 1":" - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.12.00.00.00",
+        "Unnamed: 1":" - - Boş haldeki ağırlıkları 2000 kg.ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.20",
+        "Unnamed: 1":" - Uçaklar ve diğer hava taşıtları (boş haldeki ağırlıkları 2000 kg.ı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8802.20.00.10.00",
+        "Unnamed: 1":" - - Zirai mücadelede ilaçlama aracı olarak kullanılmak üzere ithal olunan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        özel yapıdaki uçaklar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"8802.20.00.20.00",
+        "Unnamed: 1":" - - Yolcu taşımaya mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.20.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.30",
+        "Unnamed: 1":" - Uçaklar ve diğer hava taşıtları (boş haldeki ağırlıkları 2000 kg.ı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   geçen fakat 15000 kg.ı geçmeyenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8802.30.00.10.00",
+        "Unnamed: 1":" - - Zirai mücadelede ilaçlama aracı olarak kullanılmak üzere ithal olunan",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"        özel yapıdaki uçaklar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":0.0
+    },
+    {
+        "Unnamed: 0":"8802.30.00.20.00",
+        "Unnamed: 1":" - -Yolcu taşımaya mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.30.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.40",
+        "Unnamed: 1":" - Uçaklar ve diğer hava taşıtları (boş haldeki ağırlıkları 15000 kg.ı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   geçenler):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8802.40.00.10.00",
+        "Unnamed: 1":" - - Yolcu taşımaya mahsus olanlar",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.40.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.60",
+        "Unnamed: 1":" - Uzay araçları (uydular dahil) ve uzay araçlarını fırlatıcı araçlar",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   ve yörünge-altı araçları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Uzay araçları (uydular dahil):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8802.60.11.00.00",
+        "Unnamed: 1":" - - - Telekomünikasyon uyduları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.60.19.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8802.60.90.00.00",
+        "Unnamed: 1":" - - Uzay araçlarını fırlatıcı araçlar ve yörünge-altı araçları",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"[88.03]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8804.00.00.00.00",
+        "Unnamed: 1":"Paraşütler (sevkedilebilir paraşütler ve paragliderler dahil) ve roto-",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"şütler; bunların aksam, parça ve aksesuarı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"88.05",
+        "Unnamed: 1":"Hava taşıtlarını fırlatma cihaz ve tertibatı ve hava taşıtlarının iniş ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"cihaz ve tertibatı ve benzeri cihaz ve tertibat; yerde uçuş eğitimi ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"yapmaya mahsus cihazlar; bunların aksam ve parçaları:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8805.10",
+        "Unnamed: 1":" - Hava taşıtlarının fırlatma cihaz ve tertibatı ve bunların aksam ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   parçaları; hava taşıtlarının iniş cihaz ve tertibatı ve bunların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"   aksam ve parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":" ",
+        "Unnamed: 1":" - - Hava taşıtlarının fırlatma cihaz ve tertibatı ve bunların aksam ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      parçaları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8805.10.10.00.11",
+        "Unnamed: 1":" - - - Hava taşıtlarını fırlatma cihaz ve tertibatı",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8805.10.10.00.15",
+        "Unnamed: 1":" - - - Aksam ve parçaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8805.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Yerde uçus eğitimi yapmaya mahsus cihazlar ve bunların aksam",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"    ve parçaları:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8805.21.00.00.00",
+        "Unnamed: 1":" - - Hava muharebe simulatörü ve bunların parçaları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8805.29.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"88.06",
+        "Unnamed: 1":"İnsansız hava taşıtları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.10",
+        "Unnamed: 1":" - Yolcu taşımak için dizayn edilmiş olanlar: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.10.10.00.00",
+        "Unnamed: 1":" - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.10.90.00.00",
+        "Unnamed: 1":" - - Boş haldeki ağırlıkları 2000 kg.ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri, sadece uzaktan kumanda ile uçuş yapanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.21",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 250 g geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.21.10.00.00",
+        "Unnamed: 1":" - - - Hareketli ve sabit görüntülerin yakalanması ve kaydedilmesi için 8525.89 ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      alt pozisyonunda yer alan cihazlarla kalıcı olarak entegre edilerek donatılmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      çoklu rotorlar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.21.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.22",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 250 g geçen fakat 7 kg geçmeyenler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.22.10.00.00",
+        "Unnamed: 1":" - - - Hareketli ve sabit görüntülerin yakalanması ve kaydedilmesi için 8525.89 ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      alt pozisyonunda yer alan cihazlarla kalıcı olarak entegre edilerek donatılmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":"      çoklu rotorlar ",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.22.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.23.00.00.00",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 7 kg geçen fakat 25 kg geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.24.00.00.00",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 25 kg geçen fakat 150 kg geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.29.10.00.00",
+        "Unnamed: 1":" - - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.29.20.00.00",
+        "Unnamed: 1":" - - - Boş haldeki ağırlıkları 2000 kg.ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.91.00.00.00",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 250 g geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.92.00.00.00",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 250 g geçen fakat 7 kg geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.93.00.00.00",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 7 kg geçen fakat 25 kg geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.94.00.00.00",
+        "Unnamed: 1":" - - Maksimum kalkış ağırlığı 25 kg geçen fakat 150 kg geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8806.99.10.00.00",
+        "Unnamed: 1":" - - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8806.99.20.00.00",
+        "Unnamed: 1":" - - - Boş haldeki ağırlıkları 2000 kg.ı geçenler",
+        "ÖLÇÜ\nBİRİMİ":"Adet",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"88.07",
+        "Unnamed: 1":"88.01, 88.02 veya 88.06 Pozisyonlarındaki hava taşıtlarının aksam ve parçaları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8807.10.00.00.00",
+        "Unnamed: 1":" - Pervaneler ve rotorlar ve bunların aksam ve parçaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8807.20.00.00.00",
+        "Unnamed: 1":" - İniş takımları ve bunların aksam ve parçaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8807.30.00.00.00",
+        "Unnamed: 1":" - Uçak, helikopter veya insansız hava taşıtlarının díğer aksam ve parçaları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8807.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8807.90.10.00.00",
+        "Unnamed: 1":" - - Uçurtmalı balonlara ait olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":" - - Uzay araçlarına (uydular dahil) ait olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        "Unnamed: 0":"8807.90.21.00.00",
+        "Unnamed: 1":" - - - Telekomünikasyon uydularına ait olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8807.90.29.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8807.90.30.00.00",
+        "Unnamed: 1":" - - Uzay araçlarını fırlatıcı araçlar ve yörünge-altı araçlarına ait olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    },
+    {
+        "Unnamed: 0":"8807.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5.0
+    }
+]

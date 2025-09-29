@@ -1,0 +1,5984 @@
+[
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"POZİSYON NO",
+        "Unnamed: 1":"EŞYANIN TANIMI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":1,
+        "Unnamed: 1":2,
+        "ÖLÇÜ\nBİRİMİ":3,
+        "474\nVERGİ\nHADDİ":4
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"                               I.  KİMYASAL ELEMENTLER",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.01",
+        "Unnamed: 1":"Flor, klor, brom ve iyot:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2801.10.00.00.00",
+        "Unnamed: 1":" - Klor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2801.20",
+        "Unnamed: 1":" - İyot :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2801.20.00.10.00",
+        "Unnamed: 1":" - - Resüblime iyot",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2801.20.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2801.30",
+        "Unnamed: 1":" - Flor; brom:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2801.30.10.00.00",
+        "Unnamed: 1":" - - Flor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2801.30.90.00.00",
+        "Unnamed: 1":" - - Brom",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2802.00.00.00.00",
+        "Unnamed: 1":"Süblime veya çöktürülmüş kükürt; kolloidal kükürt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2803.00",
+        "Unnamed: 1":"Karbon [karbon karaları (carbon blacks) ve tarifenin başka",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"yerinde belirtilmeyen veya yer almayan diğer şekillerdeki karbon]:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2803.00.00.10.00",
+        "Unnamed: 1":" - Petrol gazı karası (metan karası)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2803.00.00.20.00",
+        "Unnamed: 1":" - Bitkisel karalar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2803.00.00.90.11",
+        "Unnamed: 1":" - - İskarası",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2803.00.00.90.12",
+        "Unnamed: 1":" - - Antrasen",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2803.00.00.90.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.04",
+        "Unnamed: 1":"Hidrojen, asal gazlar ve diğer ametaller:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2804.10.00.00.00",
+        "Unnamed: 1":" - Hidrojen",
+        "ÖLÇÜ\nBİRİMİ":"   m3 (1)",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Asal gazlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2804.21.00.00.00",
+        "Unnamed: 1":" - - Argon",
+        "ÖLÇÜ\nBİRİMİ":"   m3 (1)",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2804.29.10.00.00",
+        "Unnamed: 1":" - - - Helyum",
+        "ÖLÇÜ\nBİRİMİ":"   m3 (1)",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2804.29.90.00.12",
+        "Unnamed: 1":" - - - - Neon",
+        "ÖLÇÜ\nBİRİMİ":"   m3 (1)",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.29.90.00.19",
+        "Unnamed: 1":" - - - - Diğer asal gazlar",
+        "ÖLÇÜ\nBİRİMİ":"   m3   (1) ",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.30.00.00.00",
+        "Unnamed: 1":" - Azot",
+        "ÖLÇÜ\nBİRİMİ":"   m3 (1)",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.40.00.00.00",
+        "Unnamed: 1":" - Oksijen",
+        "ÖLÇÜ\nBİRİMİ":"   m3 (1) ",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.50",
+        "Unnamed: 1":" - Bor; tellür:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2804.50.10.00.00",
+        "Unnamed: 1":" - - Bor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.50.90.00.00",
+        "Unnamed: 1":" - - Tellür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Silisyum :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2804.61.00.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle en az % 99,99 silisyum içerenler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.69.00.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.70",
+        "Unnamed: 1":" - Fosfor:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2804.70.10.00.00",
+        "Unnamed: 1":" - - Kırmızı fosfor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.70.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.80.00.00.00",
+        "Unnamed: 1":" - Arsenik",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2804.90.00.00.00",
+        "Unnamed: 1":" - Selenyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.05",
+        "Unnamed: 1":"Alkali metaller veya toprak alkali metaller; nadir toprak",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"metaller,skandiyum ve itriyum (kendi aralarında karıştırılmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"ve alaşım haline getirilmiş olsun olmasın); civa:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Alkali metaller veya toprak alkali metaller:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2805.11.00.00.00",
+        "Unnamed: 1":" - - Sodyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.12.00.00.00",
+        "Unnamed: 1":" - - Kalsiyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2805.19.10.00.00",
+        "Unnamed: 1":" - - - Stronsiyum ve baryum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2805.19.90.00.11",
+        "Unnamed: 1":" - - - - Potasyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.19.90.00.12",
+        "Unnamed: 1":" - - - - Lityum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.19.90.00.13",
+        "Unnamed: 1":" - - - - Sezyum ve rubidyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.19.90.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.30",
+        "Unnamed: 1":" - Nadir toprak metaller,skandiyum ve itriyum (kendi",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   aralarında karıştırılmış veya alaşım haline getirilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2805.30.10.00.00",
+        "Unnamed: 1":" - - Kendi aralarında karıştırılmış veya alaşım haline getirilmiş olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Ağırlıkça % 95 veya daha fazla saflıkta olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2805.30.21.00.00",
+        "Unnamed: 1":" - - - - Seryum ve Lantan",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.30.29.00.00",
+        "Unnamed: 1":" - - - - Praseodim, Neodimyum ve Samaryum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.30.31.00.00",
+        "Unnamed: 1":" - - - - Gadolinyum, terbiyum ve disprosyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.30.39.00.00",
+        "Unnamed: 1":" - - - - Evropiyum,  holmiyum, erbiyum, tulyum, iterbiyum, lutetyum ve itriyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.30.40.00.00",
+        "Unnamed: 1":" - - - - Skandiyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.30.80.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2805.40",
+        "Unnamed: 1":" - Civa :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2805.40.10.00.00",
+        "Unnamed: 1":" - - Net muhteviyatı 34,5 kg. (standart ağırlık) lık şişelerde olup şişe başına ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      FOB kıymeti 224 Euro'yu geçmeyenler  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2805.40.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"(1) 1013 mbar basınç altında ve 15C'de",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"       II. İNORGANİK ASİTLER VE AMETALLERİN İNORGANİK",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"                          OKSİJENLİ BİLEŞİKLERİ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.06",
+        "Unnamed: 1":"Hidrojen klorür (hidroklorik asit); klorsülfirik asit:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2806.10",
+        "Unnamed: 1":" - Hidrojen klorür (hidroklorik asit)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2806.10.00.00.11",
+        "Unnamed: 1":" - - Saf hidroklorik asit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2806.10.00.00.12",
+        "Unnamed: 1":" - - Teknik hidroklorik asit ( tuz ruhu )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2806.20.00.00.00",
+        "Unnamed: 1":" - Klorsülfirik asit (klorsülfonik asit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2807.00",
+        "Unnamed: 1":"Sülfirik asit; oleum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Sülfirik asit:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2807.00.00.00.11",
+        "Unnamed: 1":" - - Saf sülfirik asit (kodeks evsafında veya daha saf )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2807.00.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2807.00.00.00.29",
+        "Unnamed: 1":" - Oleum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2808.00",
+        "Unnamed: 1":"Nitrik asit; sülfonitrik asitler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2808.00.00.00.11",
+        "Unnamed: 1":"- Saf nitrik asit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2808.00.00.00.12",
+        "Unnamed: 1":"- Teknik nitrik asit (kezzap)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2808.00.00.00.13",
+        "Unnamed: 1":"- Sülfo nitrik asitler (nitrolama asidi) (her oranda nitrik asit, sülfürük asit ka-",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   rışımları)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.09",
+        "Unnamed: 1":"Difosfor pentaoksit; fosforik asit ve polifosforik asitler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"(kimyaca belirli bir yapıda olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2809.10.00.00.00",
+        "Unnamed: 1":" - Fosfor pentaoksit (difosfor pentoksit)",
+        "ÖLÇÜ\nBİRİMİ":"KgP2O5",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2809.20",
+        "Unnamed: 1":" - Fosforik asit ve polifosforik asitler",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2809.20.00.00.11",
+        "Unnamed: 1":" - - Hipofosforik asit (H4 P2O6)",
+        "ÖLÇÜ\nBİRİMİ":"KgP2O5",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2809.20.00.00.12",
+        "Unnamed: 1":" - - Meta fosforik asitler",
+        "ÖLÇÜ\nBİRİMİ":"KgP2O5",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2809.20.00.00.14",
+        "Unnamed: 1":" - - Piro fosforik asitler",
+        "ÖLÇÜ\nBİRİMİ":"KgP2O5",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2809.20.00.00.15",
+        "Unnamed: 1":" - - Polifosforik asitler",
+        "ÖLÇÜ\nBİRİMİ":"KgP2O5",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Orto fosforik asitler (fosforik asit ):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2809.20.00.00.16",
+        "Unnamed: 1":" - - - Gıda sanayiinde kullanılanlar",
+        "ÖLÇÜ\nBİRİMİ":"KgP2O5",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2809.20.00.00.17",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"KgP2O5",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2810.00",
+        "Unnamed: 1":"Bor oksitleri; borik asitler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2810.00.10.00.00",
+        "Unnamed: 1":" - Dibor trioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2810.00.90.10.00",
+        "Unnamed: 1":" - - Metaborik asit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2810.00.90.90.11",
+        "Unnamed: 1":" - - - Orto borik asit ( borik asit )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2810.00.90.90.19",
+        "Unnamed: 1":" - - - Diğer borik asitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2810.00.90.90.29",
+        "Unnamed: 1":" - - - Diğer bor oksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.11",
+        "Unnamed: 1":"Diğer inorganik asitler ve ametallerin diğer inorganik",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"oksijenli bileşikleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Diğer inorganik asitler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2811.11.00.00.00",
+        "Unnamed: 1":" - - Hidrojen florür (hidroflorik asit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.12.00.00.00",
+        "Unnamed: 1":" - - Hidrojen siyanür (hidrosiyanik asit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.19",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2811.19.10.00.00",
+        "Unnamed: 1":" - - - Hidrojen bromür (hidrobromik asit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2811.19.80.10.00",
+        "Unnamed: 1":" - - - - Arsenik asit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2811.19.80.90.11",
+        "Unnamed: 1":" - - - - - Perklorik asit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.19.80.90.12",
+        "Unnamed: 1":" - - - - - Sülfamik asit  ( aminosülfonik asit )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.19.80.90.13",
+        "Unnamed: 1":" - - - - - Silisik asit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.19.80.90.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Ametallerin diğer inorganik oksijenli bileşikleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2811.21.00.00.00",
+        "Unnamed: 1":" - - Karbondioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.22.00.00.00",
+        "Unnamed: 1":" - - Silisyum dioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2811.29.05.00.00",
+        "Unnamed: 1":" - - - Kükürt dioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Kükürt trioksit (sülfürik anhidrit); diarsenik trioksit :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2811.29.10.10.00",
+        "Unnamed: 1":" - - - - Kükürt trioksit (sülfürik anhidrit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.29.10.20.00",
+        "Unnamed: 1":" - - - - Diarsenik trioksit ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Azot oksitleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2811.29.30.00.11",
+        "Unnamed: 1":" - - - - Azot protoksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2811.29.30.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2811.29.90.10.00",
+        "Unnamed: 1":" - - - - Arsenik pentaoksit (Arsenik asit anhidriti)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2811.29.90.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"         III. AMETALLERİN HALOJENLİ VEYA KÜKÜRTLÜ BİLEŞİKLERİ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"                           ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.12",
+        "Unnamed: 1":"Ametallerin halojenli ve oksihalojenli bileşikleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Klorür ve oksiklorürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2812.11.00.00.00",
+        "Unnamed: 1":" - - Fosgen (karbonil diklorür)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.12.00.00.00",
+        "Unnamed: 1":" - - Fosfor oksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.13.00.00.00",
+        "Unnamed: 1":" - - Fosfor triklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.14.00.00.00",
+        "Unnamed: 1":" - - Fosfor pentaklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.15.00.00.00",
+        "Unnamed: 1":" - - Sülfür monoklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.16.00.00.00",
+        "Unnamed: 1":" - - Sülfür diklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.17.00.00.00",
+        "Unnamed: 1":" - - Tionil klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2812.19.10.00.00",
+        "Unnamed: 1":" - - - Fosfordan olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.19.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2812.90.00.00.11",
+        "Unnamed: 1":" - - Bor triflorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90.00.00.12",
+        "Unnamed: 1":" - - Fosfor tribromür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90.00.00.13",
+        "Unnamed: 1":" - - Fosfor triiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90.00.00.14",
+        "Unnamed: 1":" - - Arsenik bromür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90.00.00.15",
+        "Unnamed: 1":" - - Arsenik iyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90.00.00.16",
+        "Unnamed: 1":" - - Sülfür hegzaflorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90.00.00.17",
+        "Unnamed: 1":" - - Azot triflorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2812.90.00.00.18",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        " ":"28.13",
+        "Unnamed: 1":"Ametallerin sülfürleri; ticari fosfortrisülfür:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2813.10.00.00.00",
+        "Unnamed: 1":" - Karbonsülfür (karbondisülfür)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2813.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2813.90.10.00.00",
+        "Unnamed: 1":" - - Fosfor sülfürleri; ticari fosfortrisülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2813.90.90.00.11",
+        "Unnamed: 1":" - - - Selenyum sülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2813.90.90.00.12",
+        "Unnamed: 1":" - - - Arsenik sülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2813.90.90.00.19",
+        "Unnamed: 1":" - - - Diğer ametallerin sülfürleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"        IV. İNORGANİK BAZLAR VE METALLERİN OKSİTLERİ,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"                   HİDROKSİTLERİ VE PEROKSİTLERİ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.14",
+        "Unnamed: 1":"Susuz (saf) amonyak veya amonyağın sulu çözeltileri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2814.10.00.00.00",
+        "Unnamed: 1":" - Susuz (saf) amonyak",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2814.20.00.00.00",
+        "Unnamed: 1":" - Amonyağın sulu çözeltileri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.15",
+        "Unnamed: 1":"Sodyum hidroksit (kostik soda); potasyum hidroksit (kostik potas);",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"sodyum veya potasyumun peroksitleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Sodyum hidroksit (kostik soda):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2815.11.00.00.00",
+        "Unnamed: 1":" - - Katı halde",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2815.12.00.00.00",
+        "Unnamed: 1":" - - Sulu çözeltileri (soda külsuyu veya sıvı soda)",
+        "ÖLÇÜ\nBİRİMİ":"KgNaOH",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2815.20.00.00.00",
+        "Unnamed: 1":" - Potasyum hidroksit (kostik potas)",
+        "ÖLÇÜ\nBİRİMİ":"KgKOH",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2815.30.00.00.00",
+        "Unnamed: 1":" - Sodyum veya potasyumun peroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.16",
+        "Unnamed: 1":"Magnezyumun hidroksit ve peroksiti; stronsiyum ve baryumun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"oksitleri, hidroksitleri ve peroksitleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2816.10.00.00.00",
+        "Unnamed: 1":" - Magnezyumun hidroksit ve peroksiti",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2816.40.00.00.00",
+        "Unnamed: 1":" - Stronsiyum veya baryumun oksitleri, hidroksitleri ve peroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2817.00",
+        "Unnamed: 1":"Çinko oksit; çinko peroksit :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2817.00.00.10.00",
+        "Unnamed: 1":" - Çinko oksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2817.00.00.90.00",
+        "Unnamed: 1":" - Çinko peroksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.18",
+        "Unnamed: 1":"Suni korendon (korundum) (kimyaca belirli bir yapıda olsun olma-",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"sın); aluminyum oksit;aluminyum hidroksit:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2818.10",
+        "Unnamed: 1":" - Suni korendon (korundum) (kimyaca belirli bir yapıda olsun  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   olmasın):",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - İçerdiği aluminyum oksit miktarı ağırlıkça %98,5 veya daha fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2818.10.11.00.00",
+        "Unnamed: 1":" - - - Toplam ağırlığın %50'sinden azının partikül boyu 10 mm'den fazla olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2818.10.19.00.00",
+        "Unnamed: 1":" - - - Toplam ağırlığın %50'si veya daha fazlasının partikül boyu 10 mm'den fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - İçerdiği aluminyum oksit miktarı ağırlıkça %98,5'ten az olanlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2818.10.91.00.00",
+        "Unnamed: 1":" - - - Toplam ağırlığın %50'sinden azının partikül boyu 10 mm'den fazla olanlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2818.10.99.00.00",
+        "Unnamed: 1":" - - - Toplam ağırlığın %50'si veya daha fazlasının partikül boyu 10 mm'den fazla olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2818.20.00.00.00",
+        "Unnamed: 1":" - Aluminyum oksit (suni korendon hariç)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2818.30.00.00.00",
+        "Unnamed: 1":" - Aluminyum hidroksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.19",
+        "Unnamed: 1":"Krom oksitleri ve hidroksitleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2819.10.00.00.00",
+        "Unnamed: 1":" - Krom trioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2819.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2819.90.10.00.00",
+        "Unnamed: 1":" - - Krom dioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2819.90.90.00.11",
+        "Unnamed: 1":" - - - Krom III oksit ( dikrom trioksit ) ( krom yeşili  ) ( krom seski oksit )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2819.90.90.00.12",
+        "Unnamed: 1":" - - - Krom hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":" ",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.20",
+        "Unnamed: 1":"Manganez oksitleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2820.10.00.00.00",
+        "Unnamed: 1":" - Manganez dioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2820.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2820.90.10.00.00",
+        "Unnamed: 1":" - - Ağırlık itibariyle % 77 veya daha fazla manganez içeren manganez oksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2820.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.21",
+        "Unnamed: 1":"Demir oksitleri ve hidroksitleri; içinde ağırlık itibariyle % 70 veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"daha fazla Fe203 olarak değerlendirilen kombine demir içeren toprak boyalar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2821.10",
+        "Unnamed: 1":" - Demir oksitleri ve hidroksitleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Kodeks evsafında olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2821.10.00.10.11",
+        "Unnamed: 1":" - - - Kodeks evsafında olan demir oksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2821.10.00.10.12",
+        "Unnamed: 1":" - - - Kodeks evsafında olan demir hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Kodeks evsafında olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2821.10.00.90.11",
+        "Unnamed: 1":" - - - Kodeks evsafında olmayan demir oksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2821.10.00.90.12",
+        "Unnamed: 1":" - - - Kodeks evsafında olmayan demir hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2821.20",
+        "Unnamed: 1":" - Toprak boyalar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2821.20.00.10.00",
+        "Unnamed: 1":" - - Kodeks evsafında olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2821.20.00.90.00",
+        "Unnamed: 1":" - - Kodeks evsafında olmayanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2822.00",
+        "Unnamed: 1":"Kobalt oksitleri ve hidroksitleri; ticari kobalt oksitleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2822.00.00.00.11",
+        "Unnamed: 1":" - Kobalt oksitleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2822.00.00.00.12",
+        "Unnamed: 1":" - Ticari kobalt oksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2822.00.00.00.13",
+        "Unnamed: 1":" - Kobalt hidroksitleri (hidratları)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2823.00.00.00.00",
+        "Unnamed: 1":"Titan oksitleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.24",
+        "Unnamed: 1":"Kurşun oksitleri; minyum ve minoranj:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2824.10.00.00.00",
+        "Unnamed: 1":" - Kurşun monoksit [Iitarge (mürdesenk),massicot]",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2824.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Minyum ve minoranj",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2824.90.00.00.11",
+        "Unnamed: 1":" - - - Minyum (sülyen) (Pb3 O4)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2824.90.00.00.12",
+        "Unnamed: 1":" - - - Minoranj",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2824.90.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.25",
+        "Unnamed: 1":"Hidrazin ve hidroksilamin ve bunların inorganik tuzları; diğer",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"inorganik bazlar; diğer metal oksitler,hidroksitler ve peroksitler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2825.10",
+        "Unnamed: 1":" - Hidrazin ve hidroksilamin ve bunların inorganik tuzları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2825.10.00.00.11",
+        "Unnamed: 1":" - - Hidrazin ve inorganik tuzları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.10.00.00.12",
+        "Unnamed: 1":" - - Hidroksilamin ve inorganik tuzları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.20.00.00.00",
+        "Unnamed: 1":" - Lityum oksit ve hidroksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.30",
+        "Unnamed: 1":" - Vanadyum oksitleri ve hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2825.30.00.00.11",
+        "Unnamed: 1":" - - Vanadyum penta oksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.30.00.00.19",
+        "Unnamed: 1":" - - Vanadyumun diğer oksitleri ve hidroksitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.40.00.00.00",
+        "Unnamed: 1":" - Nikel oksitleri ve hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.50",
+        "Unnamed: 1":" - Bakır oksitleri ve hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2825.50.00.00.11",
+        "Unnamed: 1":" - - Bakır I oksit ( kırmızı bakır oksit )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.50.00.00.12",
+        "Unnamed: 1":" - - Bakır II oksit ( siyah bakır oksit )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.50.00.00.13",
+        "Unnamed: 1":" - - Bakır hidroksitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.60",
+        "Unnamed: 1":" - Germanyum oksitleri ve zirkonyum dioksit",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2825.60.00.00.11",
+        "Unnamed: 1":" - - Germanyum oksitleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.60.00.00.12",
+        "Unnamed: 1":" - - Zirkonyum dioksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.70.00.00.00",
+        "Unnamed: 1":" - Molibden oksitleri ve hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.80.00.00.00",
+        "Unnamed: 1":" - Antimon oksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Kalsiyum oksit,hidroksit ve peroksit:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2825.90.11.00.00",
+        "Unnamed: 1":" - - - Kalsiyum hidroksit (aşağıda belirtilen partikül formlarında olup kuru ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"        ağırlık üzerinden hesaplandığında % 98 veya daha fazla saflıktaki; ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"         - 75 mikrometreyi aşan partikül boyuna sahip olup ağırlık itibariyle ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"           % 1'den fazla olmayan ve;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"         - 1,3 mikrometreden daha düşük partikül boyuna sahip olup ağırlık ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":" ",
+        "Unnamed: 1":"           itibariyle % 4'den fazla olmayan)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":" ",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        " ":"2825.90.19.00.11",
+        "Unnamed: 1":" - - - - Kalsiyum oksit ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.90.19.00.12",
+        "Unnamed: 1":" - - - - Kalsiyum peroksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.90.19.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.90.20.00.00",
+        "Unnamed: 1":" - - Berilyum oksit ve hidroksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.90.40.00.00",
+        "Unnamed: 1":" - - Tungsten oksit ve hidroksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2825.90.60.00.00",
+        "Unnamed: 1":" - - Kadmiyum oksit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2825.90.85.10.00",
+        "Unnamed: 1":" - - - Kalay oksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2825.90.85.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"                V. İNORGANİK ASİTLERİN VE METALLERİN",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"                          TUZLARI VE PEROKSİ TUZLARI",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.26",
+        "Unnamed: 1":"Florürler; florslikatlar, floraluminatlar ve diğer kompleks",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"flor tuzları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Florürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2826.12.00.00.00",
+        "Unnamed: 1":" - - Aluminyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.19",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Amonyum ve sodyum",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2826.19.10.10.00",
+        "Unnamed: 1":" - - - - Amonyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2826.19.10.90.00",
+        "Unnamed: 1":" - - - - Sodyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2826.19.90.10.00",
+        "Unnamed: 1":" - - - - Potasyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2826.19.90.90.11",
+        "Unnamed: 1":" - - - - - Kalsiyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.19.90.90.12",
+        "Unnamed: 1":" - - - - - Baryum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.19.90.90.19",
+        "Unnamed: 1":" - - - - - Diğer florürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.30.00.00.00",
+        "Unnamed: 1":" - Sodyum hekzafloraluminat (sentetik kriyolit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2826.90.10.00.00",
+        "Unnamed: 1":" - - Dipotasyum hekzaflorzirkonat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2826.90.80.10.00",
+        "Unnamed: 1":" - - - Potasyum florborat ve potasyumun diğer kompleks flor tuzları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2826.90.80.20.00",
+        "Unnamed: 1":" - - - Amonyum florborat ve amonyumun diğer kompleks flor tuzları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2826.90.80.50.00",
+        "Unnamed: 1":" - - - Sodyum florsilikat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.90.80.60.00",
+        "Unnamed: 1":" - - - Potasyum florsilikat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2826.90.80.90.11",
+        "Unnamed: 1":" - - - - Sodyum floraluminat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.90.80.90.12",
+        "Unnamed: 1":" - - - - Sodyum florborat ve sodyumun diğer kompleks flor tuzları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2826.90.80.90.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.27",
+        "Unnamed: 1":"Klorürler, oksiklorürler ve hidroksiklorürler; bromürler ve oksi -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"bromürler; iyodürler ve oksiiyodürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.10.00.00.00",
+        "Unnamed: 1":" - Amonyum klorür (nişadır)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2827.20.00.00.00",
+        "Unnamed: 1":" - Kalsiyum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Diğer klorürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.31.00.00.00",
+        "Unnamed: 1":" - - Magnezyum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.32.00.00.00",
+        "Unnamed: 1":" - - Aluminyum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.35.00.00.00",
+        "Unnamed: 1":" - - Nikel klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.39",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Kalay klorür",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2827.39.10.00.11",
+        "Unnamed: 1":" - - - - Kalay  II klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2827.39.10.00.12",
+        "Unnamed: 1":" - - - - Kalay IV  klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Demir klorür",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.39.20.00.11",
+        "Unnamed: 1":" - - - - Demir  II klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.39.20.00.12",
+        "Unnamed: 1":" - - - - Demir III klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.39.30.00.00",
+        "Unnamed: 1":" - - - Kobalt klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.39.85.10.00",
+        "Unnamed: 1":" - - - - Mangan klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Bizmut, stronsiyum, bakır, kadmiyum, kurşun klorür :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2827.39.85.20.11",
+        "Unnamed: 1":" - - - - - Bizmut klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.39.85.20.12",
+        "Unnamed: 1":" - - - - - Stronsiyum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.39.85.20.13",
+        "Unnamed: 1":" - - - - - Bakır klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.39.85.20.14",
+        "Unnamed: 1":" - - - - - Kadmiyum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.39.85.20.15",
+        "Unnamed: 1":" - - - - - Kurşun klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.39.85.30.00",
+        "Unnamed: 1":" - - - - Antimon klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.39.85.40.00",
+        "Unnamed: 1":" - - - - Baryum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.39.85.50.00",
+        "Unnamed: 1":" - - - - Çinko klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.39.85.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Oksiklorürler ve hidroksiklorürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.41",
+        "Unnamed: 1":" - - Bakır :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.41.00.10.00",
+        "Unnamed: 1":" - - - Bakır oksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.41.00.20.00",
+        "Unnamed: 1":" - - - Bakır hidroksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.49",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Kurşun:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.49.10.10.00",
+        "Unnamed: 1":" - - - - Kurşun oksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.49.10.20.00",
+        "Unnamed: 1":" - - - - Kurşun hidroksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.49.90.10.00",
+        "Unnamed: 1":" - - - - Kalay oksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Kalsiyum, çinko, mangan, bizmut, stronsiyum, kadmiyum, oksiklorürler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.49.90.30.11",
+        "Unnamed: 1":" - - - - - Kadmiyum oksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.49.90.30.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2827.49.90.40.00",
+        "Unnamed: 1":" - - - - Baryum oksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2827.49.90.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Bromürler ve oksibromürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.51",
+        "Unnamed: 1":" - - Sodyum ve potasyum bromürler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2827.51.00.00.11",
+        "Unnamed: 1":" - - - Sodyum bromürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2827.51.00.00.12",
+        "Unnamed: 1":" - - - Potasyum bromürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2827.59",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.59.00.10.00",
+        "Unnamed: 1":" - - - Oksibromürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.59.00.20.00",
+        "Unnamed: 1":" - - - Diğer bromürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2827.60",
+        "Unnamed: 1":" - İyodürler ve oksiiyodürler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2827.60.00.10.00",
+        "Unnamed: 1":" - - Sodyum iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Lityum, baryum, magnezyum, demir, çinko, mangan, kobalt ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      iyodürler ve oksiiyodürler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2827.60.00.20.12",
+        "Unnamed: 1":" - - - Lityum iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.60.00.20.13",
+        "Unnamed: 1":" - - - Baryum iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.60.00.20.14",
+        "Unnamed: 1":" - - - Magnezyum iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.60.00.20.15",
+        "Unnamed: 1":" - - - Mangan iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.60.00.20.16",
+        "Unnamed: 1":" - - - Demir iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.60.00.20.17",
+        "Unnamed: 1":" - - - Çinko iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.60.00.20.18",
+        "Unnamed: 1":" - - - Kobalt iyodür ve oksiiyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2827.60.00.30.00",
+        "Unnamed: 1":" - - Potasyum iyodür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2827.60.00.90.10",
+        "Unnamed: 1":" - - Diğer iyodür ve oksiiyodürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"28.28",
+        "Unnamed: 1":"Hipokloritler; ticari kalsiyum hipoklorit; kloritler; hipobromitler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2828.10",
+        "Unnamed: 1":" - Ticari kalsiyum hipoklorit ve diğer kalsiyum hipokloritler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2828.10.00.00.11",
+        "Unnamed: 1":" - - Ticari kalsiyum hipoklorit (kireç kaymağı)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2828.10.00.00.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2828.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Hipokloritler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2828.90.00.10.11",
+        "Unnamed: 1":" - - - Sodyum hipoklorit (Javel suyu)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2828.90.00.10.12",
+        "Unnamed: 1":" - - - Potasyum hipoklorit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2828.90.00.10.19",
+        "Unnamed: 1":" - - - Diğer hipokloritler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Kloritler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2828.90.00.21.00",
+        "Unnamed: 1":" - - - Sodyum klorit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2828.90.00.29.00",
+        "Unnamed: 1":" - - - Diğer kloritler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2828.90.00.30.00",
+        "Unnamed: 1":" - - Hipobromitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.29",
+        "Unnamed: 1":"Kloratlar  ve perkloratlar;  bromatlar ve perbromatlar;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"iyodatlar ve periyodatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Kloratlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2829.11.00.00.00",
+        "Unnamed: 1":" - - Sodyum klorat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2829.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":"  "
+    },
+    {
+        " ":"2829.19.00.00.11",
+        "Unnamed: 1":" - - - Amonyum klorat ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2829.19.00.00.12",
+        "Unnamed: 1":" - - - Potasyum klorat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2829.19.00.00.13",
+        "Unnamed: 1":" - - - Baryum klorat ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2829.19.00.00.19",
+        "Unnamed: 1":" - - - Diğer kloratlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2829.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Perkloratlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2829.90.10.10.00",
+        "Unnamed: 1":" - - - Amonyum perklorat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğer perkloratlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2829.90.10.20.11",
+        "Unnamed: 1":" - - - - Sodyum perklorat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2829.90.10.20.19",
+        "Unnamed: 1":" - - - - Diğer perkloratlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2829.90.40.00.00",
+        "Unnamed: 1":" - - Potasyum ve sodyum bromatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğer bromatlar, perbromatlar,lityum, baryum, magnezyum,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"        mangan, demir, çinko, kobalt iyodatları ve periyodatları",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2829.90.80.10.12",
+        "Unnamed: 1":" - - - - Lityum iyodat ve periyodat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2829.90.80.10.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2829.90.80.20.00",
+        "Unnamed: 1":" - - - Sodyum iyodat ve periyodat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğer iyodatlar ve periyodatlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2829.90.80.30.11",
+        "Unnamed: 1":" - - - - Diğer iyodatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2829.90.80.30.12",
+        "Unnamed: 1":" - - - - Diğer periyodatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.30",
+        "Unnamed: 1":"Sülfürler; polisülfürler (kimyaca belirli bir yapıda olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2830.10",
+        "Unnamed: 1":" - Sodyum sülfürler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2830.10.00.00.11",
+        "Unnamed: 1":" - - Sodyum sülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2830.10.00.00.12",
+        "Unnamed: 1":" - - Sodyum hidrojen sülfür ( sodyum hidrosülfür )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2830.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Kalsiyum; antimuan; demir sülfürleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2830.90.11.10.00",
+        "Unnamed: 1":" - - - Demir sülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.11.20.00",
+        "Unnamed: 1":" - - - Kalsiyum ve antimuan sülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Potasyum ,kalay sülfür ve polisülfürler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2830.90.85.10.11",
+        "Unnamed: 1":" - - - - Potasyum sülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2830.90.85.10.12",
+        "Unnamed: 1":" - - - - Kalay sülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2830.90.85.10.13",
+        "Unnamed: 1":" - - - - Potasyum polisülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2830.90.85.10.14",
+        "Unnamed: 1":" - - - - Kalay polisülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2830.90.85.20.00",
+        "Unnamed: 1":" - - - Kalsiyum, antimuan polisülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2830.90.85.30.00",
+        "Unnamed: 1":" - - - Sodyum polisülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2830.90.85.90.11",
+        "Unnamed: 1":" - - - - Baryum sülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.85.90.13",
+        "Unnamed: 1":" - - - - Amonyum hidrosülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.85.90.14",
+        "Unnamed: 1":" - - - - Amonyum sülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.85.90.19",
+        "Unnamed: 1":" - - - - Diğer sülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.85.90.21",
+        "Unnamed: 1":" - - - - Baryum polisülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.85.90.22",
+        "Unnamed: 1":" - - - - Demir polisülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.85.90.23",
+        "Unnamed: 1":" - - - - Amonyum polisülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2830.90.85.90.29",
+        "Unnamed: 1":" - - - - Diğer polisülfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.31",
+        "Unnamed: 1":"Ditiyonitler ve sülfoksilatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2831.10",
+        "Unnamed: 1":" - Sodyum ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2831.10.00.00.11",
+        "Unnamed: 1":" - - Sodyum ditiyonit ( sodyum hidrosülfit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2831.10.00.00.12",
+        "Unnamed: 1":" - - Sodyum sülfoksilat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2831.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"28.32",
+        "Unnamed: 1":"Sülfitler; tiyosülfatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2832.10",
+        "Unnamed: 1":" - Sodyum sülfitler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2832.10.00.00.11",
+        "Unnamed: 1":" - - Sodyum sülfit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2832.10.00.00.12",
+        "Unnamed: 1":" - - Sodyum bisülfit (sodyum hidrojen sülfit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2832.10.00.00.13",
+        "Unnamed: 1":" - - Sodyum metabisülfit (disodyum disülfit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2832.20",
+        "Unnamed: 1":" - Diğer sülfitler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2832.20.00.10.00",
+        "Unnamed: 1":" - - Amonyum sülfit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğer sülfitler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2832.20.00.90.11",
+        "Unnamed: 1":" - - - Potasyum sülfitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2832.20.00.90.19",
+        "Unnamed: 1":" - - - Diğer sülfitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2832.30",
+        "Unnamed: 1":" - Tiyosülfatlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2832.30.00.10.00",
+        "Unnamed: 1":" - - Sodyum tiyosülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2832.30.00.20.00",
+        "Unnamed: 1":" - - Amonyum tiyosülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2832.30.00.90.00",
+        "Unnamed: 1":" - - Diğer tiyosülfatlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.33",
+        "Unnamed: 1":"Sülfatlar; şaplar; peroksisülfatlar (persülfatlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Sodyum sülfatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.11.00.00.00",
+        "Unnamed: 1":" - - Disodyum sülfat (sodyum sülfat)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2833.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.19.00.00.11",
+        "Unnamed: 1":" - - - Sodyum bisülfat ( sodyum hidrojen sülfat )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2833.19.00.00.12",
+        "Unnamed: 1":" - - - Sodyum pirosülfat ( disodyum disülfat )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Diğer sülfatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.21.00.00.00",
+        "Unnamed: 1":" - - Magnezyum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2833.22.00.00.00",
+        "Unnamed: 1":" - - Aluminyum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2833.24.00.00.00",
+        "Unnamed: 1":" - - Nikel sülfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.25",
+        "Unnamed: 1":" - - Bakır sülfatlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.25.00.10.00",
+        "Unnamed: 1":" - - - Bakır I sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2833.25.00.20.00",
+        "Unnamed: 1":" - - - Bakır II sülfat (göz taşı) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2833.27.00.00.00",
+        "Unnamed: 1":" - - Baryum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"- - -Kadmiyum; krom, çinko",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.29.20.10.00",
+        "Unnamed: 1":" - - - - Kadmiyum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2833.29.20.20.00",
+        "Unnamed: 1":" - - - - Krom sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2833.29.20.30.00",
+        "Unnamed: 1":" - - - - Çinko sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2833.29.30.00.00",
+        "Unnamed: 1":" - - - Kobalt sülfat,titan sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.29.60.00.00",
+        "Unnamed: 1":" - - - Kurşun sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.29.80.00.11",
+        "Unnamed: 1":" - - - - Manganez sülfat ( mangan sülfat )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.29.80.00.12",
+        "Unnamed: 1":" - - - - Aluminyum magnezyum sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.29.80.00.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.30",
+        "Unnamed: 1":" - Şaplar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.30.00.10.00",
+        "Unnamed: 1":" - - Aluminyum amonyum sülfat (amonyak şapı)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.30.00.20.00",
+        "Unnamed: 1":" - - Aluminyum potasyum sülfat (potas şapı)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - -  Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.30.00.90.11",
+        "Unnamed: 1":" - - - Aluminyum sodyum sülfatlar ( soda şapı )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.30.00.90.12",
+        "Unnamed: 1":" - - - Krom potasyum sülfat ( krom şapı )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.30.00.90.13",
+        "Unnamed: 1":" - - - Amonyum krom sülfat (amonyaklı krom şapı )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.30.00.90.14",
+        "Unnamed: 1":" - - - Amonyum demir bisülfat (amonyaklı demir şapı )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.30.00.90.15",
+        "Unnamed: 1":" - - - Demir III potasyum sülfat ( potaslı demir şapı )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.30.00.90.19",
+        "Unnamed: 1":" - - - Diğer şaplar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.40",
+        "Unnamed: 1":" - Peroksisülfatlar (persülfatlar) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2833.40.00.10.00",
+        "Unnamed: 1":" - - Sodyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2833.40.00.20.00",
+        "Unnamed: 1":" - - Amonyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2833.40.00.30.00",
+        "Unnamed: 1":" - - Potasyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.34",
+        "Unnamed: 1":"Nitritler; nitratlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.10",
+        "Unnamed: 1":" - Nitritler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.10.00.10.00",
+        "Unnamed: 1":" - - Baryum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Amonyum, potasyum, kalsiyum,kurşun",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.10.00.20.11",
+        "Unnamed: 1":" - - - Potasyum nitrit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2834.10.00.20.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2834.10.00.30.00",
+        "Unnamed: 1":" - - Bakır, magnezyum, lityum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Kadmiyum, bizmut, civa, uranyum",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.10.00.40.11",
+        "Unnamed: 1":" - - - Kadmiyum nitrit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2834.10.00.40.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2834.10.00.50.00",
+        "Unnamed: 1":" - - Sodyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2834.10.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Nitratlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.21.00.00.00",
+        "Unnamed: 1":" - - Potasyum nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2834.29",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Baryum; berilyum; kadmiyum; kobalt; nikel; kurşun nitrat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.29.20.10.00",
+        "Unnamed: 1":" - - - - Baryum nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2834.29.20.20.00",
+        "Unnamed: 1":" - - - - Kadmiyum nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Berilyum; kobalt;nikel nitratlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.29.20.30.11",
+        "Unnamed: 1":" - - - - - Berilyum nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2834.29.20.30.12",
+        "Unnamed: 1":" - - - - - Kobalt nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2834.29.20.30.13",
+        "Unnamed: 1":" - - - - - Nikel nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2834.29.20.40.00",
+        "Unnamed: 1":" - - - - Kurşun nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2834.29.40.00.00",
+        "Unnamed: 1":" - - - Bakır nitratlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Kalsiyum nitrat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.29.80.11.00",
+        "Unnamed: 1":" - - - - - Ağırlıkça % 16 veya daha az azot içeren",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2834.29.80.12.00",
+        "Unnamed: 1":" - - - - - Tablet, pastil ve diğer benzeri şekillerde olanlar ile ambalajlı",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"             brüt ağırlığı en fazla 10 kg. olanlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2834.29.80.19.00",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Magnezyum, lityum nitrat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2834.29.80.20.11",
+        "Unnamed: 1":" - - - - - Magnezyum nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2834.29.80.20.12",
+        "Unnamed: 1":" - - - - - Lityum nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2834.29.80.30.00",
+        "Unnamed: 1":" - - - - Uranyum nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2834.29.80.40.00",
+        "Unnamed: 1":" - - - - Bazik bizmut nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2834.29.80.50.00",
+        "Unnamed: 1":" - - - - Bizmut nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2834.29.80.90.00",
+        "Unnamed: 1":" - - - - Diğer nitratlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.35",
+        "Unnamed: 1":"FosfinatIar (hipofosfitler), fosfonatlar (fosfitler) ve fosfatlar; poIifosfatlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"(kimyaca belirli bir yapıda olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.10",
+        "Unnamed: 1":" - Fosfinatlar (hipofosfitler) ve fosfonatlar (fosfitler) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Sodyum, kalsiyum fosfit ve hipofosfit",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.10.00.10.11",
+        "Unnamed: 1":" - - - Sodyum fosfit ve hipofosfit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.10.00.10.12",
+        "Unnamed: 1":" - - - Kalsiyum fosfit ve hipofosfit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.10.00.20.00",
+        "Unnamed: 1":" - - Potasyum fosfit ve hipofosfit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2835.10.00.90.00",
+        "Unnamed: 1":" - - Diğer fosfitler ve hipofosfitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Fosfatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.22",
+        "Unnamed: 1":" - - Mono - veya di -sodyum fosfat",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.22.00.00.11",
+        "Unnamed: 1":" - - - Monosodyum fosfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.22.00.00.12",
+        "Unnamed: 1":" - - - Disodyum fosfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.24.00.00.00",
+        "Unnamed: 1":" - - Potasyum fosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2835.25.00.00.00",
+        "Unnamed: 1":" - - Kalsiyum hidrojen ortofosfat (dikalsiyum fosfat)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.26.00.00.00",
+        "Unnamed: 1":" - - Diğer kalsiyum fosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.29",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.29.10.00.00",
+        "Unnamed: 1":" - - - Triamonyum fosfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2835.29.30.00.00",
+        "Unnamed: 1":" - - - Trisodyumfosfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.29.90.10.00",
+        "Unnamed: 1":" - - - - Demir fosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2835.29.90.20.00",
+        "Unnamed: 1":" - - - - Sodyum fosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.29.90.90.00",
+        "Unnamed: 1":" - - - - Diğer fosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Polifosfatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.31.00.00.00",
+        "Unnamed: 1":" - - Sodyum trifosfat (sodyum tripolifosfat)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.39",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2835.39.00.10.00",
+        "Unnamed: 1":" - - - Sodyum ve kalsiyum polifosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2835.39.00.20.00",
+        "Unnamed: 1":" - - - Potasyum polifosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2835.39.00.90.00",
+        "Unnamed: 1":" - - - Diğer polifosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.36",
+        "Unnamed: 1":"Karbonatlar; peroksikarbonatlar (perkarbonatlar); amonyum kar -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"bamat içeren ticari amonyum karbonat:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2836.20",
+        "Unnamed: 1":" - Disodyum karbonat :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2836.20.00.00.11",
+        "Unnamed: 1":" - - Susuz disodyum karbonat ( dehidrate )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2836.20.00.00.12",
+        "Unnamed: 1":" - - Kristal sulu disodyum karbonat (çamaşır sodası )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2836.30.00.00.00",
+        "Unnamed: 1":" - Sodyum hidrojen karbonat (sodyum bikarbonat)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2836.40",
+        "Unnamed: 1":" - Potasyum karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2836.40.00.00.11",
+        "Unnamed: 1":" - - Potasyum karbonat ( potas )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2836.40.00.00.12",
+        "Unnamed: 1":" - - Potasyum bikarbonat ( potasyum hidrojen karbonat )",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2836.50.00.00.00",
+        "Unnamed: 1":" - Kalsiyum karbonat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2836.60.00.00.00",
+        "Unnamed: 1":" - Baryum karbonat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2836.91.00.00.00",
+        "Unnamed: 1":" - - Lityum karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2836.92.00.00.00",
+        "Unnamed: 1":" - - Stronsiyum karbonat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2836.99",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Karbonatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Magnezyum; bakır :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2836.99.11.10.00",
+        "Unnamed: 1":" - - - - -  Magnezyum karbonat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2836.99.11.20.00",
+        "Unnamed: 1":" - - - - - Bakır karbonat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2836.99.17.10.00",
+        "Unnamed: 1":" - - - - - Manganez karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2836.99.17.20.00",
+        "Unnamed: 1":" - - - - - Demir II karbonat(FeCO3)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2836.99.17.30.00",
+        "Unnamed: 1":" - - - - - Bizmut karbonat (bazik bizmut karbonat)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2836.99.17.40.00",
+        "Unnamed: 1":" - - - - - Amonyum bikarbonat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2836.99.17.50.00",
+        "Unnamed: 1":" - - - - - Diğer amonyum karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2836.99.17.60.00",
+        "Unnamed: 1":" - - - - - Kurşun karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2836.99.17.90.11",
+        "Unnamed: 1":" - - - - - - Berilyum karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2836.99.17.90.12",
+        "Unnamed: 1":" - - - - - - Kobalt karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2836.99.17.90.19",
+        "Unnamed: 1":" - - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Peroksikarbonatlar (perkarbonatlar) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2836.99.90.10.00",
+        "Unnamed: 1":" - - - - Sodyum perkarbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2836.99.90.20.00",
+        "Unnamed: 1":" - - - - Potasyum perkarbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2836.99.90.30.00",
+        "Unnamed: 1":" - - - - Baryum perkarbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2836.99.90.90.00",
+        "Unnamed: 1":" - - - - Diğer perkarbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"28.37",
+        "Unnamed: 1":"Siyanürler, oksisiyanürler ve kompleks siyanürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Siyanürler ve oksisiyanürler:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Sodyum",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2837.11.00.00.11",
+        "Unnamed: 1":" - - - Sodyum siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2837.11.00.00.12",
+        "Unnamed: 1":" - - - Sodyum oksisiyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2837.19",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Kadmiyum, kalsiyum siyanür",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2837.19.00.20.11",
+        "Unnamed: 1":" - - - - Kadmiyum siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2837.19.00.20.12",
+        "Unnamed: 1":" - - - - Kalsiyum siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2837.19.00.30.00",
+        "Unnamed: 1":" - - - Potasyum siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2837.19.00.40.00",
+        "Unnamed: 1":" - - - Amonyum siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2837.19.00.90.11",
+        "Unnamed: 1":" - - - - Çinko siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2837.19.00.90.12",
+        "Unnamed: 1":" - - - - Bakır  siyanürler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2837.19.00.90.14",
+        "Unnamed: 1":" - - - - Nikel siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2837.19.00.90.16",
+        "Unnamed: 1":" - - - - Kobalt siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2837.19.00.90.17",
+        "Unnamed: 1":" - - - - Kadmiyum (di, tri, tetra) siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2837.19.00.90.19",
+        "Unnamed: 1":" - - - - Diğer siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2837.20",
+        "Unnamed: 1":" - Kompleks siyanürler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Kadmiyum, kalsiyum :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2837.20.00.20.11",
+        "Unnamed: 1":" - - - Kompleks kadmiyum siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2837.20.00.20.12",
+        "Unnamed: 1":" - - - Kompleks kalsiyum siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Sodyum :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2837.20.00.30.11",
+        "Unnamed: 1":" - - - Sodyum ferrosiyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2837.20.00.30.19",
+        "Unnamed: 1":" - - - Diğer kompleks sodyum siyanürleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Potasyum, amonyum :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2837.20.00.40.11",
+        "Unnamed: 1":" - - - Potasyum ferrosiyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2837.20.00.40.12",
+        "Unnamed: 1":" - - - Potasyum ferrisiyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2837.20.00.40.13",
+        "Unnamed: 1":" - - - Diğer kompleks potasyum siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2837.20.00.40.14",
+        "Unnamed: 1":" - - - Kompleks amonyum siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2837.20.00.90.00",
+        "Unnamed: 1":" - - Diğer kompleks siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"[28.38]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.39",
+        "Unnamed: 1":"Silikatlar; ticari alkali metal silikatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Sodyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2839.11.00.00.00",
+        "Unnamed: 1":" - - Sodyum metasilikatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2839.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2839.19.00.00.11",
+        "Unnamed: 1":" - - - Sodyum silikat (su camı veya cam suyu)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2839.19.00.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2839.90",
+        "Unnamed: 1":" - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2839.90.00.10.00",
+        "Unnamed: 1":" - - Potasyum silikat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2839.90.00.20.00",
+        "Unnamed: 1":" - - Ticari alkali metal silikatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2839.90.00.90.11",
+        "Unnamed: 1":" - - - Kurşun silikat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2839.90.00.90.12",
+        "Unnamed: 1":" - - - Zirkonyum silikat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2839.90.00.90.13",
+        "Unnamed: 1":" - - - Çöktürülmüş kalsiyum silikat ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2839.90.00.90.15",
+        "Unnamed: 1":" - - - Diğer silikatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.40",
+        "Unnamed: 1":"Boratlar; peroksiboratlar (perboratlar):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Disodyum tetraborat (rafine boraks):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2840.11.00.00.00",
+        "Unnamed: 1":" - - Anhidrit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2840.19",
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2840.19.10.00.00",
+        "Unnamed: 1":" - - - Disodyum tetraborat pentahidrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2840.19.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2840.20",
+        "Unnamed: 1":" - Diğer boratlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2840.20.10.00.00",
+        "Unnamed: 1":" - -  Sodyum boratlar (anhidrit)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2840.20.90.10.00",
+        "Unnamed: 1":" - - - Amonyum boratlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2840.20.90.90.00",
+        "Unnamed: 1":" - - - Diğer boratlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2840.30",
+        "Unnamed: 1":" - Peroksiboratlar (perboratlar) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Sodyum perborat (perboraks)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2840.30.00.10.11",
+        "Unnamed: 1":" - - - Sodyum perborat monohidrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2840.30.00.10.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":40
+    },
+    {
+        " ":"2840.30.00.20.00",
+        "Unnamed: 1":" - - Amonyum perborat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2840.30.00.90.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.41",
+        "Unnamed: 1":"Oksimetalik veya peroksimetalik asitlerin tuzları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.30.00.00.00",
+        "Unnamed: 1":" - Sodyum dikromat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.50",
+        "Unnamed: 1":" - Diğer kromatlar ve dikromatlar; peroksikromatlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.50.00.10.00",
+        "Unnamed: 1":" - - Potasyum dikromat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.50.00.90.11",
+        "Unnamed: 1":" - - - Sodyum kromat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.50.00.90.12",
+        "Unnamed: 1":" - - - Potasyum kromat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.50.00.90.13",
+        "Unnamed: 1":" - - - Amonyum kromat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.50.00.90.14",
+        "Unnamed: 1":" - - - Baryum kromat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.50.00.90.19",
+        "Unnamed: 1":" - - - Diğer kromatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.50.00.90.29",
+        "Unnamed: 1":" - - - Diğer dikromatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.50.00.90.31",
+        "Unnamed: 1":" - - - Peroksikromatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Manganitler,manganatlar ve permanganatlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.61.00.00.00",
+        "Unnamed: 1":" - - Potasyum permanganat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.69",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.69.00.00.11",
+        "Unnamed: 1":" - - - Manganitler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.69.00.00.12",
+        "Unnamed: 1":" - - - Manganatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.69.00.00.19",
+        "Unnamed: 1":" - - - Diğer permanganatlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.70",
+        "Unnamed: 1":" - Molibdatlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.70.00.10.00",
+        "Unnamed: 1":" - - Amonyum molibdat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.70.00.90.11",
+        "Unnamed: 1":" - - - Sodyum molibdat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.70.00.90.19",
+        "Unnamed: 1":" - - - Diğer molibdatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.80.00.00.00",
+        "Unnamed: 1":" - Tungstatlar (volframatlar)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Zinkatlar ve vanadatlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.90.30.10.00",
+        "Unnamed: 1":" - - - Zinkatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.90.30.20.00",
+        "Unnamed: 1":" - - - Vanadatlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":10
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.90.85.10.00",
+        "Unnamed: 1":" - - - Antimonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.90.85.20.00",
+        "Unnamed: 1":" - - - Baryum aluminat ve kobalt aluminat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğer aluminatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.90.85.30.13",
+        "Unnamed: 1":" - - - - Sodyum aluminat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.90.85.30.19",
+        "Unnamed: 1":" - - - - Diğer aluminatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2841.90.85.90.11",
+        "Unnamed: 1":" - - - - Sodyum stanat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2841.90.85.90.19",
+        "Unnamed: 1":" - - - -  Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.42",
+        "Unnamed: 1":"İnorganik asitlerin veya peroksi asitlerin diğer tuzları (kimyaca belirli ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"bir yapıda olsun olmasın alumina silikatlar dahil) (azotürler hariç ):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2842.10.00.00.00",
+        "Unnamed: 1":" - Kompleks veya çift silikatlar (kimyaca belirli bir yapıda olsun          ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   olmasın alumina silikatlar dahil)      ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2842.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Selen veya tellür asitlerin tuzları, çift tuzları ve kompleks tuzları  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2842.90.10.00.11",
+        "Unnamed: 1":" - - - Selen asitlerin tuzları, çift tuzları ve kompleks tuzları  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2842.90.10.00.12",
+        "Unnamed: 1":" - - - Tellür asitlerin tuzları, çift tuzları ve kompleks tuzları  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Arsenit ve arsenatlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2842.90.80.11.00",
+        "Unnamed: 1":" - - - - Sodyum arsenit",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2842.90.80.12.00",
+        "Unnamed: 1":" - - - - Sodyum arsenat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Kalsiyum, çinko, potasyum ve aluminyum arsenit ve arsenatlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2842.90.80.14.11",
+        "Unnamed: 1":" - - - - - Kalsiyum arsenit  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2842.90.80.14.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2842.90.80.15.00",
+        "Unnamed: 1":" - - - - Kurşun, bakır arsenit ve arsenatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2842.90.80.16.00",
+        "Unnamed: 1":" - - - - Diğer arsenit ve arsenatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2842.90.80.91.00",
+        "Unnamed: 1":" - - - - Demir amonyum klorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2842.90.80.92.00",
+        "Unnamed: 1":" - - - - Fülminatlar, siyanatlar ve tiyosiyanatlar ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2842.90.80.99.11",
+        "Unnamed: 1":" - - - - - Kompleks veya çift fosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2842.90.80.99.12",
+        "Unnamed: 1":" - - - - - Kompleks veya çift karbonatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2842.90.80.99.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"                                 VI. MUHTELİF",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.43",
+        "Unnamed: 1":"Kolloidal haldeki kıymetli metaller; kıymetli metallerin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"inorganik veya organik bileşikleri (kimyasal olarak belirli",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"bir yapıda olsun olmasın); kıymetli metallerin amalgamları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2843.10",
+        "Unnamed: 1":" - Kolloidal haldeki kıymetli metaller:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2843.10.10.00.00",
+        "Unnamed: 1":" - - Gümüş (Purotargol)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2843.10.90.00.11",
+        "Unnamed: 1":" - - - Kolloidal altın ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2843.10.90.00.12",
+        "Unnamed: 1":" - - - Kolloidal platin",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Gümüş bileşikleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2843.21.00.00.00",
+        "Unnamed: 1":" - - Gümüş nitrat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2843.29",
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğer gümüş tuzları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2843.29.00.10.11",
+        "Unnamed: 1":" - - - - Gümüş siyanürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2843.29.00.10.19",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2843.29.00.20.00",
+        "Unnamed: 1":" - - - Diğer gümüş bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2843.30.00.00.00",
+        "Unnamed: 1":" - Altın bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"Gr",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2843.90",
+        "Unnamed: 1":" - Diğer bileşikler; amalgamlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2843.90.10.00.00",
+        "Unnamed: 1":" - - Amalgamlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2843.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"Gr",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.44",
+        "Unnamed: 1":"Radyoaktif kimyasal elementler ve radyoaktif izotoplar (parçalanabilir",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"veya çoğalabilir kimyasal elementler ve izotoplar dahil) ve bunların",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"bileşikleri; bu ürünleri içeren karışım ve artıklar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.10",
+        "Unnamed: 1":" - Tabii uranyum ve bunun bileşikleri; tabii uranyum veya",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   tabii uranyum bileşikleri içeren alaşımlar, dispersiyonlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   (sermetler dahil), seramik ürünler ve karışımları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Tabii uranyum:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.10.10.00.00",
+        "Unnamed: 1":" - - - Ham; döküntü ve hurdalar (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":"Kg U",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.10.30.00.00",
+        "Unnamed: 1":" - - - İşlenmiş (EURATOM) ",
+        "ÖLÇÜ\nBİRİMİ":"Kg U",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.10.50.00.00",
+        "Unnamed: 1":" - - Ferro uranyum",
+        "ÖLÇÜ\nBİRİMİ":"Kg U",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2844.10.90.00.00",
+        "Unnamed: 1":" - - Diğerleri (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":"Kg U",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.20",
+        "Unnamed: 1":" - U 235 olarak zenginleştirilmiş uranyum ve bunun bileşikleri;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   plutonyum ve bunun bileşikleri; U 235 olarak zenginleştirilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   uranyum, plutonyum veya bu ürünlerin bileşiklerini içeren",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   alaşımlar, dispersiyonlar (sermetler dahil), seramik ürünler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   ve karışımlar : ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - U 235 olarak zenginleştirilmiş uranyum ve bunun bileşikleri; U 235",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      olarak zenginleştirilmiş uranyum veya bu ürünlerin bileşiklerini",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      içeren alaşımlar, dispersiyonlar (sermetler dahil), seramik ürünler ve",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      karışımlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.20.25.00.00",
+        "Unnamed: 1":" - - - Ferro uranyum",
+        "ÖLÇÜ\nBİRİMİ":"giF\/S",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.20.35.00.00",
+        "Unnamed: 1":" - - - Diğerleri (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":"giF\/S",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Plutonyum ve bunun bileşikleri; plutonyum veya bu ürünlerin",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     bileşiklerini içeren alaşımlar,dispersiyonlar (sermetler dahil),",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     seramik ürünler ve karışımlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Uranyum ve plutonyum karışımları :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.20.51.00.00",
+        "Unnamed: 1":" - - - - Ferro uranyum",
+        "ÖLÇÜ\nBİRİMİ":"giF\/S",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.20.59.00.00",
+        "Unnamed: 1":" - - - - Diğerleri (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":"giF\/S",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.20.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":"giF\/S",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.30",
+        "Unnamed: 1":" - U 235 olarak fakirleştirilmiş uranyum ve bunun bileşikleri;",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   toryum ve bunun bileşikleri; U 235 olarak fakirleştirilmiş uran -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   yum ,toryum veya bu ürünlerin bileşiklerini içeren alaşımlar,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   dispersiyonlar (sermetler dahil),seramik ürünler ve karışımları:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - U 235 olarak fakirleştirilmiş uranyum; U 235 olarak fakirleştirilmiş",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     uranyum veya bu ürünün bileşiklerini içeren alaşımlar,dispersiyon  -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     lar (sermetler dahil),seramik ürünler ve karışımlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.30.11.00.00",
+        "Unnamed: 1":" - - - Sermetler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.30.19.10.00",
+        "Unnamed: 1":" - - - - U 235 olarak fakirleştirilmiş uranyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2844.30.19.20.00",
+        "Unnamed: 1":" - - - - U 235 olarak fakirleştirilmiş uranyumun bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.30.19.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Toryum; toryum veya bu ürünün bileşiklerini içeren alaşımlar,dis  -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     persiyonlar (sermetler dahil),seramik ürünler ve karışımlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.30.51.00.00",
+        "Unnamed: 1":" - - - Sermetler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri (EURATOM) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - Ham; döküntü ve hurdalar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.30.55.10.00",
+        "Unnamed: 1":" - - - - - Toryum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"5"
+    },
+    {
+        " ":"2844.30.55.20.00",
+        "Unnamed: 1":" - - - - - Toryum bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.30.55.30.00",
+        "Unnamed: 1":" - - - - - Toryum izotopları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - İşlenmiş :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - - Çubuklar, profiller, teller,levha,tabaka,yaprak ve şeritler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.30.61.10.00",
+        "Unnamed: 1":" - - - - - - Toryum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2844.30.61.20.00",
+        "Unnamed: 1":" - - - - - - Toryum bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.30.61.30.00",
+        "Unnamed: 1":" - - - - - - Toryum izotopları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.30.69.10.00",
+        "Unnamed: 1":" - - - - - - Toryum ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"5"
+    },
+    {
+        " ":"2844.30.69.20.00",
+        "Unnamed: 1":" - - - - - - Toryum bileşikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.30.69.30.00",
+        "Unnamed: 1":" - - - - - - Toryum izotopları ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - U 235 olarak fakirleştirilmiş uranyum veya toryumun bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     (birbirleriyle karıştırılmış olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.30.91.00.00",
+        "Unnamed: 1":" - - - Toryum veya U 235 olarak fakirleştirilmiş uranyumdan olanlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"        (birbirleriyle karıştırılmış olsun olmasın) (toryum tuzları hariç) (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.30.99.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Radyoaktif elementler ve izotoplar ve bileşikler (2844.10, 2844.20,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   2844.30 alt pozisyonlarındakiler hariç); bu elementleri, izotopları ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   veya bileşikleri içeren alaşımlar, dispersiyonlar (sermetler dahil),",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"   seramik ürünler ve karışımlar; radyoaktif artıklar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.41",
+        "Unnamed: 1":" - - Trityum ve bileşikleri; trityum ve bileşiklerini içeren  alaşımlar,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      dispersiyonlar (sermetler dahil),  seramik ürünler ve karışımlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.41.10.00.00",
+        "Unnamed: 1":" - - - Yapay radyoaktif izotop (Euratom); yapay radyoaktif izotop bileşikleri (Euratom) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.41.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.42",
+        "Unnamed: 1":" - - Aktinyum-225, aktinyum-227, kaliforniyum-253, küriyum-240, küriyum-241, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     küriyum-242, küriyum-243, küriyum-244, einsteinyum-253, einsteinyum-254, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     gadolinyum-148, polonyum-208, polonyum- 209, polonyum-210, radyum-223, ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     uranyum-230 veya uranyum-232 ve bunların bileşikleri; bu element veya bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     içeren alaşımlar, dispersiyonlar (sermetler dahil), seramik ürünler ve karışımlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.42.10.00.00",
+        "Unnamed: 1":" - - - Yapay radyoaktif izotop (Euratom); yapay radyoaktif izotop bileşikleri (Euratom) ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.42.90.00.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.43",
+        "Unnamed: 1":" - - Diğer radyoaktif elementler ve izotoplar ve bileşikler; bu elementleri,",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"    izotopları veya bileşikleri içeren alaşımlar, dispersiyonlar (sermetler dahil),",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"     seramik ürünler ve karışımlar:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Uranyum- 233 ve bunun bileşikleri; Uranyum- 233 veya bu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      ürünün bileşiklerinden elde edilen alaşımlar, dispersiyonlar (sermetler",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      dahil) seramik ürünler ve karışımlar :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.43.10.10.00",
+        "Unnamed: 1":" - - - - Ferro-uranyum",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2844.43.10.90.00",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Yapay radyoaktif izotop (Euratom); yapay radyoaktif izotop bileşikleri (Euratom) ",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":" ",
+        "Unnamed: 1":" - - - - Yapay radyoaktif izotoplar (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2844.43.20.00.11",
+        "Unnamed: 1":" - - - - - Radyoaktif iyot",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.43.20.00.12",
+        "Unnamed: 1":" - - - - - Radyoaktif fosfor",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.43.20.00.13",
+        "Unnamed: 1":" - - - - - Radyoaktif karbon",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.43.20.00.14",
+        "Unnamed: 1":" - - - - - Radyoaktif kobalt",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.43.20.00.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2844.43.20.00.21",
+        "Unnamed: 1":" - - - - Yapay radyoaktif izotopların bileşikleri (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.43.80.10.00",
+        "Unnamed: 1":" - - - - Radyoaktif bileşiklerle radyoaktif hale getirilmiş ''luminofor '' olarak",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"          kullanılacak cinsten inorganik bileşikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":" ",
+        "Unnamed: 1":" - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2844.43.80.90.11",
+        "Unnamed: 1":" - - - - - Uranyum izotopu",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.43.80.90.19",
+        "Unnamed: 1":" - - - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.44.00.00.00",
+        "Unnamed: 1":" - - Radyoaktif atıklar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2844.50.00.00.00",
+        "Unnamed: 1":" - Nükleer reaktörlerin kullanılmış (radyasyon yayan) yakıt elementleri ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"(kartuşlar)",
+        "ÖLÇÜ\nBİRİMİ":"giF\/S",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.45",
+        "Unnamed: 1":"28.44 Pozisyonu dışında kalan izotoplar; bunların belirli bir kim -",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"yasal yapıda olsun olmasın organik ve inorganik bileşikleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2845.10.00.00.00",
+        "Unnamed: 1":" -  Ağır su (döteryum oksit) (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2845.20.00.00.00",
+        "Unnamed: 1":" - Boron-10 içinde zenginleştirilmiş Boron ve bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2845.30.00.00.00",
+        "Unnamed: 1":" - Lityum-6 içinde zenginleştirilmiş Lityum ve bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2845.40.00.00.00",
+        "Unnamed: 1":" - Helyum-3",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2845.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Döteryum ve bunun bileşikleri; döteryumca zenginleştirilmiş hidrojen  ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"      ve bileşikleri; bu ürünleri içeren karışım ve çözeltiler (EURATOM)",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2845.90.10.00.11",
+        "Unnamed: 1":" - - - Dötere organik bileşikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2845.90.10.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2845.90.90.00.11",
+        "Unnamed: 1":" - - - Tirityumlu bileşikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2845.90.90.00.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.46",
+        "Unnamed: 1":"Nadir toprak metallerin, itriyum veya skandiyum veya bu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"metallerin karışımlarının organik veya inorganik bileşikleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2846.10.00.00.00",
+        "Unnamed: 1":" - Seryum bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2846.90",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2846.90.30.00.00",
+        "Unnamed: 1":" - - Skandiyum bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2846.90.40.00.00",
+        "Unnamed: 1":" - - Lantan bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2846.90.50.00.00",
+        "Unnamed: 1":" - - Praseodim, Neodimyum veya Samaryum bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2846.90.60.00.00",
+        "Unnamed: 1":" - - Gadolinyum, terbiyum veya disprosyum bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2846.90.70.00.00",
+        "Unnamed: 1":" - - Evropiyum, holmiyum, erbiyum, tulyum,   iterbiyum, lutetyum veya itriyum bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2846.90.90.00.00",
+        "Unnamed: 1":" - - Metal karışımlarının bileşikleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2847.00",
+        "Unnamed: 1":"Hidrojen peroksit (üre ile sertleştirilmiş  olsun olmasın) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2847.00.00.10.00",
+        "Unnamed: 1":" - Perhidrol (en az % 30 H2O2 içeren)",
+        "ÖLÇÜ\nBİRİMİ":"KgH2O2",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":" ",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":" "
+    },
+    {
+        " ":"2847.00.00.90.11",
+        "Unnamed: 1":" - - Katı hidrojen peroksit",
+        "ÖLÇÜ\nBİRİMİ":"KgH2O2",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2847.00.00.90.19",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"KgH2O2",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"[28.48]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.49",
+        "Unnamed: 1":"Karbürler (kimyaca belirli bir yapıda olsun olmasın):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2849.10.00.00.00",
+        "Unnamed: 1":" - Kalsiyum karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.20.00.00.00",
+        "Unnamed: 1":" - Silisyum karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2849.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2849.90.10.00.00",
+        "Unnamed: 1":" - - Bor karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.90.30.00.00",
+        "Unnamed: 1":" - - Tungsten karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Aluminyum; krom; molibden; vanadyum; tantal ve titan  karbürleri",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2849.90.50.00.11",
+        "Unnamed: 1":" - - - Aluminyum karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.90.50.00.12",
+        "Unnamed: 1":" - - - Krom karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.90.50.00.13",
+        "Unnamed: 1":" - - - Molibden karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.90.50.00.14",
+        "Unnamed: 1":" - - - Vanadyum karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.90.50.00.15",
+        "Unnamed: 1":" - - - Tantal karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.90.50.00.16",
+        "Unnamed: 1":" - - - Titan karbür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2849.90.90.00.00",
+        "Unnamed: 1":" - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2850.00",
+        "Unnamed: 1":"Hidrürler, nitrürler, azotürler, silisürler ve borürler (kimyaca",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"belirli bir yapıda olsun olmasın) (aynı zamanda 28.49 pozisyo- ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"nunun karbürleri de olan bileşikler hariç ) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2850.00.20.00.00",
+        "Unnamed: 1":" - Hidrürler; nitrürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Azotürler, silüsürler:",
+        "ÖLÇÜ\nBİRİMİ":" ",
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Azotürler :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2850.00.60.10.11",
+        "Unnamed: 1":" - - - Sodyum azotür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2850.00.60.10.19",
+        "Unnamed: 1":" - - - Diğer azotürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2850.00.60.20.00",
+        "Unnamed: 1":" - - Silüsürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"15"
+    },
+    {
+        " ":"2850.00.90.00.00",
+        "Unnamed: 1":" - Borürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"[28.51]",
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"28.52",
+        "Unnamed: 1":" Civanın organik veya inorganik bileşikleri (kimyasal olarak tanımlanmış ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"  olsun olmasın) (amalgamlar hariç):",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - Kimyasal olarak tanımlanmış olanlar: ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2852.10.00.11.00",
+        "Unnamed: 1":" - - Civa oksitleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - -  Civa klorür ve oksiklorür:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2852.10.00.12.11",
+        "Unnamed: 1":" - - - Civa (I) klorür (kalomel)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.12.12",
+        "Unnamed: 1":" - - - Civa (II) klorür (süblime)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.12.13",
+        "Unnamed: 1":" - - - Civa oksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.13.00",
+        "Unnamed: 1":" - -  Civa hidroksiklorür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2852.10.00.14.00",
+        "Unnamed: 1":" - - Civa iyodürler ve oksiiyodürler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2852.10.00.15.00",
+        "Unnamed: 1":" - - Civa sülfir ve polisülfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2852.10.00.16.00",
+        "Unnamed: 1":" - - Bazik cıva sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2852.10.00.17.00",
+        "Unnamed: 1":" - - Bazik olmayan cıva sülfat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2852.10.00.18.00",
+        "Unnamed: 1":" - - Civa nitratlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2852.10.00.21.00",
+        "Unnamed: 1":" - - Civa polifosfatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Saf civa siyanür ve saf kompleks civa siyanür :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2852.10.00.22.11",
+        "Unnamed: 1":" - - -  Saf  kompleks civa siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2852.10.00.22.12",
+        "Unnamed: 1":" - - - Civa tetra siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":"2852.10.00.22.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":0
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - -  Saf  olmayan civa siyanür ve saf olmayan kompleks civa siyanür:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2852.10.00.23.11",
+        "Unnamed: 1":" - - -  Saf  olmayan kompleks civa siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2852.10.00.23.12",
+        "Unnamed: 1":" - - - Civa tetra siyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2852.10.00.23.19",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2852.10.00.24.00",
+        "Unnamed: 1":" - - Civa fülminat, siyanat ve tiyosiyanat ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2852.10.00.25.00",
+        "Unnamed: 1":" - - Civa kromat,  dikromat ve peroksikromat",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.26.00",
+        "Unnamed: 1":" - - Civanın kompleks veya çift silikatları  ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2852.10.00.27.00",
+        "Unnamed: 1":" - - Civa arsenitler ve arsenatlar",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2852.10.00.28.00",
+        "Unnamed: 1":" - - Kıymetli metallerin civalı bileşikleri ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":5
+    },
+    {
+        " ":"2852.10.00.31.00",
+        "Unnamed: 1":" - - Civa fosfürler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.32.00",
+        "Unnamed: 1":" - - Civa karbürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":35
+    },
+    {
+        " ":"2852.10.00.33.00",
+        "Unnamed: 1":" - - Civa hidrürleri ve civa nitrürleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.34.00",
+        "Unnamed: 1":" - - Civa azotürleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.35.00",
+        "Unnamed: 1":" - - Civa silüsürler ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.36.00",
+        "Unnamed: 1":" - - Civa borürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2852.10.00.37.00",
+        "Unnamed: 1":" - - Civalı aminoklorür ",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2852.10.00.38.00",
+        "Unnamed: 1":" - - Civalı organik bileşikler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2852.10.00.99.11",
+        "Unnamed: 1":" - - -  Civa II oksisiyanür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2852.10.00.99.12",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2852.90.00.00.00",
+        "Unnamed: 1":" - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":null,
+        "Unnamed: 1":null,
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2853.00",
+        "Unnamed: 1":"Fosfürler (kimyaca belirli bir yapıda olsun olmasın) (ferro fosfor hariç); ",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"diğer inorganik bileşikler (damıtılmış veya iletkenlik suyu",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"ve benzeri saflıktaki su dahil); sıvı hava (içindeki asal gazlar",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"alınmış olsun olmasın); sıkıştırılmış hava; amalgamlar (kıymetli",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"metallerin amalgamları hariç) :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2853.10.00.00.00",
+        "Unnamed: 1":" - Siyanojen klorür (klorsiyan)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30"
+    },
+    {
+        " ":"2853.90",
+        "Unnamed: 1":" - Diğerleri:",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2853.90.10.00.00",
+        "Unnamed: 1":" - - Damıtılmış  veya iletkenlik suyu ve benzeri saflıktaki su",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30"
+    },
+    {
+        " ":"2853.90.30.00.00",
+        "Unnamed: 1":" - - Sıvı hava (içindeki asal gazlar alınmış olsun olmasın); sıkıştırılmış",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":null,
+        "Unnamed: 1":"    hava",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"15"
+    },
+    {
+        " ":null,
+        "Unnamed: 1":" - - Diğerleri :",
+        "ÖLÇÜ\nBİRİMİ":null,
+        "474\nVERGİ\nHADDİ":null
+    },
+    {
+        " ":"2853.90.90.10.00",
+        "Unnamed: 1":" - - - Kalaylı bakır amalgamları",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":30
+    },
+    {
+        " ":"2853.90.90.30.00",
+        "Unnamed: 1":" - - - Bakır fosfür (ağırlık itibariyle % 15' den fazla fosfor içerenler)",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":50
+    },
+    {
+        " ":"2853.90.90.40.00",
+        "Unnamed: 1":" - - - Saf çinko fosfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":20
+    },
+    {
+        " ":"2853.90.90.50.00",
+        "Unnamed: 1":" - - - Saf olmayan çinko fosfür",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":25
+    },
+    {
+        " ":"2853.90.90.60.00",
+        "Unnamed: 1":" - - - Diğer fosfürler",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":15
+    },
+    {
+        " ":"2853.90.90.90.00",
+        "Unnamed: 1":" - - - Diğerleri",
+        "ÖLÇÜ\nBİRİMİ":"-",
+        "474\nVERGİ\nHADDİ":"30"
+    }
+]
