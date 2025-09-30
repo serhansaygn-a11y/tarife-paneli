@@ -26,12 +26,13 @@
     <div id="sonuclar"><p>Veritabanı yükleniyor, lütfen bekleyin...</p></div>
 
     <script>
-        let tumTarifeVerisi = [];
+        let tumTarifeVerisi = []; // Tüm veriyi bu değişkende tutacağız
 
+        // Sayfa yüklendiğinde büyük veri dosyasını çek
         window.onload = function() {
             fetch('tarife_veritabani.json')
                 .then(response => {
-                    if (!response.ok) { throw new Error('Veritabanı dosyası (tarife_veritabani.json) yüklenemedi. Dosyanın GitHub projenizde olduğundan emin olun.'); }
+                    if (!response.ok) { throw new Error('Veritabanı dosyası (tarife_veritabani.json) yüklenemedi. Dosyanın index.html ile aynı klasörde olduğundan emin olun.'); }
                     return response.json();
                 })
                 .then(data => {
@@ -52,7 +53,7 @@
             const sonuclarDiv = document.getElementById('sonuclar');
             
             if (aramaTerimi.length < 2) {
-                sonuclarDiv.innerHTML = '';
+                sonuclarDiv.innerHTML = ''; // Arama kutusu boşsa sonuçları temizle
                 return;
             }
 
@@ -65,14 +66,18 @@
                 return;
             }
             
-            const sonuclar = ilgiliFasil.pozisyonlar.filter(p => p.gtip && String(p.gtip).startsWith(aramaTerimi));
+            // --- DÜZELTME: GERÇEK SÜTUN ADLARI KULLANILDI ---
+            // Sütun adında boşluk olduğu için p['Pozisyon No'] şeklinde köşeli parantez kullanıyoruz.
+            const sonuclar = ilgiliFasil.pozisyonlar.filter(p => p['Pozisyon No'] && String(p['Pozisyon No']).startsWith(aramaTerimi));
             const fasilNotu = ilgiliFasil.notlar;
 
+            // SONUÇLARI EKRANA YAZDIR
             let htmlCikti = '';
             htmlCikti += `<div class="fasıl-notu"><h3>Fasıl ${fasilNo} Notları</h3><p>${fasilNotu}</p></div>`;
             if (sonuclar.length > 0) {
                 sonuclar.forEach(pozisyon => {
-                    htmlCikti += `<div class="pozisyon"><p><b>GTİP:</b> ${pozisyon.gtip}</p><p><b>Açıklama:</b> ${pozisyon.aciklama}</p></div>`;
+                    // --- DÜZELTME: GERÇEK SÜTUN ADLARI KULLANILDI ---
+                    htmlCikti += `<div class="pozisyon"><p><b>GTİP:</b> ${pozisyon['Pozisyon No']}</p><p><b>Açıklama:</b> ${pozisyon['Eşyanın Tanımı']}</p></div>`;
                 });
             } else {
                 htmlCikti += '<p>Bu fasılda aramanızla eşleşen sonuç bulunamadı.</p>';
