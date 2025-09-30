@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>Gümrük Tarife Arama Motoru</title>
+    <title>Gümrük Tarife Arama Motoru (Her Şey Dahil)</title>
     <style>
         body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f9f9f9; }
         h1 { color: #333; }
@@ -18,34 +18,716 @@
     </style>
 </head>
 <body>
-    <h1>Gümrük Tarife Arama Motoru</h1>
+    <h1>Gümrük Tarife Arama Motoru (Her Şey Dahil)</h1>
     <div id="aramaAlani">
-        <input type="text" id="aramaKutusu" placeholder="Veritabanı yükleniyor..." disabled>
-        <button id="aramaButonu" onclick="aramaYap()" disabled>Ara</button>
+        <input type="text" id="aramaKutusu" placeholder="GTİP Numarası Girin...">
+        <button id="aramaButonu" onclick="aramaYap()">Ara</button>
     </div>
-    <div id="sonuclar"><p>Veritabanı yükleniyor, lütfen bekleyin...</p></div>
+    <div id="sonuclar"><p>Veritabanı hazır. Arama yapabilirsiniz.</p></div>
 
     <script>
-        let tumTarifeVerisi = []; // Tüm veriyi bu değişkende tutacağız
+        // TÜM VERİ DOĞRUDAN BURAYA GÖMÜLDÜ. ARTIK FETCH KOMUTU YOK!
+        const tumTarifeVerisi = [
+    {
+        "fasıl_no": 1,
+        "notlar": "1. Bu fasıla aşağıda yazılı olanların dışında kalan bütün canlı hayvanlar dahildir:\n\n   (a) 03.01, 03.06, 03.07 veya 03.08 pozisyonlarına giren balıklar ve kabuklu hayvanlar, yumuşakçalar ve suda yaşayan diğer omurgasız hayvanlar;\n\n   (b) 30.02 pozisyonuna giren mikroorganizma kültürleri ve diğer ürünler; ve\n\n   (c) 95.08 pozisyonundaki hayvanlar.",
+        "pozisyonlar": [
+            {
+                "Pozisyon No": "01.01",
+                "Eşyanın Tanımı": "Canlı atlar, eşekler, katırlar ve bardolar:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Atlar:"
+            },
+            {
+                "Pozisyon No": "0101.21.00.00.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0101.29",
+                "Eşyanın Tanımı": "- - Diğerleri :"
+            },
+            {
+                "Pozisyon No": "0101.29.10.00.00",
+                "Eşyanın Tanımı": "- - - Kesimlik atlar"
+            },
+            {
+                "Pozisyon No": "0101.29.90.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0101.30",
+                "Eşyanın Tanımı": "- Eşekler:"
+            },
+            {
+                "Pozisyon No": "0101.30.00.10.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0101.30.00.90.00",
+                "Eşyanın Tanımı": "- - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0101.90",
+                "Eşyanın Tanımı": "- Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0101.90.00.10.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0101.90.00.90.00",
+                "Eşyanın Tanımı": "- - Diğerleri"
+            },
+            {
+                "Pozisyon No": "01.02",
+                "Eşyanın Tanımı": "Canlı büyükbaş hayvanlar:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Sığırlar"
+            },
+            {
+                "Pozisyon No": "0102.21",
+                "Eşyanın Tanımı": "- - Damızlıklar :"
+            },
+            {
+                "Pozisyon No": "0102.21.10.00.00",
+                "Eşyanın Tanımı": "- - - Düveler (doğurmamış dişi sığırlar)"
+            },
+            {
+                "Pozisyon No": "0102.21.30.00.00",
+                "Eşyanın Tanımı": "- - - İnekler"
+            },
+            {
+                "Pozisyon No": "0102.21.90.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0102.29",
+                "Eşyanın Tanımı": "- - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0102.29.05.00.00",
+                "Eşyanın Tanımı": "- - - Bibos veya Poephagus alt cinsine ait olanlar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0102.29.10.00.00",
+                "Eşyanın Tanımı": "- - - - Ağırlığı 80 kg. ı geçmeyenler"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - Ağırlığı 80 kg. ı geçen fakat 160 kg. ı geçmeyenler:"
+            },
+            {
+                "Pozisyon No": "0102.29.21.00.00",
+                "Eşyanın Tanımı": "- - - - - Kesimlik olanlar"
+            },
+            {
+                "Pozisyon No": "0102.29.29.00.00",
+                "Eşyanın Tanımı": "- - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - Ağırlığı 160 kg. ı geçen fakat 300 kg. ı geçmeyenler:"
+            },
+            {
+                "Pozisyon No": "0102.29.41.00.00",
+                "Eşyanın Tanımı": "- - - - - Kesimlik olanlar"
+            },
+            {
+                "Pozisyon No": "0102.29.49.00.00",
+                "Eşyanın Tanımı": "- - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - Ağırlığı 300 kg. ı geçenler:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - - Düveler (doğurmamış dişi sığırlar):"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - - - Kesimlik olanlar:"
+            },
+            {
+                "Pozisyon No": "0102.29.51.00.11",
+                "Eşyanın Tanımı": "- - - - - - - Ağırlığı 400 kg. ı geçenler"
+            },
+            {
+                "Pozisyon No": "0102.29.51.00.19",
+                "Eşyanın Tanımı": "- - - - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0102.29.59.00.00",
+                "Eşyanın Tanımı": "- - - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - - İnekler:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - - - Kesimlik olanlar:"
+            },
+            {
+                "Pozisyon No": "0102.29.61.00.11",
+                "Eşyanın Tanımı": "- - - - - - - Ağırlığı 400 kg. ı geçen dişi danalar"
+            },
+            {
+                "Pozisyon No": "0102.29.61.00.19",
+                "Eşyanın Tanımı": "- - - - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0102.29.69.00.00",
+                "Eşyanın Tanımı": "- - - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - - - Kesimlik olanlar:"
+            },
+            {
+                "Pozisyon No": "0102.29.91.00.11",
+                "Eşyanın Tanımı": "- - - - - - - Ağırlığı 400 kg. ı geçen erkek danalar"
+            },
+            {
+                "Pozisyon No": "0102.29.91.00.19",
+                "Eşyanın Tanımı": "- - - - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0102.29.99.00.00",
+                "Eşyanın Tanımı": "- - - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Bufalo:"
+            },
+            {
+                "Pozisyon No": "0102.31.00.00.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0102.39",
+                "Eşyanın Tanımı": "- - Diğerleri :"
+            },
+            {
+                "Pozisyon No": "0102.39.10.00.00",
+                "Eşyanın Tanımı": "- - - Evcil türler"
+            },
+            {
+                "Pozisyon No": "0102.39.90.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0102.90",
+                "Eşyanın Tanımı": "- Diğerleri"
+            },
+            {
+                "Pozisyon No": "0102.90.20.00.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - Diğerleri :"
+            },
+            {
+                "Pozisyon No": "0102.90.91.00.00",
+                "Eşyanın Tanımı": "- - - Evcil türler"
+            },
+            {
+                "Pozisyon No": "0102.90.99.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "01.03",
+                "Eşyanın Tanımı": "Canlı domuzlar:"
+            },
+            {
+                "Pozisyon No": "0103.10",
+                "Eşyanın Tanımı": "- Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0103.10.00.10.00",
+                "Eşyanın Tanımı": "- - Evcil damızlıklar"
+            },
+            {
+                "Pozisyon No": "0103.10.00.90.00",
+                "Eşyanın Tanımı": "- - Diğer damızlıklar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0103.91",
+                "Eşyanın Tanımı": "- - Ağırlığı 50 kg. dan az olanlar:"
+            },
+            {
+                "Pozisyon No": "0103.91.10.00.00",
+                "Eşyanın Tanımı": "- - - Evcil türler"
+            },
+            {
+                "Pozisyon No": "0103.91.90.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0103.92",
+                "Eşyanın Tanımı": "- - Ağırlığı 50 kg. veya daha fazla olanlar:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Evcil türler:"
+            },
+            {
+                "Pozisyon No": "0103.92.11.00.00",
+                "Eşyanın Tanımı": "- - - - Ağırlığı en az 160 kg. olan ve en az bir defa doğurmuş domuzlar"
+            },
+            {
+                "Pozisyon No": "0103.92.19.00.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0103.92.90.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "01.04",
+                "Eşyanın Tanımı": "Canlı koyun ve keçiler:"
+            },
+            {
+                "Pozisyon No": "0104.10",
+                "Eşyanın Tanımı": "- Koyunlar:"
+            },
+            {
+                "Pozisyon No": "0104.10.10.00.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0104.10.30.00.00",
+                "Eşyanın Tanımı": "- - - Kuzular (1 yaşında veya daha küçük)"
+            },
+            {
+                "Pozisyon No": "0104.10.80.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0104.20",
+                "Eşyanın Tanımı": "- Keçiler:"
+            },
+            {
+                "Pozisyon No": "0104.20.10.00.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0104.20.90.00.13",
+                "Eşyanın Tanımı": "- - - Oğlaklar"
+            },
+            {
+                "Pozisyon No": "0104.20.90.00.18",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "01.05",
+                "Eşyanın Tanımı": "Canlı kümes hayvanları [horozlar, tavuklar (`Gallus Domesticus` türü) ördekler, kazlar, hindiler ve beç tavukları gibi evcil türler]:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Ağırlığı 185gr. ı geçmeyenler:"
+            },
+            {
+                "Pozisyon No": "0105.11",
+                "Eşyanın Tanımı": "- - Horozlar ve tavuklar (`Gallus Domesticus` türü):"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Büyük ebeveyn ve ebeveyn dişi civcivler :"
+            },
+            {
+                "Pozisyon No": "0105.11.11.00.00",
+                "Eşyanın Tanımı": "- - - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0105.11.19.00.11",
+                "Eşyanın Tanımı": "- - - - - Etlik"
+            },
+            {
+                "Pozisyon No": "0105.11.19.00.12",
+                "Eşyanın Tanımı": "- - - - - Yumurtacı"
+            },
+            {
+                "Pozisyon No": "0105.11.19.00.19",
+                "Eşyanın Tanımı": "- - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.11.91.00.11",
+                "Eşyanın Tanımı": "- - - - - Etlik ebeveyn"
+            },
+            {
+                "Pozisyon No": "0105.11.91.00.12",
+                "Eşyanın Tanımı": "- - - - - Yumurtacı ebeveyn"
+            },
+            {
+                "Pozisyon No": "0105.11.91.00.19",
+                "Eşyanın Tanımı": "- - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0105.11.99.00.11",
+                "Eşyanın Tanımı": "- - - - - Etlik"
+            },
+            {
+                "Pozisyon No": "0105.11.99.00.12",
+                "Eşyanın Tanımı": "- - - - - Yumurtacı"
+            },
+            {
+                "Pozisyon No": "0105.11.99.00.19",
+                "Eşyanın Tanımı": "- - - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0105.12",
+                "Eşyanın Tanımı": "- - Hindiler:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.12.00.10.11",
+                "Eşyanın Tanımı": "- - - - Hindi civcivi"
+            },
+            {
+                "Pozisyon No": "0105.12.00.10.19",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0105.12.00.90.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0105.13.00.00.00",
+                "Eşyanın Tanımı": "- - Ördekler"
+            },
+            {
+                "Pozisyon No": "0105.14",
+                "Eşyanın Tanımı": "- - Kazlar"
+            },
+            {
+                "Pozisyon No": "0105.14.00.00.11",
+                "Eşyanın Tanımı": "- - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.14.00.00.12",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0105.15",
+                "Eşyanın Tanımı": "- - Beç tavukları"
+            },
+            {
+                "Pozisyon No": "0105.15.00.00.11",
+                "Eşyanın Tanımı": "- - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.15.00.00.12",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Diğerleri"
+            },
+            {
+                "Pozisyon No": "0105.94",
+                "Eşyanın Tanımı": "- - Tavuklar ve horozlar (Gallus Domesticus türü);"
+            },
+            {
+                "Pozisyon No": "0105.94.00.10.00",
+                "Eşyanın Tanımı": "- - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0105.94.00.90.11",
+                "Eşyanın Tanımı": "- - - - Etlik"
+            },
+            {
+                "Pozisyon No": "0105.94.00.90.12",
+                "Eşyanın Tanımı": "- - - - Yumurtacı"
+            },
+            {
+                "Pozisyon No": "0105.94.00.90.19",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0105.99",
+                "Eşyanın Tanımı": "- - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Ördekler:"
+            },
+            {
+                "Pozisyon No": "0105.99.10.10.00",
+                "Eşyanın Tanımı": "- - - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.99.10.90.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Kazlar:"
+            },
+            {
+                "Pozisyon No": "0105.99.20.10.00",
+                "Eşyanın Tanımı": "- - - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.99.20.90.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Hindiler:"
+            },
+            {
+                "Pozisyon No": "0105.99.30.10.00",
+                "Eşyanın Tanımı": "- - - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.99.30.90.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Beç tavukları:"
+            },
+            {
+                "Pozisyon No": "0105.99.50.10.00",
+                "Eşyanın Tanımı": "- - - - Damızlık olanlar"
+            },
+            {
+                "Pozisyon No": "0105.99.50.90.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "01.06",
+                "Eşyanın Tanımı": "Canlı diğer hayvanlar:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Memeliler:"
+            },
+            {
+                "Pozisyon No": "0106.11.00.00.00",
+                "Eşyanın Tanımı": "- - Maymunlar (Primatlar )"
+            },
+            {
+                "Pozisyon No": "0106.12.00.00.00",
+                "Eşyanın Tanımı": "- - Balinalar, yunus balıkları ve domuzbalıkları (Cetacea takımından memeliler ); manati-deniz güzeli ve deniz inekleri (Sirenia takımından memeliler ); fok, deniz aslanı ve deniz aygırları (Pinnipedia alt takımından memeliler ):"
+            },
+            {
+                "Pozisyon No": "0106.13.00.00.00",
+                "Eşyanın Tanımı": "- - Develer ve diğer devegillerden olanlar (Camelidae )"
+            },
+            {
+                "Pozisyon No": "0106.14",
+                "Eşyanın Tanımı": "- - Tavşanlar veya yabani tavşanlar:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Evcil tavşanlar:"
+            },
+            {
+                "Pozisyon No": "0106.14.10.10.00",
+                "Eşyanın Tanımı": "- - - - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0106.14.10.90.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0106.14.90.00.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0106.19",
+                "Eşyanın Tanımı": "- - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0106.19.00.10.00",
+                "Eşyanın Tanımı": "- - - Kobaylar, fareler"
+            },
+            {
+                "Pozisyon No": "0106.19.00.90.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0106.20",
+                "Eşyanın Tanımı": "- Sürüngenler (yılanlar ve kaplumbağalar dahil ):"
+            },
+            {
+                "Pozisyon No": "0106.20.00.00.11",
+                "Eşyanın Tanımı": "- - Süs kaplumbağası (akvaryum için )"
+            },
+            {
+                "Pozisyon No": "0106.20.00.00.19",
+                "Eşyanın Tanımı": "- - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Kuşlar:"
+            },
+            {
+                "Pozisyon No": "0106.31.00.00.00",
+                "Eşyanın Tanımı": "- - Yırtıcı kuşlar"
+            },
+            {
+                "Pozisyon No": "0106.32.00.00.00",
+                "Eşyanın Tanımı": "- - Papağanımsılar (papağanlar, muhabbetkuşları, makaolar ve kakadular dahil )"
+            },
+            {
+                "Pozisyon No": "0106.33",
+                "Eşyanın Tanımı": "- - Devekuşları ; emular (Dromaius novaehollandiae ):"
+            },
+            {
+                "Pozisyon No": "0106.33.00.10.00",
+                "Eşyanın Tanımı": "- - - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0106.33.00.90.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0106.39",
+                "Eşyanın Tanımı": "- - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Güvercinler:"
+            },
+            {
+                "Pozisyon No": "0106.39.10.10.00",
+                "Eşyanın Tanımı": "- - - - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0106.39.10.90.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0106.39.80.10.00",
+                "Eşyanın Tanımı": "- - - - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0106.39.80.90.00",
+                "Eşyanın Tanımı": "- - - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- Böcekler"
+            },
+            {
+                "Pozisyon No": "0106.41",
+                "Eşyanın Tanımı": "- - Arılar:"
+            },
+            {
+                "Pozisyon No": "0106.41.00.10.00",
+                "Eşyanın Tanımı": "- - - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "0106.41.00.90.00",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0106.49",
+                "Eşyanın Tanımı": "- - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0106.49.00.00.11",
+                "Eşyanın Tanımı": "- - - Biyolojik mücadelede kullanılan parazit ve predatörler"
+            },
+            {
+                "Pozisyon No": "0106.49.00.00.12",
+                "Eşyanın Tanımı": "- - - Kurbağalar"
+            },
+            {
+                "Pozisyon No": "0106.49.00.00.19",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            },
+            {
+                "Pozisyon No": "0106.90",
+                "Eşyanın Tanımı": "- Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0106.90.00.10.00",
+                "Eşyanın Tanımı": "- - Damızlıklar"
+            },
+            {
+                "Pozisyon No": "",
+                "Eşyanın Tanımı": "- - Diğerleri:"
+            },
+            {
+                "Pozisyon No": "0106.90.00.90.11",
+                "Eşyanın Tanımı": "- - - Kurbağalar"
+            },
+            {
+                "Pozisyon No": "0106.90.00.90.12",
+                "Eşyanın Tanımı": "- - - Biyolojik mücadelede kullanılan parazit ve predatörler"
+            },
+            {
+                "Pozisyon No": "0106.90.00.90.19",
+                "Eşyanın Tanımı": "- - - Diğerleri"
+            }
+        ]
+    }
+]
+        ];
 
-        // Sayfa yüklendiğinde büyük veri dosyasını çek
+        // VERİ YÜKLENDİĞİ İÇİN SAYFA AÇILIR AÇILMAZ HAZIR
         window.onload = function() {
-            fetch('tarife_veritabani.json')
-                .then(response => {
-                    if (!response.ok) { throw new Error('Veritabanı dosyası (tarife_veritabani.json) yüklenemedi. Dosyanın index.html ile aynı klasörde olduğundan emin olun.'); }
-                    return response.json();
-                })
-                .then(data => {
-                    tumTarifeVerisi = data;
-                    document.getElementById('sonuclar').innerHTML = '<p>Veritabanı yüklendi. Arama yapabilirsiniz.</p>';
-                    const aramaKutusu = document.getElementById('aramaKutusu');
-                    aramaKutusu.disabled = false;
-                    aramaKutusu.placeholder = 'GTİP Numarası Girin...';
-                    document.getElementById('aramaButonu').disabled = false;
-                })
-                .catch(error => {
-                    document.getElementById('sonuclar').innerHTML = `<p class="hata">Hata: ${error.message}</p>`;
-                });
+            const aramaKutusu = document.getElementById('aramaKutusu');
+            aramaKutusu.disabled = false;
+            aramaKutusu.placeholder = 'GTİP Numarası Girin...';
+            document.getElementById('aramaButonu').disabled = false;
+            document.getElementById('sonuclar').innerHTML = '<p>Veritabanı hazır. Arama yapabilirsiniz.</p>';
         };
 
         function aramaYap() {
@@ -53,7 +735,7 @@
             const sonuclarDiv = document.getElementById('sonuclar');
             
             if (aramaTerimi.length < 2) {
-                sonuclarDiv.innerHTML = ''; // Arama kutusu boşsa sonuçları temizle
+                sonuclarDiv.innerHTML = '';
                 return;
             }
 
@@ -66,17 +748,14 @@
                 return;
             }
             
-            // --- DÜZELTME: GERÇEK SÜTUN ADLARI KULLANILDI ---
-            // Sütun adında boşluk olduğu için p['Pozisyon No'] şeklinde köşeli parantez kullanıyoruz.
+            // Gerçek sütun adları: "Pozisyon No" ve "Eşyanın Tanımı"
             const sonuclar = ilgiliFasil.pozisyonlar.filter(p => p['Pozisyon No'] && String(p['Pozisyon No']).startsWith(aramaTerimi));
             const fasilNotu = ilgiliFasil.notlar;
 
-            // SONUÇLARI EKRANA YAZDIR
             let htmlCikti = '';
             htmlCikti += `<div class="fasıl-notu"><h3>Fasıl ${fasilNo} Notları</h3><p>${fasilNotu}</p></div>`;
             if (sonuclar.length > 0) {
                 sonuclar.forEach(pozisyon => {
-                    // --- DÜZELTME: GERÇEK SÜTUN ADLARI KULLANILDI ---
                     htmlCikti += `<div class="pozisyon"><p><b>GTİP:</b> ${pozisyon['Pozisyon No']}</p><p><b>Açıklama:</b> ${pozisyon['Eşyanın Tanımı']}</p></div>`;
                 });
             } else {
