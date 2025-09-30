@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Gümrük Tarife Arama Motoru</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f9f9f9; }
+        h1 { color: #333; }
+        #aramaAlani { display: flex; gap: 10px; margin-bottom: 20px; }
+        #aramaKutusu { flex-grow: 1; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 4px; }
+        button { padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:disabled { background-color: #aaa; cursor: not-allowed; }
+        #sonuclar { margin-top: 20px; padding: 15px; background-color: white; border: 1px solid #ddd; border-radius: 4px; min-height: 50px; }
+        .fasıl-notu { background-color: #eef; padding: 10px; border-radius: 4px; margin-bottom: 15px; }
+        .pozisyon { border-bottom: 1px solid #eee; padding-bottom: 10px; margin-bottom: 10px; }
+        .pozisyon:last-child { border-bottom: none; }
+        .hata { color: red; }
+    </style>
+</head>
+<body>
+    <h1>Gümrük Tarife Arama Motoru</h1>
+    <div id="aramaAlani">
+        <input type="text" id="aramaKutusu" placeholder="Veritabanı yükleniyor..." disabled>
+        <button id="aramaButonu" onclick="aramaYap()" disabled>Ara</button>
+    </div>
+    <div id="sonuclar"><p>Veritabanı yükleniyor, lütfen bekleyin...</p></div>
+
+    <script>
+        let tumTarifeVerisi = [];
+
+        window.onload = function() {
+            fetch('tarife_veritabani.json')
+                .then(response => {
+                    if (!response.ok) { throw new Error('Veritabanı dosyası (tarife_veritabani.json) yüklenemedi. Dosyanın GitHub projenizde olduğundan emin olun.'); }
+                    return response.json();
+                })
+                .then(data => {
+                    tumTarifeVerisi = data;
+                    document.getElementById('sonuclar').innerHTML = '<p>Veritabanı yüklendi. Arama yapabilirsiniz.</p>';
+                    const aramaKutusu = document.getElementById('aramaKutusu');
+                    aramaKutusu.disabled = false;
+                    aramaKutusu.placeholder = 'GTİP Numarası Girin...';
+                    document.getElementById('aramaButonu').disabled = false;
+                })
+                .catch(error => {
+                    document.getElementById('sonuclar').innerHTML = `<p class="hata">Hata: ${error.message}</p>`;
+                });
+        };
+
+        function aramaYap() {
+            const aramaTerimi = document.getElementById('aramaKutusu').value;
+            const sonuclarDiv = document.getElementById('sonuclar');
+            
+            if (aramaTerimi.length < 2) {
+                sonuclarDiv.innerHTML = '';
+                return;
+            }
+
+            const fasilNo = parseInt(aramaTerimi.substring(0, 2), 10);
+            
+            const ilgiliFasil = tumTarifeVerisi.find(fasil => fasil.fasıl_no === fasilNo);
+
+            if (!ilgiliFasil) {
+                sonuclarDiv.innerHTML = '<p>Bu fasıla ait veri bulunamadı.</p>';
+                return;
+            }
+            
+            const sonuclar = ilgiliFasil.pozisyonlar.filter(p => p.gtip && String(p.gtip).startsWith(aramaTerimi));
+            const fasilNotu = ilgiliFasil.notlar;
+
+            let htmlCikti = '';
+            htmlCikti += `<div class="fasıl-notu"><h3>Fasıl ${fasilNo} Notları</h3><p>${fasilNotu}</p></div>`;
+            if (sonuclar.length > 0) {
+                sonuclar.forEach(pozisyon => {
+                    htmlCikti += `<div class="pozisyon"><p><b>GTİP:</b> ${pozisyon.gtip}</p><p><b>Açıklama:</b> ${pozisyon.aciklama}</p></div>`;
+                });
+            } else {
+                htmlCikti += '<p>Bu fasılda aramanızla eşleşen sonuç bulunamadı.</p>';
+            }
+            sonuclarDiv.innerHTML = htmlCikti;
+        }
+    </script>
+</body>
+</html>
