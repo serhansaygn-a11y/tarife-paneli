@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gümrük Tarife Arama Motoru</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f9f9f9; }
+        h1 { color: #333; }
+        #aramaAlani { display: flex; gap: 10px; margin-bottom: 20px; }
+        #aramaKutusu { flex-grow: 1; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 4px; }
+        button { padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background-color: #0056b3; }
+        #sonuclar { margin-top: 20px; padding: 15px; background-color: white; border: 1px solid #ddd; border-radius: 4px; }
+        .fasıl-notu { background-color: #eef; padding: 10px; border-radius: 4px; margin-bottom: 15px; }
+        .pozisyon { border-bottom: 1px solid #eee; padding-bottom: 10px; margin-bottom: 10px; }
+        .pozisyon:last-child { border-bottom: none; }
+        .hata { color: red; }
+    </style>
+</head>
+<body>
+
+    <h1>Gümrük Tarife Arama Motoru</h1>
+    
+    <div id="aramaAlani">
+        <input type="text" id="aramaKutusu" placeholder="GTİP Numarası Girin (Örn: 0101 veya 8703)...">
+        <button onclick="aramaYap()">Ara</button>
+    </div>
+
+    <div id="sonuclar">
+        Arama sonuçları burada görünecektir.
+    </div>
+
+    <script>
+        const githubBaseURL = 'https://raw.githubusercontent.com/serhansaygn-a11y/tarife-paneli-data/main/';
+
+        async function aramaYap() {
+            const aramaTerimi = document.getElementById('aramaKutusu').value;
+            const sonuclarDiv = document.getElementById('sonuclar');
+            sonuclarDiv.innerHTML = 'Aranıyor...';
+
+            if (aramaTerimi.length < 2) {
+                sonuclarDiv.innerHTML = '<p class="hata">Lütfen en az 2 karakter girin.</p>';
+                return;
+            }
+
+            const fasilNo = aramaTerimi.substring(0, 2);
+            
+            // Kural 1: Pozisyon dosyası adı (test ile kanıtlandı): "01 fasil 2024.json"
+            const pozisyonDosyaAdi = `${fasilNo} fasil 2024.json`;
+
+            // Kural 2: Not dosyası adı (test ile kanıtlandı): "Fasıl 1.json"
+            const fasilNumarasi = Number(fasilNo);
+            const notDosyaAdi = `Fasıl ${fasilNumarasi}.json`;
+
+            // URL'leri kanıtlanmış klasör ve dosya adlarına göre oluştur
+            const pozisyonDosyaURL = `${githubBaseURL}pozisyonlar/${pozisyonDosyaAdi}`;
+            const notDosyaURL = `${githubBaseURL}fasil-notlari/${notDosyaAdi}`;
+            
+            try {
+                const [pozisyonResponse, notResponse] = await Promise.all([
+                    fetch(pozisyonDosyaURL),
+                    fetch(notDosyaURL)
+                ]);
+
+                if (!pozisyonResponse.ok || !notResponse.ok) {
+                    if(!pozisyonResponse.ok) console.error("Bulunamayan dosya:", pozisyonDosyaURL);
+                    if(!notResponse.ok) console.error("Bulunamayan dosya:", notDosyaURL);
+                    throw new Error('Tarife pozisyonu veya fasıl notu dosyası bulunamadı. Lütfen GitHub dosya adlarınızı kontrol edin.');
+                }
+
+                const fasilVerisi = await pozisyonResponse.json();
+                const notVerisi = await notResponse.json();
+                
+                const sonuclar = fasilVerisi.pozisyonlar.filter(p => p.gtip.startsWith(aramaTerimi));
+                const fasilNotu = notVerisi.notlar;
+
+                let htmlCikti = '';
+                htmlCikti += `<div class="fasıl-notu"><h3>Fasıl ${fasilNumarasi} Notları</h3><p>${fasilNotu}</p></div>`;
+
+                if (sonuclar.length > 0) {
+                    sonuclar.forEach(pozisyon => {
+                        htmlCikti += `
+                            <div class="pozisyon">
+                                <p><b>GTİP:</b> ${pozisyon.gtip}</p>
+                                <p><b>Açıklama:</b> ${pozisyon.aciklama}</p>
+                            </div>
+                        `;
+                    });
+                } else {
+                    htmlCikti += '<p>Bu fasılda aramanızla eşleşen sonuç bulunamadı.</p>';
+                }
+                sonuclarDiv.innerHTML = htmlCikti;
+
+            } catch (error) {
+                sonuclarDiv.innerHTML = `<p class="hata">Bir hata oluştu: ${error.message}</p>`;
+            }
+        }
+    </script>
+
+</body>
+</html>
