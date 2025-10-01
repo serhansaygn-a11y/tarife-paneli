@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Gümrük – Hızlı Erişim Paneli</title>
+<style>
+  :root {
+    --bg: radial-gradient(circle at 20% 20%, #0d1117 0%, #000 100%);
+    --card: rgba(255,255,255,0.08);
+    --accent: #00f6d2;
+    --accent-glow: 0 0 15px rgba(0,246,210,.6);
+    --text: #e2e8f0;
+    --muted: #8b9cb3;
+  }
+  [data-theme="light"] {
+    --bg: radial-gradient(circle at 30% 30%, #e0f7ff 0%, #b5d5ff 100%);
+    --card: rgba(255,255,255,0.55);
+    --accent: #008f8a;
+    --accent-glow: 0 0 15px rgba(0,143,138,.4);
+    --text: #1e293b;
+    --muted: #475569;
+  }
+
+  * { box-sizing:border-box; font-family: 'Segoe UI', Inter, system-ui, sans-serif; }
+  body {
+    margin:0;
+    min-height:100vh;
+    background:var(--bg);
+    color:var(--text);
+    display:flex;
+    justify-content:center;
+    padding:28px;
+  }
+  .app {
+    width:100%;
+    max-width:1200px;
+    backdrop-filter:blur(30px);
+  }
+
+  header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:20px;
+    flex-wrap:wrap;
+    padding:20px;
+    border-radius:18px;
+    background:var(--card);
+    box-shadow: var(--accent-glow);
+    margin-bottom:24px;
+  }
+
+  .header-left {
+    display:flex;
+    gap:12px;
+    align-items:center;
+    flex-wrap:wrap;
+  }
+  .header-left img {
+    height:70px;
+    border-radius:14px;
+    box-shadow:0 0 12px rgba(0,0,0,.5);
+  }
+
+  .header-center {
+    text-align:center;
+    flex:1;
+  }
+  .header-center h1 {
+    margin:0;
+    font-size:24px;
+    color:var(--accent);
+    text-shadow: var(--accent-glow);
+  }
+  .header-center p {
+    margin:4px 0 0;
+    font-size:14px;
+    color:var(--muted);
+  }
+
+  .header-right {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:10px;
+  }
+  .right-images {
+    display:flex;
+    gap:12px;
+    align-items:center;
+  }
+  .right-images img {
+    height:70px;
+    border-radius:14px;
+    box-shadow:0 0 12px rgba(0,0,0,.5);
+  }
+  .datetime {
+    font-weight:600;
+    color:var(--accent);
+    text-shadow: var(--accent-glow);
+    font-size:15px;
+    text-align:center;
+  }
+
+  .main-container {
+    display:flex;
+    gap:24px;
+  }
+  .tabs {
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    min-width:220px;
+  }
+  .tab-button {
+    padding:12px 18px;
+    border:none;
+    border-radius:12px;
+    background:var(--card);
+    color:var(--muted);
+    font-weight:600;
+    cursor:pointer;
+    transition:all .25s ease;
+    text-align:left;
+  }
+  .tab-button:hover {
+    color:var(--accent);
+    box-shadow: var(--accent-glow);
+    transform:translateX(4px);
+  }
+  .tab-button.active {
+    background:var(--accent);
+    color:#001;
+    box-shadow: var(--accent-glow);
+  }
+  .tab-content {
+    display:none;
+    flex:1;
+    padding:20px;
+    border-radius:16px;
+    background:var(--card);
+    backdrop-filter:blur(18px);
+    box-shadow:0 0 20px rgba(0,0,0,.4);
+    animation: fade .4s ease-in-out;
+  }
+  .tab-content.active { display:block; }
+  @keyframes fade { from{opacity:0; transform:translateY(10px);} to{opacity:1; transform:translateY(0);} }
+  
+  .link-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+    gap:16px;margin-top:20px;
+  }
+  .link-card{
+    background:var(--card);
+    border-radius:12px;
+    padding:18px;
+    text-decoration:none;
+    color:white;
+    box-shadow:0 0 12px rgba(0,0,0,0.4);
+    backdrop-filter:blur(10px);
+    transition:transform 0.25s, box-shadow 0.25s;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  .link-card:hover{
+    transform:translateY(-4px) scale(1.02);
+    box-shadow:0 0 20px var(--accent);
+  }
+  .link-card h3{margin:0 0 6px;font-size:17px;color:var(--accent);}
+  .link-card p{margin:0;font-size:13px;color:var(--muted)}
+  .link-card img {
+    width: 40px;
+    height: 30px;
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  }
+
+  .sub-menu {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-width:220px;
+  }
+  .sub-menu-content {
+      flex: 1;
+      padding-left: 20px;
+  }
+  .sub-tab-content { display: none; }
+  .sub-tab-content.active { display: block; }
+  .sub-tab-content .content-wrapper { animation: fade .4s ease-in-out; }
+  
+  .flowchart-img {
+      max-width: 100%;
+      height: auto;
+      cursor: pointer;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+      margin-top: 20px;
+  }
+  .modal {
+      display: none; position: fixed; z-index: 100; left: 0; top: 0;
+      width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9); padding-top: 20px; 
+  }
+  .modal-content {
+      margin: auto; display: block; width: 95%; max-width: 1200px; max-height: 95vh; 
+  }
+  .modal-content img {
+      width: auto; height: auto; max-width: 100%; max-height: 90vh; display: block; margin: 0 auto; 
+  }
+  .close {
+      position: fixed; top: 15px; right: 35px; color: #f1f1f1; font-size: 40px;
+      font-weight: bold; transition: 0.3s; cursor: pointer;
+  }
+  .close:hover, .close:focus { color: #bbb; text-decoration: none; }
+  
+  .martyrs-container { display: flex; flex-direction: column; gap: 12px; padding-top: 10px; }
+  .martyr-link {
+      display: block; padding: 12px 18px; background: rgba(255, 0, 0, 0.1); 
+      color: var(--text); font-weight: 600; border-radius: 8px; text-decoration: none;
+      transition: all 0.2s; border: 1px solid rgba(255, 0, 0, 0.3);
+  }
+  .martyr-link:hover {
+      background: rgba(255, 0, 0, 0.25); color: #fff;
+      box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); transform: translateX(3px);
+  }
+
+  footer {
+    margin-top:30px; display:flex; justify-content:space-between; align-items:center;
+    font-size:14px; color:var(--muted); flex-wrap:wrap; gap:10px;
+  }
+  footer .sig { font-weight:700; }
+
+  @media(max-width:900px){
+    .main-container{flex-direction:column;}
+    .tabs{flex-direction:row;overflow-x:auto;}
+    .tab-button{flex:1;min-width:150px;text-align:center;}
+    .header-right{align-items:flex-end;}
+  }
+</style>
+</head>
+<body data-theme="dark">
+  <div class="app">
+    <header>
+      <div class="header-left">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türk Bayrağı">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_Customs_Administration_of_Turkey.svg" alt="Gümrük Bayrağı">
+      </div>
+      <div class="header-center">
+        <h1>Gümrük Hızlı Erişim Paneli</h1>
+        <p>Gümrük işlemleri için modern kaynak</p>
+      </div>
+      <div class="header-right">
+        <div class="right-images">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/T.C._G%C3%9CMR%C3%9CKLER%C4%B0_TURKISH_CUSTOMS..png" alt="Gümrük İdareleri Logosu">
+          <img src="https://i.pinimg.com/1200x/b7/3f/34/b73f34bfd2705436fb27183f5ad3d665.jpg" alt="Mustafa Kemal Atatürk">
+        </div>
+        <div class="datetime" id="datetime"></div>
+      </div>
+    </header>
+
+    <div class="main-container">
+      <nav class="tabs">
+        <button class="tab-button active" data-tab="links">Ana Sayfa</button>
+        <button class="tab-button" data-tab="sehitlerimiz">Şehitlerimiz</button>
+        <button class="tab-button" data-tab="mevzuat">Mevzuat</button>
+        <button class="tab-button" data-tab="personel">Personel</button>
+        <button class="tab-button" data-tab="transit">Transit</button>
+        <button class="tab-button" data-tab="mense_kontrol">Menşe Kontrol</button>
+        <button class="tab-button" data-tab="tasit_yolcu">Taşıt-Yolcu</button>
+        <button class="tab-button" data-tab="tarife_arama">Tarife Arama</button>
+      </nav>
+
+      <section class="tab-content active" id="links">
+        <h2>Bağlantılar</h2>
+        <p>Gümrük işlemlerinde sık kullanılan sayfalara hızlı erişim buradan sağlanır.</p>
+      </section>
+      
+      <section class="tab-content" id="sehitlerimiz">
+        <div id="sehitlerimiz-content-area" class="main-container">
+          <nav class="sub-menu">
+            <h2>Gümrük Teşkilatı Şehitlerimiz</h2>
+            <p style="color: var(--muted); margin-top: -10px;">Aziz hatıraları saygıyla anıyoruz.</p>
+            <div class="martyrs-container">
+              <a href="#" data-martyr="yarmoglu" class="martyr-link">Şehit Ahmet Serkan YARIMOĞLU</a>
+              <a href="#" data-martyr="turan" class="martyr-link">Şehit Ramazan TURAN</a>
+              <a href="#" data-martyr="kavastan" class="martyr-link">Şehit Özgür KAVASTAN</a>
+              <a href="#" data-martyr="turk" class="martyr-link">Şehit Mustafa TÜRK</a>
+              <a href="#" data-martyr="sakaoglu" class="martyr-link">Şehit Umut SAKAOĞLU</a>
+            </div>
+          </nav>
+          <div class="sub-menu-content" id="martyr-detail-content">
+            <h2 style="color: var(--muted);">Fotoğraf Önizleme</h2>
+            <p style="color: var(--muted);">Lütfen sol menüden bir şehidimizin ismine tıklayınız.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="tab-content" id="mevzuat">
+        </section>
+
+      <section class="tab-content" id="personel">
+        </section>
+      
+      <section class="tab-content" id="transit">
+        </section>
+      
+      <section class="tab-content" id="mense_kontrol">
+        </section>
+      
+      <section class="tab-content" id="tasit_yolcu">
+        </section>
+
+      <section class="tab-content" id="tarife_arama">
+        <h2>Gümrük Tarife Arama Motoru</h2>
+        <div id="tarife_arama_alani" style="margin-bottom: 20px;">
+            <input type="text" id="tarifeAramaInput" onkeyup="tarifeCanliArama()" placeholder="Veritabanı yükleniyor..." style="width: 100%; padding: 12px; font-size: 16px; border: 1px solid var(--muted); border-radius: 8px; background: rgba(0,0,0,0.2); color: var(--text);" disabled>
+        </div>
+        <div id="tarifeSonuclar"><p>Veritabanı yükleniyor, lütfen bekleyin...</p></div>
+      </section>
+
+    </div>
+
+    <footer>
+      <div class="sig"><a href="https://www.linkedin.com/in/serhansaygin/" target="_blank" style="color: var(--muted); text-decoration: none;">Serhan SAYGIN — Gümrük Memuru</a></div>
+      <div>Oluşturuldu: <span id="created"></span></div>
+    </footer>
+  </div>
+
+<div id="imageModal" class="modal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img class="modal-content" id="modalImage">
+</div>
+
+<script>
+  // Mevcut panelinizin JavaScript kodları
+  const created = new Date().toLocaleDateString('tr-TR',{year:'numeric',month:'long',day:'numeric'});
+  document.getElementById('created').textContent = created;
+
+  function updateDateTime(){
+    const now = new Date();
+    const opts = {weekday:'long', year:'numeric', month:'long', day:'numeric', hour:'2-digit', minute:'2-digit', second:'2-digit'};
+    document.getElementById('datetime').textContent = now.toLocaleDateString('tr-TR',opts);
+  }
+  setInterval(updateDateTime,1000); updateDateTime();
+
+  const martyrImages = {
+      yarmoglu: 'https://i.imgur.com/HxfRgwP_d.webp?maxwidth=760&fidelity=grand',
+      turan: 'https://i.imgur.com/dGvKbRY_d.webp?maxwidth=760&fidelity=grand',
+      kavastan: 'https://i.imgur.com/QjzhFdd_d.webp?maxwidth=760&fidelity=grand',
+      turk: 'https://i.imgur.com/YbRWnSw_d.webp?maxwidth=760&fidelity=grand',
+      sakaoglu: 'https://i.imgur.com/YxRCH3g_d.webp?maxwidth=760&fidelity=grand'
+  };
+  
+  document.querySelectorAll('.tabs .tab-button').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      document.querySelectorAll('.tabs .tab-button').forEach(b=>b.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c=>c.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById(btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  document.querySelectorAll('.sub-menu .tab-button').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      document.querySelectorAll('.sub-menu .tab-button').forEach(b=>b.classList.remove('active'));
+      document.querySelectorAll('.sub-tab-content').forEach(c=>c.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById(btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  document.getElementById('sehitlerimiz-content-area').addEventListener('click', e => {
+      const martyrLink = e.target.closest('.martyr-link');
+      if (martyrLink && martyrLink.dataset.martyr) {
+          e.preventDefault();
+          const martyrKey = martyrLink.dataset.martyr;
+          document.getElementById('martyr-detail-content').innerHTML = `
+            <h2>Şehit Detay</h2>
+            <p>Şehidimiz <strong>${martyrLink.textContent}</strong>'in aziz hatırasını saygıyla anıyoruz.</p>
+            <img src="${martyrImages[martyrKey]}" alt="${martyrLink.textContent} Fotoğrafı" class="flowchart-img" onclick="showModal(this.src)">
+          `;
+      }
+  });
+
+  function showModal(src) {
+    const modal = document.getElementById('imageModal');
+    const modalImage = document.getElementById('modalImage');
+    modal.style.display = 'block';
+    modalImage.src = src;
+  }
+
+  function closeModal() {
+    const modal = document.getElementById('imageModal');
+    modal.style.display = 'none';
+  }
+
+  window.onclick = function(event) {
+    const modal = document.getElementById('imageModal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+</script>
+
+<style>
+    #tarifeSonuclar .fasıl-notu { background-color: rgba(0, 246, 210, 0.1); padding: 15px; border-radius: 4px; margin-bottom: 20px; border-left: 4px solid var(--accent); white-space: pre-wrap; }
+    #tarifeSonuclar .pozisyon-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    #tarifeSonuclar .pozisyon-table th, #tarifeSonuclar .pozisyon-table td { border: 1px solid var(--card); padding: 10px; text-align: left; }
+    #tarifeSonuclar .pozisyon-table th { background-color: var(--card); }
+    #tarifeSonuclar .hata { color: #ff5555; }
+</style>
+
+<script>
+    let tarife_allData = {};
+    let tarife_fasillar = [];
+
+    function initTarifeMotoru() {
+      if (tarife_fasillar.length > 0) return;
+
+      const sonuclarDiv = document.getElementById('tarifeSonuclar');
+      sonuclarDiv.innerHTML = '<p>Veritabanı GitHub\'dan yükleniyor, lütfen bekleyin...</p>';
+      
+      fetch('https://raw.githubusercontent.com/serhansaygn-a11y/tarife-paneli/main/tarife_veritabani.json')
+        .then(response => {
+          if (!response.ok) throw new Error('GitHub\'dan tarife_veritabani.json dosyası yüklenemedi. Linki veya dosya adını kontrol edin.');
+          return response.json();
+        })
+        .then(data => {
+          tarife_allData = data;
+          tarife_fasillar = data.fasillar;
+          const searchInput = document.getElementById('tarifeAramaInput');
+          searchInput.disabled = false;
+          searchInput.placeholder = 'GTİP veya kelime ile arayın...';
+          sonuclarDiv.innerHTML = '<p>Veritabanı yüklendi. Arama yapabilirsiniz.</p>';
+        })
+        .catch(error => {
+          sonuclarDiv.innerHTML = `<p class="hata">Hata: ${error.message}</p>`;
+        });
+    }
+
+    function tarifeCanliArama() {
+      if (!tarife_fasillar || tarife_fasillar.length === 0) return;
+      const term = document.getElementById('tarifeAramaInput').value;
+      
+      if (term.length < 2) {
+        document.getElementById('tarifeSonuclar').innerHTML = '';
+        return;
+      }
+      
+      if (/^[0-9.]+$/.test(term)) {
+        tarifeGtipIleAra(term);
+      } else if (term.length >= 3) {
+        tarifeKelimeIleAra(term);
+      }
+    }
+
+    function tarifeGtipIleAra(term) {
+        const fasilNo = parseInt(term.substring(0, 2), 10);
+        const ilgiliFasil = tarife_fasillar.find(f => f.fasıl_no === fasilNo);
+        if (!ilgiliFasil) { document.getElementById('tarifeSonuclar').innerHTML = '<p>Bu fasıla ait veri bulunamadı.</p>'; return; }
+        
+        const searchTerm = term.replace(/\./g, '');
+        const sonuclar = ilgiliFasil.pozisyonlar.filter(p => String(p['Pozisyon No']).replace(/\./g, '').startsWith(searchTerm));
+        renderTarifeResults(ilgiliFasil.notlar, sonuclar, `${term} için Sonuçlar`);
+    }
+
+    function tarifeKelimeIleAra(term) {
+        const lowerTerm = term.toLowerCase();
+        let sonuclar = [];
+        tarife_fasillar.forEach(fasil => {
+            fasil.pozisyonlar.forEach(p => {
+                if (String(p['Eşyanın Tanımı']).toLowerCase().includes(lowerTerm)) {
+                    sonuclar.push(p);
+                }
+            });
+        });
+        renderTarifeResults(null, sonuclar, `'${term}' için Sonuçlar`);
+    }
+
+    function renderTarifeResults(notes, positions, title) {
+        const sonuclarDiv = document.getElementById('tarifeSonuclar');
+        let html = `<h3>${title}</h3>`;
+        if (notes) {
+            html += `<div class="fasıl-notu"><h4>Fasıl Notları</h4><p>${notes}</p></div>`;
+        }
+        if (positions && positions.length > 0) {
+            html += '<table class="pozisyon-table"><thead><tr><th>GTİP</th><th>Açıklama</th></tr></thead><tbody>';
+            positions.forEach(p => {
+                if (p['Pozisyon No'] || p['Eşyanın Tanımı']) {
+                    html += `<tr><td>${p['Pozisyon No']}</td><td>${p['Eşyanın Tanımı']}</td></tr>`;
+                }
+            });
+            html += '</tbody></table>';
+        } else {
+            html += '<p>Eşleşen sonuç bulunamadı.</p>';
+        }
+        sonuclarDiv.innerHTML = html;
+    }
+    
+    // Tarife sekmesine tıklandığında motoru başlatmak için event listener ekle
+    const tarifeTabButton = document.querySelector('.tab-button[data-tab="tarife_arama"]');
+    if(tarifeTabButton) {
+        tarifeTabButton.addEventListener('click', initTarifeMotoru);
+    }
+</script>
+
+</body>
+</html>
